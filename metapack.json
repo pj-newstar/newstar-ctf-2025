@@ -3,13 +3,8 @@
     "id": 1,
     "name": "Pwn's Door",
     "description": "Key 已经为进入 Pwn 的世界做好了充分准备。他找到了可靠的伙伴，猫猫 NetCat 和蟒蛇 Python，还为 Python 配备了强大的工具 pwntools\n\n有了这些，他相信自己一定能顺利通过考验\n",
-    "category": [
-      "Week1",
-      "Pwn"
-    ],
-    "tags": [
-      "nc"
-    ],
+    "category": ["Week1", "Pwn"],
+    "tags": ["nc"],
     "author": "Findkey",
     "attachments": [
       "https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment_week1/w1.pwn.hacker-door.zip"
@@ -35,24 +30,15 @@
     "answer": null,
     "difficulty": 0,
     "extra": {
-      "inspectors": [
-        "L1nk",
-        "Sally",
-        "sysNow"
-      ]
+      "inspectors": ["L1nk", "Sally", "sysNow"]
     }
   },
   {
     "id": 2,
     "name": "GNU Debugger",
     "description": "进入 Pwn 的世界之后的第一关，了解你的好伙伴 GDB\n",
-    "category": [
-      "Week1",
-      "Pwn"
-    ],
-    "tags": [
-      "GDB"
-    ],
+    "category": ["Week1", "Pwn"],
+    "tags": ["GDB"],
     "author": "L1nk",
     "attachments": [
       "https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment_week1/w1.pwn.gnu-debugger.zip"
@@ -78,23 +64,15 @@
     "answer": null,
     "difficulty": 1,
     "extra": {
-      "inspectors": [
-        "s1eepy",
-        "KAMIYA"
-      ]
+      "inspectors": ["s1eepy", "KAMIYA"]
     }
   },
   {
     "id": 3,
     "name": "INTbug",
     "description": "整数好像有些奇怪的秘密。\n",
-    "category": [
-      "Week1",
-      "Pwn"
-    ],
-    "tags": [
-      "整数溢出"
-    ],
+    "category": ["Week1", "Pwn"],
+    "tags": ["整数溢出"],
     "author": "s1eepy",
     "attachments": [
       "https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment_week1/w1.pwn.intbug.zip"
@@ -120,24 +98,15 @@
     "answer": null,
     "difficulty": 1,
     "extra": {
-      "inspectors": [
-        "sysNow",
-        "daimi",
-        "L1nk"
-      ]
+      "inspectors": ["sysNow", "daimi", "L1nk"]
     }
   },
   {
     "id": 4,
     "name": "overflow",
     "description": "咦？程序好像有后门，但是执行不到怎么办呢？\n",
-    "category": [
-      "Week1",
-      "Pwn"
-    ],
-    "tags": [
-      "栈溢出"
-    ],
+    "category": ["Week1", "Pwn"],
+    "tags": ["栈溢出"],
     "author": "Sally",
     "attachments": [
       "https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment_week1/w1.pwn.overflow.zip"
@@ -163,24 +132,15 @@
     "answer": null,
     "difficulty": 2,
     "extra": {
-      "inspectors": [
-        "sysNow",
-        "Findkey",
-        "s1eepy"
-      ]
+      "inspectors": ["sysNow", "Findkey", "s1eepy"]
     }
   },
   {
     "id": 5,
     "name": "input_function",
     "description": "什么？要输入一个函数？\n",
-    "category": [
-      "Week1",
-      "Pwn"
-    ],
-    "tags": [
-      "shellcode"
-    ],
+    "category": ["Week1", "Pwn"],
+    "tags": ["shellcode"],
     "author": "sysNow",
     "attachments": [
       "https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment_week1/w1.pwn.input-function.zip"
@@ -206,49 +166,30 @@
     "answer": null,
     "difficulty": 3,
     "extra": {
-      "inspectors": [
-        "Findkey",
-        "L1nk",
-        "Sally"
-      ]
+      "inspectors": ["Findkey", "L1nk", "Sally"]
     }
   },
   {
     "id": 6,
     "name": "X0r",
     "description": "no xor，no encrypt.\n",
-    "category": [
-      "Week1",
-      "Reverse"
-    ],
-    "tags": [
-      "异或"
-    ],
+    "category": ["Week1", "Reverse"],
+    "tags": ["异或"],
     "author": "Eleven.",
-    "attachments": [
-      "https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment_week1/w1.rev.x0r.zip"
-    ],
+    "attachments": ["https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment_week1/w1.rev.x0r.zip"],
     "services": [],
     "answer": "flag{y0u_Kn0W_b4s1C_xOr}",
     "difficulty": 0,
     "extra": {
-      "inspectors": [
-        "Sh4mar3",
-        "KAMIYA"
-      ]
+      "inspectors": ["Sh4mar3", "KAMIYA"]
     }
   },
   {
     "id": 7,
     "name": "EzMyDroid",
     "description": "普普通通的安卓逆向，请准备好 Jadx.\n",
-    "category": [
-      "Week1",
-      "Reverse"
-    ],
-    "tags": [
-      "标准 AES"
-    ],
+    "category": ["Week1", "Reverse"],
+    "tags": ["标准 AES"],
     "author": "PangBai",
     "attachments": [
       "https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment_week1/w1.rev.ezmydroid.zip"
@@ -257,22 +198,15 @@
     "answer": "flag{@_g00d_st@r7_f0r_ANDROID}",
     "difficulty": 1,
     "extra": {
-      "inspectors": [
-        "KAMIYA"
-      ]
+      "inspectors": ["KAMIYA"]
     }
   },
   {
     "id": 8,
     "name": "Puzzle",
     "description": "咦？存在于这个程序中的 FLAG 貌似被人打碎了。你能找到 FLAG 的碎片并拼凑出完整的 FLAG 吗？\n",
-    "category": [
-      "Week1",
-      "Reverse"
-    ],
-    "tags": [
-      "字符串搜索"
-    ],
+    "category": ["Week1", "Reverse"],
+    "tags": ["字符串搜索"],
     "author": "Eleven.",
     "attachments": [
       "https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment_week1/w1.rev.puzzle.zip"
@@ -281,22 +215,15 @@
     "answer": "flag{Do_Y0u_Like_7his_Jigs@w_puzz1e_Gam3}",
     "difficulty": 1,
     "extra": {
-      "inspectors": [
-        "KAMIYA"
-      ]
+      "inspectors": ["KAMIYA"]
     }
   },
   {
     "id": 9,
     "name": "plzdebugme",
     "description": "动态调试是学习逆向必不可少的一部分 :)\n",
-    "category": [
-      "Week1",
-      "Reverse"
-    ],
-    "tags": [
-      "动态调试"
-    ],
+    "category": ["Week1", "Reverse"],
+    "tags": ["动态调试"],
     "author": "Samsara",
     "attachments": [
       "https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment_week1/w1.rev.plzdebugme.zip"
@@ -305,24 +232,15 @@
     "answer": "flag{It3_D3bugG_T11me!_le3_play}",
     "difficulty": 2,
     "extra": {
-      "inspectors": [
-        "AstralPrisma",
-        "KAMIYA",
-        "Sh4mar3"
-      ]
+      "inspectors": ["AstralPrisma", "KAMIYA", "Sh4mar3"]
     }
   },
   {
     "id": 10,
     "name": "Strange Base",
     "description": "奇怪？这 Base64 为什么不能一把梭了？\n",
-    "category": [
-      "Week1",
-      "Reverse"
-    ],
-    "tags": [
-      "Base 编码"
-    ],
+    "category": ["Week1", "Reverse"],
+    "tags": ["Base 编码"],
     "author": "JSnow",
     "attachments": [
       "https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment_week1/w1.rev.strange-base.7z"
@@ -331,22 +249,15 @@
     "answer": "flag{Wh4t_a_cra2y_8as3!!!}",
     "difficulty": 2,
     "extra": {
-      "inspectors": [
-        "KAMIYA"
-      ]
+      "inspectors": ["KAMIYA"]
     }
   },
   {
     "id": 11,
     "name": "别笑，你也过不了第二关",
     "description": "不是哥们，说白了你有啥实力啊\n\n过关不是简简单单\n",
-    "category": [
-      "Week1",
-      "Web"
-    ],
-    "tags": [
-      "前端"
-    ],
+    "category": ["Week1", "Web"],
+    "tags": ["前端"],
     "author": "rea1ity",
     "attachments": [],
     "services": [
@@ -370,24 +281,15 @@
     "answer": null,
     "difficulty": 1,
     "extra": {
-      "inspectors": [
-        "xNftrOne",
-        "wsh_",
-        "归茛"
-      ]
+      "inspectors": ["xNftrOne", "wsh_", "归茛"]
     }
   },
   {
     "id": 12,
     "name": "宇宙的中心是 PHP",
     "description": "所有光线都逃不出去……我知道这不会难倒你的。\n",
-    "category": [
-      "Week1",
-      "Web"
-    ],
-    "tags": [
-      "PHP"
-    ],
+    "category": ["Week1", "Web"],
+    "tags": ["PHP"],
     "author": "xNftrOne",
     "attachments": [],
     "services": [
@@ -411,24 +313,15 @@
     "answer": null,
     "difficulty": 1,
     "extra": {
-      "inspectors": [
-        "Anchovy",
-        "KAMIYA",
-        "Cnily03"
-      ]
+      "inspectors": ["Anchovy", "KAMIYA", "Cnily03"]
     }
   },
   {
     "id": 13,
     "name": "multi-headach3",
     "description": "什么叫机器人控制了我的头？\n",
-    "category": [
-      "Week1",
-      "Web"
-    ],
-    "tags": [
-      "HTTP"
-    ],
+    "category": ["Week1", "Web"],
+    "tags": ["HTTP"],
     "author": "D0ubleD",
     "attachments": [],
     "services": [
@@ -452,24 +345,15 @@
     "answer": null,
     "difficulty": 1,
     "extra": {
-      "inspectors": [
-        "Anchovy",
-        "KAMIYA",
-        "Cnily03"
-      ]
+      "inspectors": ["Anchovy", "KAMIYA", "Cnily03"]
     }
   },
   {
     "id": 14,
     "name": "strange_login",
     "description": "我当然知道 1=1 了！？\n",
-    "category": [
-      "Week1",
-      "Web"
-    ],
-    "tags": [
-      "SQLi"
-    ],
+    "category": ["Week1", "Web"],
+    "tags": ["SQLi"],
     "author": "D0ubleD",
     "attachments": [],
     "services": [
@@ -493,24 +377,15 @@
     "answer": null,
     "difficulty": 1,
     "extra": {
-      "inspectors": [
-        "KAMIYA",
-        "Qu43ter",
-        "L4ne"
-      ]
+      "inspectors": ["KAMIYA", "Qu43ter", "L4ne"]
     }
   },
   {
     "id": 15,
     "name": "黑客小 W 的故事（1）",
     "description": "NewStar 的赛场上，小 W 被传送到了一个到处都是虫子的王国，在这里寻觅许久之后，他发现只有学会剑技（HTTP 协议）才能够离开这里。\n",
-    "category": [
-      "Week1",
-      "Web"
-    ],
-    "tags": [
-      "HTTP"
-    ],
+    "category": ["Week1", "Web"],
+    "tags": ["HTTP"],
     "author": "KAMIYA",
     "attachments": [],
     "services": [
@@ -534,24 +409,15 @@
     "answer": null,
     "difficulty": 2,
     "extra": {
-      "inspectors": [
-        "Anchovy",
-        "Qu43ter",
-        "wsh_"
-      ]
+      "inspectors": ["Anchovy", "Qu43ter", "wsh_"]
     }
   },
   {
     "id": 16,
     "name": "我真得控制你了",
     "description": "小小 Web 还不是简简单单？什么？你拿不下来？那我得好好控制控制你了哈！\n",
-    "category": [
-      "Week1",
-      "Web"
-    ],
-    "tags": [
-      "弱口令"
-    ],
+    "category": ["Week1", "Web"],
+    "tags": ["弱口令"],
     "author": "yunmeng",
     "attachments": [],
     "services": [
@@ -575,24 +441,15 @@
     "answer": null,
     "difficulty": 2,
     "extra": {
-      "inspectors": [
-        "KAMIYA",
-        "wsh_",
-        "xNftrOne"
-      ]
+      "inspectors": ["KAMIYA", "wsh_", "xNftrOne"]
     }
   },
   {
     "id": 17,
     "name": "初识 RSA",
     "description": "好像很标准，又好像不太标准（MD5 码怎么解呢？好像有在线工具）\n",
-    "category": [
-      "Week1",
-      "Crypto"
-    ],
-    "tags": [
-      "公钥密码"
-    ],
+    "category": ["Week1", "Crypto"],
+    "tags": ["公钥密码"],
     "author": "Hanson",
     "attachments": [
       "https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment_week1/w1.cry.rsa-intro.zip"
@@ -601,22 +458,15 @@
     "answer": "flag{W3lc0me_t0_4h3_w0rl4_0f_Cryptoooo!}",
     "difficulty": 1,
     "extra": {
-      "inspectors": [
-        "cathylin"
-      ]
+      "inspectors": ["cathylin"]
     }
   },
   {
     "id": 18,
     "name": "随机数之旅 1",
     "description": "真正的大中衔接 belike.\n",
-    "category": [
-      "Week1",
-      "Crypto"
-    ],
-    "tags": [
-      "流密码"
-    ],
+    "category": ["Week1", "Crypto"],
+    "tags": ["流密码"],
     "author": "cathylin",
     "attachments": [
       "https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment_week1/w1.cry.random-journey-1.rar"
@@ -625,23 +475,15 @@
     "answer": "flag{c3bc3ead-01e3-491b-aa2d-d2f042449fd6}",
     "difficulty": 1,
     "extra": {
-      "inspectors": [
-        "L1nk",
-        "Hanson"
-      ]
+      "inspectors": ["L1nk", "Hanson"]
     }
   },
   {
     "id": 19,
     "name": "SageMath 使用指南",
     "description": "使用 SageMath 运行程序以获得 FLAG.\n",
-    "category": [
-      "Week1",
-      "Crypto"
-    ],
-    "tags": [
-      "工具使用"
-    ],
+    "category": ["Week1", "Crypto"],
+    "tags": ["工具使用"],
     "author": "cathylin",
     "attachments": [
       "https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment_week1/w1.cry.sagemath-guide.rar"
@@ -650,23 +492,15 @@
     "answer": "flag{e142d08c-7e7d-43ed-b5ad-af51ffc512ee}",
     "difficulty": 1,
     "extra": {
-      "inspectors": [
-        "L1nk",
-        "Hanson"
-      ]
+      "inspectors": ["L1nk", "Hanson"]
     }
   },
   {
     "id": 20,
     "name": "唯一表示",
     "description": "不要把鸡蛋放在同一个篮子里。\n",
-    "category": [
-      "Week1",
-      "Crypto"
-    ],
-    "tags": [
-      "CRT"
-    ],
+    "category": ["Week1", "Crypto"],
+    "tags": ["CRT"],
     "author": "cathylin",
     "attachments": [
       "https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment_week1/w1.cry.unique-repr.rar"
@@ -675,23 +509,15 @@
     "answer": "flag{9c8589c2-aecb-4ec4-b027-654bc322e2d1}",
     "difficulty": 2,
     "extra": {
-      "inspectors": [
-        "willyz",
-        "Hanson"
-      ]
+      "inspectors": ["willyz", "Hanson"]
     }
   },
   {
     "id": 21,
     "name": "小跳蛙",
     "description": "青蛙会跳到哪里去呢？\n",
-    "category": [
-      "Week1",
-      "Crypto"
-    ],
-    "tags": [
-      "数论"
-    ],
+    "category": ["Week1", "Crypto"],
+    "tags": ["数论"],
     "author": "cathylin",
     "attachments": [
       "https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment_week1/w1.cry.little-frog.rar"
@@ -700,21 +526,14 @@
     "answer": "flag{Go0d_j0b_t0_Cl34r_thi5_Diff3r3nt_t45k_4_u}",
     "difficulty": 2,
     "extra": {
-      "inspectors": [
-        "L1nk",
-        "Hanson",
-        "KAMIYA"
-      ]
+      "inspectors": ["L1nk", "Hanson", "KAMIYA"]
     }
   },
   {
     "id": 22,
     "name": "Sign in",
     "description": "在遥远的未来，数字生命蓬勃发展，突然一场席卷全球的「数据大灾变」摧毁了旧世界的网络与物理基础架构。世界上残存的人类意识，在神秘组织「NewStar」的引导下，上传到了一个由纯粹代码与逻辑构建的虚拟大陆。\n\n这片大陆并非由山川河流构成，而是由无穷无尽的数据流、加密协议、运行中的程序和脆弱的系统接口编织而成。维持大陆稳定与进化的核心能量，是名为「FLAG」的能量组成。谁能掌握并夺取所有「FLAG」，谁就能重塑大陆的规则，甚至触及传说中的「ROOT 圣杯」一个据说能完全掌控甚至重塑虚拟世界（乃至可能恢复残存现实）的终极权限。\n\n「FLAG」蕴藏在由五大古老「技术城邦」守护的、遍布大陆的「挑战圣所」之中。每个圣所都代表着一种理解、操纵乃至征服虚拟世界的核心技术。这五大城邦，因其所精通的技术，形成了大陆上最主要的势力格局。\n\n接下来，神秘组织将为你发放进入虚拟大陆的能量碎片，请新来的挑战者们验证通过后选择一所挑战圣所开始新的冒险吧！\n\n`flag{Welcome_to_NewStar_CTF_2025!}`\n",
-    "category": [
-      "Week1",
-      "Misc"
-    ],
+    "category": ["Week1", "Misc"],
     "tags": [],
     "author": "willyz",
     "attachments": [],
@@ -729,13 +548,8 @@
     "id": 23,
     "name": "我不要革命失败",
     "description": "小吉的机械革命笔记本又双叒叕蓝屏了！这次他不想再坐以待毙！他发来了他在 `C:\\Windows\\Minidump\\` 下的蓝屏文件，请你帮忙分析一下，让机革摆脱舍友的歧视。听说大伙看蓝屏日志都用的是 WinDbg，操作也很简单，好像要敲什么 `!analyze -v`？\n",
-    "category": [
-      "Week1",
-      "Misc"
-    ],
-    "tags": [
-      "编码"
-    ],
+    "category": ["Week1", "Misc"],
+    "tags": ["编码"],
     "author": "kndye",
     "attachments": [
       "https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment_week1/w1.misc.no-revolution-fail.zip"
@@ -744,24 +558,15 @@
     "answer": "flag{CRITICAL_PROCESS_DIED_svchost.exe}",
     "difficulty": 1,
     "extra": {
-      "inspectors": [
-        "xNftrOne",
-        "Mrsh",
-        "KAMIYA"
-      ]
+      "inspectors": ["xNftrOne", "Mrsh", "KAMIYA"]
     }
   },
   {
     "id": 24,
     "name": "Misc 城邦：压缩术",
     "description": "欢迎挑战者们来到压缩术的考验关卡，本关考察压缩术的综合使用，请挑战者们通过 6 位密码门开始挑战吧！\n\n（要想使用压缩术，请先念咒语 `abcd...xyz0123...789`）\n",
-    "category": [
-      "Week1",
-      "Misc"
-    ],
-    "tags": [
-      "隐写"
-    ],
+    "category": ["Week1", "Misc"],
+    "tags": ["隐写"],
     "author": "willyz",
     "attachments": [
       "https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment_week1/w1.misc.compression-magic.zip"
@@ -770,23 +575,15 @@
     "answer": "flag{You_have_mastered_the_zip_magic!}",
     "difficulty": 1,
     "extra": {
-      "inspectors": [
-        "xNftrOne",
-        "Mrsh"
-      ]
+      "inspectors": ["xNftrOne", "Mrsh"]
     }
   },
   {
     "id": 25,
     "name": "OSINT：天空 belong",
     "description": "OSINT 是指通过公开可获取的信息源收集、分析和利用数据从互联网中提取有价值的信息，并最终将其转化为可操作的情报。\n\n请挑战者们通过 OSINT 技术，获取你想要的信息吧！\n\n> [!TIP] FLAG 格式\n>\n> `flag{航班号_照片拍摄时所在省份的省会城市_拍摄设备的制造商}`，制造商为英文（首字母大写）\n>\n> 例：`flag{AB1234_北京市_Huawei}`\n",
-    "category": [
-      "Week1",
-      "Misc"
-    ],
-    "tags": [
-      "OSINT"
-    ],
+    "category": ["Week1", "Misc"],
+    "tags": ["OSINT"],
     "author": "willyz",
     "attachments": [
       "https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment_week1/w1.misc.osint-sky-belong.zip"
@@ -795,23 +592,15 @@
     "answer": "flag{UQ3574_武汉市_Xiaomi}",
     "difficulty": 1,
     "extra": {
-      "inspectors": [
-        "KAMIYA",
-        "Mrsh"
-      ]
+      "inspectors": ["KAMIYA", "Mrsh"]
     }
   },
   {
     "id": 26,
     "name": "EZ_fence",
     "description": "RAR 发现一张残缺的照片竟然需 要 4 颗钉子才能钉住，照片里面似乎藏着秘密。\n",
-    "category": [
-      "Week1",
-      "Misc"
-    ],
-    "tags": [
-      "隐写"
-    ],
+    "category": ["Week1", "Misc"],
+    "tags": ["隐写"],
     "author": "Muzhi",
     "attachments": [
       "https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment_week1/w1.misc.ez-fence.rar"
@@ -820,25 +609,15 @@
     "answer": "flag{y0u_kn0w_ez_fence_tuzh0ng}",
     "difficulty": 2,
     "extra": {
-      "inspectors": [
-        "Daybreak",
-        "kndye",
-        "Mrsh"
-      ]
+      "inspectors": ["Daybreak", "kndye", "Mrsh"]
     }
   },
   {
     "id": 27,
     "name": "前有文字，所以搜索很有用",
     "description": "欢迎来到文字的世界！这里的字符，要么以你未曾想象过的方式排列，要么你根本都「看」不见。但是没有关系，这里是线上赛，我们不断网，尽情冲浪吧！\n\n> [!TIP]\n> Track2 的隐藏数据并没有被压缩，请不要使用 `-C`.\n",
-    "category": [
-      "Week1",
-      "Misc"
-    ],
-    "tags": [
-      "隐写",
-      "编码"
-    ],
+    "category": ["Week1", "Misc"],
+    "tags": ["隐写", "编码"],
     "author": "miko",
     "attachments": [
       "https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment_week1/w1.misc.search-is-useful.zip"
@@ -847,24 +626,15 @@
     "answer": "flag{you_0V3RC4ME_cH@1LenG3s}",
     "difficulty": 3,
     "extra": {
-      "inspectors": [
-        "xNftrOne",
-        "Mrsh",
-        "KAMIYA"
-      ]
+      "inspectors": ["xNftrOne", "Mrsh", "KAMIYA"]
     }
   },
   {
     "id": 28,
     "name": "刻在栈里的秘密",
     "description": "欢迎来到 x64 位餐厅！服务员 printf 先生有点健忘，他只能记住您菜单上的前 6 道菜（RDI, RSI, RDX...），再多就只能堆在摇摇晃晃的餐盘（栈）上了。更糟糕的是，他会把你写的菜单原封不动地大声念出来。\r\n\r\n你能设计一份别有用心的菜单，让他念着念着，就把秘密房间的密码念给你听吗？\n",
-    "category": [
-      "Week2",
-      "Pwn"
-    ],
-    "tags": [
-      "格式化字符串"
-    ],
+    "category": ["Week2", "Pwn"],
+    "tags": ["格式化字符串"],
     "author": "L1nk",
     "attachments": [],
     "services": [
@@ -888,24 +658,15 @@
     "answer": null,
     "difficulty": 1,
     "extra": {
-      "inspectors": [
-        "sysNow",
-        "Sally",
-        "KAMIYA"
-      ]
+      "inspectors": ["sysNow", "Sally", "KAMIYA"]
     }
   },
   {
     "id": 29,
     "name": "no shell",
     "description": "Key 在冒险时误入了一个秘境，这里设有一种名为 sandbox 的阵法，他发现不能再像以前一样夺取秘境控制权，但是他仍然发现了获取 FLAG 的方法。\n",
-    "category": [
-      "Week2",
-      "Pwn"
-    ],
-    "tags": [
-      "orw"
-    ],
+    "category": ["Week2", "Pwn"],
+    "tags": ["orw"],
     "author": "Findkey",
     "attachments": [
       "https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment_week2/w2.pwn.no-shell.zip"
@@ -931,24 +692,15 @@
     "answer": null,
     "difficulty": 1,
     "extra": {
-      "inspectors": [
-        "sysNow",
-        "s1eepy",
-        "Sally"
-      ]
+      "inspectors": ["sysNow", "s1eepy", "Sally"]
     }
   },
   {
     "id": 30,
     "name": "syscall",
     "description": "远在 Hong Kong 的朋友常说「虽然世界给他关上了门，但同时又开了一扇窗」\n",
-    "category": [
-      "Week2",
-      "Pwn"
-    ],
-    "tags": [
-      "ret2syscall"
-    ],
+    "category": ["Week2", "Pwn"],
+    "tags": ["ret2syscall"],
     "author": "s1eepy",
     "attachments": [
       "https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment_week2/w2.pwn.syscall.zip"
@@ -974,24 +726,15 @@
     "answer": null,
     "difficulty": 1,
     "extra": {
-      "inspectors": [
-        "sysNow",
-        "L1nk",
-        "Sally"
-      ]
+      "inspectors": ["sysNow", "L1nk", "Sally"]
     }
   },
   {
     "id": 31,
     "name": "input_small_function",
     "description": "为什么能输入的字符这么少？\n",
-    "category": [
-      "Week2",
-      "Pwn"
-    ],
-    "tags": [
-      "shellcode"
-    ],
+    "category": ["Week2", "Pwn"],
+    "tags": ["shellcode"],
     "author": "sysNow",
     "attachments": [
       "https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment_week2/w2.pwn.input-small-function.zip"
@@ -1017,25 +760,15 @@
     "answer": null,
     "difficulty": 2,
     "extra": {
-      "inspectors": [
-        "L1nk",
-        "s1eepy",
-        "Sally"
-      ]
+      "inspectors": ["L1nk", "s1eepy", "Sally"]
     }
   },
   {
     "id": 32,
     "name": "calc_beta",
     "description": "一台 Beta 版的计算姬，根本没在市场上流通过……是怎么搞到它的？这个版本的计算姬还没实装计算功能，也没有人格。等等，这里貌似有一个……严重的漏洞？！！\n",
-    "category": [
-      "Week2",
-      "Pwn"
-    ],
-    "tags": [
-      "ret2libc",
-      "ret2csu"
-    ],
+    "category": ["Week2", "Pwn"],
+    "tags": ["ret2libc", "ret2csu"],
     "author": "daimi",
     "attachments": [
       "https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment_week2/w2.pwn.calc-beta.zip"
@@ -1061,24 +794,15 @@
     "answer": null,
     "difficulty": 3,
     "extra": {
-      "inspectors": [
-        "s1eepy",
-        "KAMIYA"
-      ]
+      "inspectors": ["s1eepy", "KAMIYA"]
     }
   },
   {
     "id": 33,
     "name": "尤皮·埃克斯历险记（1）",
     "description": "你是一个生活在希尔大陆的小有名气的骑士，有一天，一个自称代号「尤皮·埃克斯（UP·X）」的骑士找到你，「来和我切磋吧！」他朝你嚷道。\n\n「你有什么特殊本领或者特长吗？」\n\n「我『尤皮·埃克斯』盔甲非常精良，能保护我不被刀剑所伤，还会自动阻止试图解析我的盔甲的特殊能力的人！如果你不信，就来试试挑战我吧！」\n",
-    "category": [
-      "Week2",
-      "Reverse"
-    ],
-    "tags": [
-      "UPX",
-      "反调试"
-    ],
+    "category": ["Week2", "Reverse"],
+    "tags": ["UPX", "反调试"],
     "author": "AstralPrisma",
     "attachments": [
       "https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment_week2/w2.rev.yupi-ex-adventure-1.zip"
@@ -1087,23 +811,15 @@
     "answer": "flag{E4sy_R3v3rSe_e4Sy_eNcrypt10n}",
     "difficulty": 1,
     "extra": {
-      "inspectors": [
-        "JSnow",
-        "KAMIYA"
-      ]
+      "inspectors": ["JSnow", "KAMIYA"]
     }
   },
   {
     "id": 34,
     "name": "采一朵花，送给艾达（1）",
     "description": "哎呀我手动分析得了 MVP😄\n\nIDA 反汇编不出来，躺赢狗😡！\n",
-    "category": [
-      "Week2",
-      "Reverse"
-    ],
-    "tags": [
-      "花指令"
-    ],
+    "category": ["Week2", "Reverse"],
+    "tags": ["花指令"],
     "author": "AstralPrisma",
     "attachments": [
       "https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment_week2/w2.rev.flower-for-ada-1.zip"
@@ -1112,23 +828,15 @@
     "answer": "flag{Junk_C0d3s_4Re_345y_t0_rEc0gn1Ze!!}",
     "difficulty": 2,
     "extra": {
-      "inspectors": [
-        "Azusaq",
-        "KAMIYA"
-      ]
+      "inspectors": ["Azusaq", "KAMIYA"]
     }
   },
   {
     "id": 35,
     "name": "Forgotten_Code",
     "description": "在清理一台古老服务器的硬盘时，我们发现了这个来自旧时代的编程遗迹。当时的开发者喜欢与机器直接对话。我们很难直接解读它，但也许你能重新整理这份文件，让你手上的工具再次发挥作用……\n",
-    "category": [
-      "Week2",
-      "Reverse"
-    ],
-    "tags": [
-      "汇编"
-    ],
+    "category": ["Week2", "Reverse"],
+    "tags": ["汇编"],
     "author": "Azusaq",
     "attachments": [
       "https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment_week2/w2.rev.forgotten-code.zip"
@@ -1137,22 +845,15 @@
     "answer": "flag{4553m81y_5_s0o0o0_345y_jD5yQ5mD9}",
     "difficulty": 2,
     "extra": {
-      "inspectors": [
-        "KAMIYA"
-      ]
+      "inspectors": ["KAMIYA"]
     }
   },
   {
     "id": 36,
     "name": "Look at me carefully",
     "description": "真的需要仔细看吗？\n",
-    "category": [
-      "Week2",
-      "Reverse"
-    ],
-    "tags": [
-      "动态调试分析"
-    ],
+    "category": ["Week2", "Reverse"],
+    "tags": ["动态调试分析"],
     "author": "JSnow",
     "attachments": [
       "https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment_week2/w2.rev.look-carefully.7z"
@@ -1161,22 +862,15 @@
     "answer": "flag{H4ve_you_lo0ked_at_me_c1o5ely?}",
     "difficulty": 2,
     "extra": {
-      "inspectors": [
-        "KAMIYA"
-      ]
+      "inspectors": ["KAMIYA"]
     }
   },
   {
     "id": 37,
     "name": "OhNativeEnc",
     "description": "安卓的 native 代码在哪呢？\n",
-    "category": [
-      "Week2",
-      "Reverse"
-    ],
-    "tags": [
-      "XXTEA"
-    ],
+    "category": ["Week2", "Reverse"],
+    "tags": ["XXTEA"],
     "author": "PangBai",
     "attachments": [
       "https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment_week2/w2.rev.ohnativeenc.zip"
@@ -1185,23 +879,15 @@
     "answer": "flag{Ur_G00d_@_n@tive_Func}",
     "difficulty": 2,
     "extra": {
-      "inspectors": [
-        "Azusaq",
-        "KAMIYA"
-      ]
+      "inspectors": ["Azusaq", "KAMIYA"]
     }
   },
   {
     "id": 38,
     "name": "真的是签到诶",
     "description": "到了 Week2 的签到题目？？？\r\n\r\n真的是签到吗？真的是签到吗？真的是签到吗？\n",
-    "category": [
-      "Week2",
-      "Web"
-    ],
-    "tags": [
-      "编码绕过"
-    ],
+    "category": ["Week2", "Web"],
+    "tags": ["编码绕过"],
     "author": "KAMIYA",
     "attachments": [],
     "services": [
@@ -1225,22 +911,15 @@
     "answer": null,
     "difficulty": 0,
     "extra": {
-      "inspectors": [
-        "xNftrOne"
-      ]
+      "inspectors": ["xNftrOne"]
     }
   },
   {
     "id": 39,
     "name": "搞点哦润吉吃吃🍊",
     "description": "Doro 把自己最心爱的橘子放在了保险冰箱中，为了一探究竟这橘子有多稀奇，你决定打开这个保险装置，但是遇到一些棘手的问题……\n",
-    "category": [
-      "Week2",
-      "Web"
-    ],
-    "tags": [
-      "脚本编写"
-    ],
+    "category": ["Week2", "Web"],
+    "tags": ["脚本编写"],
     "author": "Qu43ter",
     "attachments": [],
     "services": [
@@ -1264,24 +943,15 @@
     "answer": null,
     "difficulty": 1,
     "extra": {
-      "inspectors": [
-        "KAMIYA",
-        "Anchovy",
-        "wsh_"
-      ]
+      "inspectors": ["KAMIYA", "Anchovy", "wsh_"]
     }
   },
   {
     "id": 40,
     "name": "DD 加速器",
     "description": "D 师傅在服务器上部署了一个加速器，并且提供一个页面来 ping 游戏服务器……\n",
-    "category": [
-      "Week2",
-      "Web"
-    ],
-    "tags": [
-      "RCE"
-    ],
+    "category": ["Week2", "Web"],
+    "tags": ["RCE"],
     "author": "D0ubleD",
     "attachments": [],
     "services": [
@@ -1305,24 +975,15 @@
     "answer": null,
     "difficulty": 1,
     "extra": {
-      "inspectors": [
-        "Anchovy",
-        "KAMIYA",
-        "wsh_"
-      ]
+      "inspectors": ["Anchovy", "KAMIYA", "wsh_"]
     }
   },
   {
     "id": 41,
     "name": "白帽小 K 的故事（1）",
     "description": "小 K 为了成为最强的 NewStar，在阴差阳错之下来到了索拉里斯大陆，被风暴席卷的她飞到了黑海岸。\r\n\r\n在那里，泰提斯系统突然发难，漂泊者拜托小 K 解决难题。\r\n\r\n为了成为最强 NewStar，小 K 毅然接受了挑战！\n",
-    "category": [
-      "Week2",
-      "Web"
-    ],
-    "tags": [
-      "文件上传"
-    ],
+    "category": ["Week2", "Web"],
+    "tags": ["文件上传"],
     "author": "KAMIYA",
     "attachments": [],
     "services": [
@@ -1346,24 +1007,15 @@
     "answer": null,
     "difficulty": 3,
     "extra": {
-      "inspectors": [
-        "wsh_",
-        "xNftrOne",
-        "ENOCH"
-      ]
+      "inspectors": ["wsh_", "xNftrOne", "ENOCH"]
     }
   },
   {
     "id": 42,
     "name": "小 E 的管理系统",
     "description": "小 E 开发了一个服务器管理系统，能实时监测服务器状态并显示出来。\r\n\r\n为了防止系统被入侵，小 E 特地给其中的查询功能上了防火墙，但是即便如此，这个系统依然脆弱不堪，只因为使用了原始的SQL拼接——你能绕过小 E 的防火墙，拿到数据库里的秘密吗？\n",
-    "category": [
-      "Week2",
-      "Web"
-    ],
-    "tags": [
-      "SQLi"
-    ],
+    "category": ["Week2", "Web"],
+    "tags": ["SQLi"],
     "author": "ENOCH",
     "attachments": [],
     "services": [
@@ -1387,23 +1039,15 @@
     "answer": null,
     "difficulty": 3,
     "extra": {
-      "inspectors": [
-        "KAMIYA",
-        "wsh_"
-      ]
+      "inspectors": ["KAMIYA", "wsh_"]
     }
   },
   {
     "id": 43,
     "name": "DLP_1",
     "description": "SageMath 中好像有现成的工具？\n",
-    "category": [
-      "Week2",
-      "Crypto"
-    ],
-    "tags": [
-      "离散对数"
-    ],
+    "category": ["Week2", "Crypto"],
+    "tags": ["离散对数"],
     "author": "Hanson",
     "attachments": [
       "https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment_week2/w2.cry.dlp-1.zip"
@@ -1412,22 +1056,15 @@
     "answer": "flag{I_l0v3_DLPPPPP^.^!}",
     "difficulty": 1,
     "extra": {
-      "inspectors": [
-        "cathylin"
-      ]
+      "inspectors": ["cathylin"]
     }
   },
   {
     "id": 44,
     "name": "FHE: 0&1",
     "description": "千里之堤，溃于蚁穴。\n",
-    "category": [
-      "Week2",
-      "Crypto"
-    ],
-    "tags": [
-      "具体分析"
-    ],
+    "category": ["Week2", "Crypto"],
+    "tags": ["具体分析"],
     "author": "cathylin",
     "attachments": [
       "https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment_week2/w2.cry.fhe-0-1.rar"
@@ -1436,22 +1073,15 @@
     "answer": "flag{3235c1ab-6830-480f-b5e0-39be40b94a7d}",
     "difficulty": 1,
     "extra": {
-      "inspectors": [
-        "Hanson"
-      ]
+      "inspectors": ["Hanson"]
     }
   },
   {
     "id": 45,
     "name": "群论小测试",
     "description": "扣「循环群」变成群论高手。\n",
-    "category": [
-      "Week2",
-      "Crypto"
-    ],
-    "tags": [
-      "群论"
-    ],
+    "category": ["Week2", "Crypto"],
+    "tags": ["群论"],
     "author": "cathylin",
     "attachments": [
       "https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment_week2/w2.cry.group-theory-quiz.rar"
@@ -1482,13 +1112,8 @@
     "id": 46,
     "name": "置换",
     "description": "我一看数学就头疼怎么办？\r\n\r\n> [!TIP]\r\n> 把解密出的文本用 `flag{}` 裹上提交\n",
-    "category": [
-      "Week2",
-      "Crypto"
-    ],
-    "tags": [
-      "古典"
-    ],
+    "category": ["Week2", "Crypto"],
+    "tags": ["古典"],
     "author": "cathylin",
     "attachments": [
       "https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment_week2/w2.cry.permutation.rar"
@@ -1497,22 +1122,15 @@
     "answer": "flag{SUCH_A_SIMPLE_PERMUTATION_WILL_DEFINITELY_NOT_STUMP_YOU.}",
     "difficulty": 2,
     "extra": {
-      "inspectors": [
-        "Hanson"
-      ]
+      "inspectors": ["Hanson"]
     }
   },
   {
     "id": 47,
     "name": "RSA_revenge",
     "description": "Fermat 和 Euler 在 Week1 被击败了，这次他们大大升级卷土重来，聪明的你掏出了骨传导耳机和爆破弹，你能打出漂亮的防守吗？\n\n> [!TIP]\n> 方法不止一种哦，聪明的你能想到吗？\n",
-    "category": [
-      "Week2",
-      "Crypto"
-    ],
-    "tags": [
-      "RSA"
-    ],
+    "category": ["Week2", "Crypto"],
+    "tags": ["RSA"],
     "author": "Hanson",
     "attachments": [
       "https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment_week2/w2.cry.rsa-revenge.zip"
@@ -1521,22 +1139,15 @@
     "answer": "flag{Ooooo6_y0u_kn0w_F3rm@t_and_Eu13r_v3ry_w3ll!!}",
     "difficulty": 3,
     "extra": {
-      "inspectors": [
-        "cathylin"
-      ]
+      "inspectors": ["cathylin"]
     }
   },
   {
     "id": 48,
     "name": "美妙的音乐",
     "description": "小明最近发现了一首好听的曲子，他把曲子发给你并邀请你一起欣赏，可是这个曲子似乎有什么不对劲的地方？\n",
-    "category": [
-      "Week2",
-      "Misc"
-    ],
-    "tags": [
-      "音频隐写"
-    ],
+    "category": ["Week2", "Misc"],
+    "tags": ["音频隐写"],
     "author": "AstralPrisma",
     "attachments": [
       "https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment_week2/w2.misc.beautiful-music.zip"
@@ -1545,24 +1156,15 @@
     "answer": "flag{thi5_1S_m1Di_5tEG0}",
     "difficulty": 1,
     "extra": {
-      "inspectors": [
-        "Mrsh",
-        "miko",
-        "willyz"
-      ]
+      "inspectors": ["Mrsh", "miko", "willyz"]
     }
   },
   {
     "id": 49,
     "name": "日志分析：不敬者的闯入",
     "description": "在中国人民抗日战争暨世界反法西斯战争胜利 80 周年前夕，城邦的临时工搭建了一个纪念网站，帮助人们恢复记忆。\n\n一些不法分子妄图破坏新世界的记忆，企图摧毁网站，幸好临时工及时止损关闭了该网站的服务，才保住了历史的记忆。\n\n请挑战者们通过保留的网站日志，帮助临时工找到不敬者的木马威胁，让临时工能保住这份来之不易的工作吧！\n",
-    "category": [
-      "Week2",
-      "Misc"
-    ],
-    "tags": [
-      "日志分析"
-    ],
+    "category": ["Week2", "Misc"],
+    "tags": ["日志分析"],
     "author": "willyz",
     "attachments": [
       "https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment_week2/w2.misc.log-intrusion.zip"
@@ -1588,22 +1190,15 @@
     "answer": null,
     "difficulty": 1,
     "extra": {
-      "inspectors": [
-        "miko"
-      ]
+      "inspectors": ["miko"]
     }
   },
   {
     "id": 50,
     "name": "OSINT：威胁情报",
     "description": "城邦受到了未知 APT 组织的攻击，目前已解除威胁，但留下了恶意文件的 hash 值。\n\n为了以后的安全，请 NewStar 们进行调查，帮助城邦们完善威胁情报吧！\n\n> [!TIP] FLAG 格式\n>\n> `flag{APT组织名称_通信C2服务器域名_恶意文件编译时间(年-月-日)}`，所有字母全部小写\n>\n> 例：`flag{newstar_example.com_2025-09-29}`\n",
-    "category": [
-      "Week2",
-      "Misc"
-    ],
-    "tags": [
-      "OSINT"
-    ],
+    "category": ["Week2", "Misc"],
+    "tags": ["OSINT"],
     "author": "willyz",
     "attachments": [
       "https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment_week2/w2.misc.osint-threat-intel.zip"
@@ -1612,23 +1207,15 @@
     "answer": "flag{kimsuky_alps.travelmountain.ml_2021-03-31}",
     "difficulty": 1,
     "extra": {
-      "inspectors": [
-        "Mrsh",
-        "miko"
-      ]
+      "inspectors": ["Mrsh", "miko"]
     }
   },
   {
     "id": 51,
     "name": "星期四的狂想",
     "description": "怎么又是星期四，一到星期四群里就出现了各种稀奇古怪的星期四文案。\n\n最近 KAMIYA 的服务器被人植入了星期四文案，让 KAMIYA 甚是苦恼。\n\n好在他把流量截取下来了，你来帮他看看吧。\n",
-    "category": [
-      "Week2",
-      "Misc"
-    ],
-    "tags": [
-      "流量分析"
-    ],
+    "category": ["Week2", "Misc"],
+    "tags": ["流量分析"],
     "author": "KAMIYA",
     "attachments": [
       "https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment_week2/w2.misc.thursday-rhapsody.zip"
@@ -1637,23 +1224,15 @@
     "answer": "flag{What_1S_tHuSd4y_Quickly_VIVO50}",
     "difficulty": 3,
     "extra": {
-      "inspectors": [
-        "miko",
-        "Mrsh"
-      ]
+      "inspectors": ["miko", "Mrsh"]
     }
   },
   {
     "id": 52,
     "name": "Misc 城邦：NewKeyboard",
     "description": "欢迎挑战者们来到第二周的 Misc 考核，本关由手持 Keyboard 的侍卫看守能量核心，请挑战者们通过分析侍卫发出的流量获取最终的 FLAG 吧！\n",
-    "category": [
-      "Week2",
-      "Misc"
-    ],
-    "tags": [
-      "流量分析"
-    ],
+    "category": ["Week2", "Misc"],
+    "tags": ["流量分析"],
     "author": "willyz",
     "attachments": [
       "https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment_week2/w2.misc.newkeyboard.zip"
@@ -1662,24 +1241,15 @@
     "answer": "flag{th1s_is_newkeyboard_y0u_get_it!}",
     "difficulty": 3,
     "extra": {
-      "inspectors": [
-        "miko",
-        "Mrsh"
-      ]
+      "inspectors": ["miko", "Mrsh"]
     }
   },
   {
     "id": 53,
     "name": "fmt&canary",
     "description": "在锈蚀纪元的废墟中，你发现了一台被称为「密语回声洞」的古老装置。据传说，它曾是一位伟大守护者的忠实信使，能够完美复述任何听到的话语，并用一只能量金丝雀守护着核心深处的秘密。\n",
-    "category": [
-      "Week3",
-      "Pwn"
-    ],
-    "tags": [
-      "格式化字符串",
-      "canary"
-    ],
+    "category": ["Week3", "Pwn"],
+    "tags": ["格式化字符串", "canary"],
     "author": "L1nk",
     "attachments": [
       "https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment_week3/w3.pwn.fmt-canary.zip"
@@ -1705,24 +1275,15 @@
     "answer": null,
     "difficulty": 1,
     "extra": {
-      "inspectors": [
-        "s1eepy",
-        "Zeriah"
-      ]
+      "inspectors": ["s1eepy", "Zeriah"]
     }
   },
   {
     "id": 54,
     "name": "sandbox_plus",
     "description": "sandbox!!! 我知道了，要用 orw.\n\n但是……为什么 open read write 都被禁用了？？？！！！\n",
-    "category": [
-      "Week3",
-      "Pwn"
-    ],
-    "tags": [
-      "shellcode",
-      "orw"
-    ],
+    "category": ["Week3", "Pwn"],
+    "tags": ["shellcode", "orw"],
     "author": "sysNow",
     "attachments": [
       "https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment_week3/w3.pwn.sandbox-plus.zip"
@@ -1748,25 +1309,15 @@
     "answer": null,
     "difficulty": 2,
     "extra": {
-      "inspectors": [
-        "L1nk",
-        "s1eepy",
-        "Zeriah"
-      ]
+      "inspectors": ["L1nk", "s1eepy", "Zeriah"]
     }
   },
   {
     "id": 55,
     "name": "小的明？题问",
     "description": "小明不幸地遇到了一个问题。小明尝试用多线程来解决这个问题。现小明在遇不幸地两到了问题个。\n",
-    "category": [
-      "Week3",
-      "Pwn"
-    ],
-    "tags": [
-      "多线程",
-      "代码审计"
-    ],
+    "category": ["Week3", "Pwn"],
+    "tags": ["多线程", "代码审计"],
     "author": "daimi",
     "attachments": [
       "https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment_week3/w3.pwn.xiaoming-question.zip"
@@ -1799,14 +1350,8 @@
     "id": 56,
     "name": "calc_meow",
     "description": "产品介绍：\n\n一个……一个普通的计算喵。怎么，怎么你是这个表情喵……呜呜，我真的很努力算了喵……什么，那两个 meow 开头的函数？（脸红）我……我不知道的说……\n",
-    "category": [
-      "Week3",
-      "Pwn"
-    ],
-    "tags": [
-      "ret2text",
-      "ret2libc"
-    ],
+    "category": ["Week3", "Pwn"],
+    "tags": ["ret2text", "ret2libc"],
     "author": "daimi",
     "attachments": [
       "https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment_week3/w3.pwn.calc-meow.zip"
@@ -1839,15 +1384,8 @@
     "id": 57,
     "name": "only_read",
     "description": "什么？！没有输出？那要怎么拿 FLAG 啊😭😭😭\n",
-    "category": [
-      "Week3",
-      "Pwn"
-    ],
-    "tags": [
-      "srop",
-      "栈迁移",
-      "orw"
-    ],
+    "category": ["Week3", "Pwn"],
+    "tags": ["srop", "栈迁移", "orw"],
     "author": "Sally",
     "attachments": [
       "https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment_week3/w3.pwn.only-read.zip"
@@ -1873,22 +1411,15 @@
     "answer": null,
     "difficulty": 3,
     "extra": {
-      "inspectors": [
-        "Findkey"
-      ]
+      "inspectors": ["Findkey"]
     }
   },
   {
     "id": 58,
     "name": "pyz3",
     "description": "这一坨是什么啊，如果有约束求解器就好了……\n",
-    "category": [
-      "Week3",
-      "Reverse"
-    ],
-    "tags": [
-      "pyc"
-    ],
+    "category": ["Week3", "Reverse"],
+    "tags": ["pyc"],
     "author": "Azusaq",
     "attachments": [
       "https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment_week3/w3.rev.pyz3.zip"
@@ -1897,22 +1428,15 @@
     "answer": "flag{PytH0n_R3v3rs1Ng_4nd_Z3_s0lV3r}",
     "difficulty": 1,
     "extra": {
-      "inspectors": [
-        "AstralPrisma"
-      ]
+      "inspectors": ["AstralPrisma"]
     }
   },
   {
     "id": 59,
     "name": "采一朵花，送给艾达（2）",
     "description": "我要采一朵花，送给 IDA😊\n\nIDA IDA，你看，有花😊\n\n函数反编译成功了没有😡！\n\n啊😭哈😭\n\n我只是想给你看看这个花😭\n\n很好玩而已呀😭\n",
-    "category": [
-      "Week3",
-      "Reverse"
-    ],
-    "tags": [
-      "花指令"
-    ],
+    "category": ["Week3", "Reverse"],
+    "tags": ["花指令"],
     "author": "AstralPrisma",
     "attachments": [
       "https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment_week3/w3.rev.flower-for-ada-2.zip"
@@ -1921,24 +1445,15 @@
     "answer": "flag{WO0o0O0w_So0Oo0o_m4Ny_F1oO0o0oW3R5}",
     "difficulty": 2,
     "extra": {
-      "inspectors": [
-        "JSnow",
-        "Azusaq"
-      ]
+      "inspectors": ["JSnow", "Azusaq"]
     }
   },
   {
     "id": 60,
     "name": "谁改了我的密钥啊",
     "description": "你知道 `so` 加载会执行哪些函数吗？\n",
-    "category": [
-      "Week3",
-      "Reverse"
-    ],
-    "tags": [
-      "动态注册",
-      "init"
-    ],
+    "category": ["Week3", "Reverse"],
+    "tags": ["动态注册", "init"],
     "author": "PangBai",
     "attachments": [
       "https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment_week3/w3.rev.who-changed-key.zip"
@@ -1947,23 +1462,15 @@
     "answer": "flag{in1t_Rev__}",
     "difficulty": 2,
     "extra": {
-      "inspectors": [
-        "Azusaq"
-      ]
+      "inspectors": ["Azusaq"]
     }
   },
   {
     "id": 61,
     "name": "尤皮·埃克斯历险记（2）",
     "description": "你击败尤皮·埃克斯后，和他结交成了很好的朋友。过了不久，尤皮·埃克斯又来找到你，你惊讶地发现他变成了二维的，好像被砸扁了一样。\n\n「我的天，你这是怎么了？怎么变成这个样子了？」\n\n「一言难尽，我中了敌人的『平坦化』和『字符替换』诅咒，现在的我不仅被『降维打击』了，甚至也无法解析我自己的盔甲了，你能帮帮我吗？」\n",
-    "category": [
-      "Week3",
-      "Reverse"
-    ],
-    "tags": [
-      "UPX",
-      "平坦化混淆"
-    ],
+    "category": ["Week3", "Reverse"],
+    "tags": ["UPX", "平坦化混淆"],
     "author": "AstralPrisma",
     "attachments": [
       "https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment_week3/w3.rev.yupi-ex-adventure-2.zip"
@@ -1972,23 +1479,15 @@
     "answer": "flag{CoN7r0l_F10w_F14t73n1nG_C4N_b3_c0NfU5iNg!!}",
     "difficulty": 3,
     "extra": {
-      "inspectors": [
-        "Azusaq"
-      ]
+      "inspectors": ["Azusaq"]
     }
   },
   {
     "id": 62,
     "name": "Dancing Functions",
     "description": "加密函数怎么变来变去的🤔？\n\n你能找到真正的加密函数吗😊？\n",
-    "category": [
-      "Week3",
-      "Reverse"
-    ],
-    "tags": [
-      "SMC",
-      "Hook"
-    ],
+    "category": ["Week3", "Reverse"],
+    "tags": ["SMC", "Hook"],
     "author": "AstralPrisma",
     "attachments": [
       "https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment_week3/w3.rev.dancing-functions.zip"
@@ -2004,13 +1503,8 @@
     "id": 63,
     "name": "小 E 的秘密计划",
     "description": "小 E 最近在秘密研发一个代号为「Project X」的系统。然而，小 E 在开发和部署过程中，习惯性地留下了许多「不经意」的痕迹——无论是临时的备份，还是版本管理上的小疏忽，甚至是 Mac 系统自动生成的文件，都可能成为你解开「Project X」秘密的关键……\n",
-    "category": [
-      "Week3",
-      "Web"
-    ],
-    "tags": [
-      "数据泄露"
-    ],
+    "category": ["Week3", "Web"],
+    "tags": ["数据泄露"],
     "author": "ENOCH",
     "attachments": [],
     "services": [
@@ -2034,24 +1528,15 @@
     "answer": null,
     "difficulty": 1,
     "extra": {
-      "inspectors": [
-        "xNftrOne",
-        "wsh_",
-        "归茛"
-      ]
+      "inspectors": ["xNftrOne", "wsh_", "归茛"]
     }
   },
   {
     "id": 64,
     "name": "ez-chain",
     "description": "铁索连环！无懈可击…?\n",
-    "category": [
-      "Week3",
-      "Web"
-    ],
-    "tags": [
-      "PHP"
-    ],
+    "category": ["Week3", "Web"],
+    "tags": ["PHP"],
     "author": "D0ubleD",
     "attachments": [],
     "services": [
@@ -2075,24 +1560,15 @@
     "answer": null,
     "difficulty": 1,
     "extra": {
-      "inspectors": [
-        "xNftrOne",
-        "归茛",
-        "KAMIYA"
-      ]
+      "inspectors": ["xNftrOne", "归茛", "KAMIYA"]
     }
   },
   {
     "id": 65,
     "name": "MyGO!!!",
     "description": "MyGo 的音乐好好听，要全部下下来，FLAG 也可以顺手（\n",
-    "category": [
-      "Week3",
-      "Web"
-    ],
-    "tags": [
-      "SSRF"
-    ],
+    "category": ["Week3", "Web"],
+    "tags": ["SSRF"],
     "author": "rea1ity",
     "attachments": [],
     "services": [
@@ -2116,24 +1592,15 @@
     "answer": null,
     "difficulty": 1,
     "extra": {
-      "inspectors": [
-        "wsh_",
-        "KAMIYA",
-        "xNftrOne"
-      ]
+      "inspectors": ["wsh_", "KAMIYA", "xNftrOne"]
     }
   },
   {
     "id": 66,
     "name": "白帽小 K 的故事（2）",
     "description": "小 K 在泰拉大陆上漫步的过程中，遇到了形形色色的人，她把这些人记录在了她的超维空间数据库中。但是突生变故让她丢失了终端的控制权，只留下了备用终端。可是这个终端只有一个检查用户状态的接口，只有获取到数据库中的神秘代码才能够重新夺回控制权。\n\n帮她夺回权限吧！\n",
-    "category": [
-      "Week3",
-      "Web"
-    ],
-    "tags": [
-      "SQLi"
-    ],
+    "category": ["Week3", "Web"],
+    "tags": ["SQLi"],
     "author": "KAMIYA",
     "attachments": [],
     "services": [
@@ -2157,24 +1624,15 @@
     "answer": null,
     "difficulty": 2,
     "extra": {
-      "inspectors": [
-        "ENOCH",
-        "wsh_",
-        "D0ubleD"
-      ]
+      "inspectors": ["ENOCH", "wsh_", "D0ubleD"]
     }
   },
   {
     "id": 67,
     "name": "mirror_gate",
     "description": "小 M 是一名安全爱好者，他为自己搭建了一个个人文件上传服务。他声称：「我的服务器只允许上传合法且安全的文件，其他任何类型的文件都会被无情地拒绝！」\n\n然而，真的是这样吗？请设法找出他系统中的应用配置缺陷，突破上传限制。\n",
-    "category": [
-      "Week3",
-      "Web"
-    ],
-    "tags": [
-      "文件上传"
-    ],
+    "category": ["Week3", "Web"],
+    "tags": ["文件上传"],
     "author": "Icesugar",
     "attachments": [],
     "services": [
@@ -2198,24 +1656,15 @@
     "answer": null,
     "difficulty": 2,
     "extra": {
-      "inspectors": [
-        "KAMIYA",
-        "xNftrOne",
-        "wsh_"
-      ]
+      "inspectors": ["KAMIYA", "xNftrOne", "wsh_"]
     }
   },
   {
     "id": 68,
     "name": "who'ssti",
     "description": "写代码的时候调试忘记删了！？算了不管了！S 属性大爆发！快来和我一起 SSTI 吧！\n",
-    "category": [
-      "Week3",
-      "Web"
-    ],
-    "tags": [
-      "SSTI"
-    ],
+    "category": ["Week3", "Web"],
+    "tags": ["SSTI"],
     "author": "KAMIYA",
     "attachments": [
       "https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment_week3/w3.web.whossti.zip"
@@ -2241,24 +1690,15 @@
     "answer": null,
     "difficulty": 2,
     "extra": {
-      "inspectors": [
-        "wsh_",
-        "Icesugar",
-        "D0ubleD"
-      ]
+      "inspectors": ["wsh_", "Icesugar", "D0ubleD"]
     }
   },
   {
     "id": 69,
     "name": "CBC 之舞",
     "description": "我们截获了一个名为「影子信使」的间谍组织的两段通信。该组织使用一种定制的 AES-CBC 加密方案，据称其「混淆层」能有效地将明文「打乱」，使得即使获得额外一对明密文对，也无法推断出其他信息。\n\n然而，我们的分析师在研究这两段通信时，发现了一个惊人的规律。第一段通信的密文 $c_1$ 和第二段通信的密文 $c_2$ 之间，存在着一种奇特的「排列」关系。\n",
-    "category": [
-      "Week3",
-      "Crypto"
-    ],
-    "tags": [
-      "AES-CBC"
-    ],
+    "category": ["Week3", "Crypto"],
+    "tags": ["AES-CBC"],
     "author": "gloriablack",
     "attachments": [
       "https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment_week3/w3.cry.cbc-dance.zip"
@@ -2267,22 +1707,15 @@
     "answer": "flag{cbc_dancing_1s_the_best_XD_miaowu~_wangang~}",
     "difficulty": 1,
     "extra": {
-      "inspectors": [
-        "Hanson"
-      ]
+      "inspectors": ["Hanson"]
     }
   },
   {
     "id": 70,
     "name": "被泄露的素数",
     "description": "Alice 使用 RSA 加密了一个重要消息，但攻击者通过侧信道攻击得到了素数 $p$ 的高位部分（大约前 2/3 比特，可能有泄露和错误）。\n\n你能利用 Copper Smith 方法恢复完整的 $p$，并解密出消息吗？\n",
-    "category": [
-      "Week3",
-      "Crypto"
-    ],
-    "tags": [
-      "CopperSmith"
-    ],
+    "category": ["Week3", "Crypto"],
+    "tags": ["CopperSmith"],
     "author": "gloriablack",
     "attachments": [
       "https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment_week3/w3.cry.leaked-primes.zip"
@@ -2291,22 +1724,15 @@
     "answer": "flag{wh3n_th3_m0dul3_i3_bi9_en0ugh_U_c@n_c0ns1der_u3ing_coppersmith}",
     "difficulty": 2,
     "extra": {
-      "inspectors": [
-        "Hanson"
-      ]
+      "inspectors": ["Hanson"]
     }
   },
   {
     "id": 71,
     "name": "欧皇的生日",
     "description": "诶，骗人的吧，我难道不是欧皇吗？\n",
-    "category": [
-      "Week3",
-      "Crypto"
-    ],
-    "tags": [
-      "生日攻击"
-    ],
+    "category": ["Week3", "Crypto"],
+    "tags": ["生日攻击"],
     "author": "cathylin",
     "attachments": [
       "https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment_week3/w3.cry.lucky-birthday.rar"
@@ -2330,24 +1756,15 @@
     "answer": "flag{-----you---are----so++++lucky+++++}",
     "difficulty": 2,
     "extra": {
-      "inspectors": [
-        "gloriablack",
-        "Hanson",
-        "KAMIYA"
-      ]
+      "inspectors": ["gloriablack", "Hanson", "KAMIYA"]
     }
   },
   {
     "id": 72,
     "name": "随机数之旅 3",
     "description": "关键在你拥有的信息。\n",
-    "category": [
-      "Week3",
-      "Crypto"
-    ],
-    "tags": [
-      "线性代数"
-    ],
+    "category": ["Week3", "Crypto"],
+    "tags": ["线性代数"],
     "author": "cathylin",
     "attachments": [
       "https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment_week3/w3.cry.random-journey-3.rar"
@@ -2356,47 +1773,30 @@
     "answer": "flag{1f59622f-ccbc-45c0-b9f5-731a51343027}",
     "difficulty": 2,
     "extra": {
-      "inspectors": [
-        "Hanson"
-      ]
+      "inspectors": ["Hanson"]
     }
   },
   {
     "id": 73,
     "name": "GCL",
     "description": "居然反过来了。\n",
-    "category": [
-      "Week3",
-      "Crypto"
-    ],
-    "tags": [
-      "LCG"
-    ],
+    "category": ["Week3", "Crypto"],
+    "tags": ["LCG"],
     "author": "cathylin",
-    "attachments": [
-      "https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment_week3/w3.cry.gcl.rar"
-    ],
+    "attachments": ["https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment_week3/w3.cry.gcl.rar"],
     "services": [],
     "answer": "flag{2eac1c79-8abd-465e-82f4-96beffed69e4}",
     "difficulty": 3,
     "extra": {
-      "inspectors": [
-        "Hanson"
-      ]
+      "inspectors": ["Hanson"]
     }
   },
   {
     "id": 74,
     "name": "流量分析：S7 的秘密",
     "description": "人们在虚拟大陆逐渐适应，为了更好的生活，城邦们正在大力发展第二产业。但是一个陈旧的机器突然接收到了信号，值班的工人们紧急捕获了信号发生后的信息，挑战者们可以帮助工业破译接收到的信息吗？请将信息放在 `flag{}` 内提交。\n",
-    "category": [
-      "Week3",
-      "Misc"
-    ],
-    "tags": [
-      "流量分析",
-      "工业流量分析"
-    ],
+    "category": ["Week3", "Misc"],
+    "tags": ["流量分析", "工业流量分析"],
     "author": "willyz",
     "attachments": [
       "https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment_week3/w3.misc.traffic-s7-secret.zip"
@@ -2412,13 +1812,8 @@
     "id": 75,
     "name": "日志分析：盲辨海豚",
     "description": "城邦附近的水域突然出现了成群的海豚，导致城邦原本的海豚群被冲散。城邦的海豚会在半夜发出不同的回响，现在需要挑战者们通过声音帮助城邦找回走丢的海豚们。\n",
-    "category": [
-      "Week3",
-      "Misc"
-    ],
-    "tags": [
-      "日志分析"
-    ],
+    "category": ["Week3", "Misc"],
+    "tags": ["日志分析"],
     "author": "willyz",
     "attachments": [
       "https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment_week3/w3.misc.log-blind-dolphin.zip"
@@ -2427,23 +1822,15 @@
     "answer": "flag{SQL_injection_logs_are_very_easy}",
     "difficulty": 1,
     "extra": {
-      "inspectors": [
-        "miko",
-        "Mrsh"
-      ]
+      "inspectors": ["miko", "Mrsh"]
     }
   },
   {
     "id": 76,
     "name": "内存取证：Windows 篇",
     "description": "本关考验你内存取证本领，请考生携带好文具（kali 虚拟机和 Volatility2），做好准备，迎接挑战。\n\n本题的 FLAG 由多个问题的答案组成，使用下划线 `_` 将答案各部分连接，就能得到 FLAG：\n\n1. 恶意进程的外联 `ip:port`\n2. 恶意进程所在的文件夹名称\n3. 用户的主机登录密码\n4. 电脑主机的名称\n\n涉及字母的部分统一小写，题目附件包含 FLAG 的举例。\n",
-    "category": [
-      "Week3",
-      "Misc"
-    ],
-    "tags": [
-      "内存取证"
-    ],
+    "category": ["Week3", "Misc"],
+    "tags": ["内存取证"],
     "author": "miko",
     "attachments": [
       "https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment_week3/w3.misc.mem-forensics-windows.txt"
@@ -2452,22 +1839,15 @@
     "answer": "flag{125.216.248.74:11451_temp_admin123_arisamik}",
     "difficulty": 2,
     "extra": {
-      "inspectors": [
-        "willyz"
-      ]
+      "inspectors": ["willyz"]
     }
   },
   {
     "id": 77,
     "name": "区块链：以太坊的约定",
     "description": "城邦附近开了一家存储链子的工坊，快来看看吧！\n\n本题由多个小问题组成，得到各个小问题答案后用下划线 `_` 拼接并裹上 `flag{}` 即可：\n\n1. 注册小狐狸钱包，并提交小狐狸钱包助记词个数\n2. 1145141919810 Gwei 等于多少 ETH（只保留整数）\n3. 查询账号 `0x949F8fc083006CC5fb51Da693a57D63eEc90C675` 第一次交易记录的日期，形式如 `20230820`\n4. 使用 remix 编译运行附件中的合约，将输出进行提交\n",
-    "category": [
-      "Week3",
-      "Misc"
-    ],
-    "tags": [
-      "区块链"
-    ],
+    "category": ["Week3", "Misc"],
+    "tags": ["区块链"],
     "author": "willyz",
     "attachments": [
       "https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment_week3/w3.misc.ethereum-promise.zip"
@@ -2483,13 +1863,8 @@
     "id": 78,
     "name": "jail-evil eval",
     "description": "邪恶的 evil 带来了 eval！\n\n想要拿到 FLAG 就得拿出真本事！\n\n「借助 help 的力量是不道德的！」evil 如是说道。\n",
-    "category": [
-      "Week3",
-      "Misc"
-    ],
-    "tags": [
-      "python jail"
-    ],
+    "category": ["Week3", "Misc"],
+    "tags": ["python jail"],
     "author": "KAMIYA",
     "attachments": [
       "https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment_week3/w3.misc.jail-evil-eval.zip"
@@ -2515,22 +1890,15 @@
     "answer": null,
     "difficulty": 2,
     "extra": {
-      "inspectors": [
-        "yuro"
-      ]
+      "inspectors": ["yuro"]
     }
   },
   {
     "id": 79,
     "name": "fmt&got",
     "description": "GOT means 《冰与火之歌：权力游戏》\n",
-    "category": [
-      "Week4",
-      "Pwn"
-    ],
-    "tags": [
-      "格式化字符串"
-    ],
+    "category": ["Week4", "Pwn"],
+    "tags": ["格式化字符串"],
     "author": "L1nk",
     "attachments": [
       "https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment_week4/w4.pwn.fmt-got.zip"
@@ -2556,24 +1924,15 @@
     "answer": null,
     "difficulty": 1,
     "extra": {
-      "inspectors": [
-        "daimi",
-        "Findkey",
-        "Zeriah"
-      ]
+      "inspectors": ["daimi", "Findkey", "Zeriah"]
     }
   },
   {
     "id": 80,
     "name": "海市蜃楼",
     "description": "天空像瓷蓝的碗倒扣着，太阳是一块滚烫的硫磺粘在碗底。越过三十层高的浮光掠影，那座变化的沙之城正在热浪里摇摆……\n",
-    "category": [
-      "Week4",
-      "Pwn"
-    ],
-    "tags": [
-      "随机数预测"
-    ],
+    "category": ["Week4", "Pwn"],
+    "tags": ["随机数预测"],
     "author": "daimi",
     "attachments": [
       "https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment_week4/w4.pwn.mirage.zip"
@@ -2599,24 +1958,15 @@
     "answer": null,
     "difficulty": 2,
     "extra": {
-      "inspectors": [
-        "Findkey",
-        "sysNow",
-        "Sally"
-      ]
+      "inspectors": ["Findkey", "sysNow", "Sally"]
     }
   },
   {
     "id": 81,
     "name": "memory",
     "description": "我忘记了 FLAG，你能帮我找到 FLAG 吗😢\n",
-    "category": [
-      "Week4",
-      "Pwn"
-    ],
-    "tags": [
-      "shellcode"
-    ],
+    "category": ["Week4", "Pwn"],
+    "tags": ["shellcode"],
     "author": "sysNow",
     "attachments": [
       "https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment_week4/w4.pwn.memory.zip"
@@ -2642,24 +1992,15 @@
     "answer": null,
     "difficulty": 2,
     "extra": {
-      "inspectors": [
-        "Zeriah",
-        "Findkey",
-        "L1nk"
-      ]
+      "inspectors": ["Zeriah", "Findkey", "L1nk"]
     }
   },
   {
     "id": 82,
     "name": "calc_queen",
     "description": "产品介绍：\n\n呵呵！本计算姬可不会像上一个计算姬一样随随便便宕机。但是我说，你就没手没脚吗？你就不会自己算吗？……诶？诶诶诶？！！你干什么？我，我警告你！你别乱动！喂！喂喂！\n",
-    "category": [
-      "Week4",
-      "Pwn"
-    ],
-    "tags": [
-      "栈 Tricks"
-    ],
+    "category": ["Week4", "Pwn"],
+    "tags": ["栈 Tricks"],
     "author": "daimi",
     "attachments": [
       "https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment_week4/w4.pwn.calc-queen.zip"
@@ -2685,22 +2026,15 @@
     "answer": null,
     "difficulty": 3,
     "extra": {
-      "inspectors": [
-        "Findkey"
-      ]
+      "inspectors": ["Findkey"]
     }
   },
   {
     "id": 83,
     "name": "content",
     "description": "01010101010……\n\n> [!TIP]\n> 打远程靶机的时间可能会比较长\n",
-    "category": [
-      "Week4",
-      "Pwn"
-    ],
-    "tags": [
-      "堆"
-    ],
+    "category": ["Week4", "Pwn"],
+    "tags": ["堆"],
     "author": "ishmael",
     "attachments": [
       "https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment_week4/w4.pwn.content.gz"
@@ -2726,22 +2060,15 @@
     "answer": null,
     "difficulty": 3,
     "extra": {
-      "inspectors": [
-        "daimi"
-      ]
+      "inspectors": ["daimi"]
     }
   },
   {
     "id": 84,
     "name": "NOT_TUI",
     "description": "喜欢我的图形化界面吗🥰\n",
-    "category": [
-      "Week4",
-      "Reverse"
-    ],
-    "tags": [
-      "Windows GUI"
-    ],
+    "category": ["Week4", "Reverse"],
+    "tags": ["Windows GUI"],
     "author": "Azusaq",
     "attachments": [
       "https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment_week4/w4.rev.not-tui.zip"
@@ -2750,23 +2077,15 @@
     "answer": "flag{bbbd719a361123014e77006476205f73}",
     "difficulty": 1,
     "extra": {
-      "inspectors": [
-        "AstralPrisma",
-        "JSnow"
-      ]
+      "inspectors": ["AstralPrisma", "JSnow"]
     }
   },
   {
     "id": 85,
     "name": "PleaseHookMe",
     "description": "学安卓一定要会 Frida 呢\n",
-    "category": [
-      "Week4",
-      "Reverse"
-    ],
-    "tags": [
-      "Frida"
-    ],
+    "category": ["Week4", "Reverse"],
+    "tags": ["Frida"],
     "author": "PangBai",
     "attachments": [
       "https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment_week4/w4.rev.pleasehookme.zip"
@@ -2782,13 +2101,8 @@
     "id": 86,
     "name": "尤皮·埃克斯历险记（3）",
     "description": "这次尤皮·埃克斯貌似遇到了大麻烦，他不仅被「异常」强大的怪物打败了，还被怪物打烂了盔甲。他希望你能替他报仇雪恨，打败“异常”强大的怪物，并修复他的盔甲。\n",
-    "category": [
-      "Week4",
-      "Reverse"
-    ],
-    "tags": [
-      "UPX"
-    ],
+    "category": ["Week4", "Reverse"],
+    "tags": ["UPX"],
     "author": "AstralPrisma",
     "attachments": [
       "https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment_week4/w4.rev.yupi-ex-adventure-3.zip"
@@ -2797,19 +2111,14 @@
     "answer": "flag{C4tcH_th3_rUn71m3_3rr0R_0f_d1vId3D_8Y_z3R0}",
     "difficulty": 2,
     "extra": {
-      "inspectors": [
-        "JSnow"
-      ]
+      "inspectors": ["JSnow"]
     }
   },
   {
     "id": 87,
     "name": "Dancing Keys",
     "description": "密钥怎么变来变去的🤔？\n\n你能找到真正的密钥吗😊？\n",
-    "category": [
-      "Week4",
-      "Reverse"
-    ],
+    "category": ["Week4", "Reverse"],
     "tags": [],
     "author": "AstralPrisma",
     "attachments": [
@@ -2819,23 +2128,15 @@
     "answer": "flag{1_h4t3_h4sH_ch3cK1ng_4Nd_r4Nd0m_t3AenCRypt}",
     "difficulty": 3,
     "extra": {
-      "inspectors": [
-        "Azusaq",
-        "JSnow"
-      ]
+      "inspectors": ["Azusaq", "JSnow"]
     }
   },
   {
     "id": 88,
     "name": "ezrust",
     "description": "来点我最爱的 Rust😋\n",
-    "category": [
-      "Week4",
-      "Reverse"
-    ],
-    "tags": [
-      "Rust 逆向"
-    ],
+    "category": ["Week4", "Reverse"],
+    "tags": ["Rust 逆向"],
     "author": "Azusaq",
     "attachments": [
       "https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment_week4/w4.rev.ezrust.zip"
@@ -2844,23 +2145,15 @@
     "answer": "flag{rUS7_ReveRse_1s_MY_n19h7m4rE_eW2fZ}",
     "difficulty": 3,
     "extra": {
-      "inspectors": [
-        "JSnow"
-      ]
+      "inspectors": ["JSnow"]
     }
   },
   {
     "id": 89,
     "name": "SSTI 在哪里？",
     "description": "难道不是 SSRF 吗？\n",
-    "category": [
-      "Week4",
-      "Web"
-    ],
-    "tags": [
-      "SSRF",
-      "SSTI"
-    ],
+    "category": ["Week4", "Web"],
+    "tags": ["SSRF", "SSTI"],
     "author": "wsh_",
     "attachments": [
       "https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment_week4/w4.web.ssti-where.zip"
@@ -2886,24 +2179,15 @@
     "answer": null,
     "difficulty": 1,
     "extra": {
-      "inspectors": [
-        "JohnSmith",
-        "ENOCH",
-        "L4ne"
-      ]
+      "inspectors": ["JohnSmith", "ENOCH", "L4ne"]
     }
   },
   {
     "id": 90,
     "name": "武功秘籍",
     "description": "小 Z 正在进攻高人留下的 CMS 遗迹，却久久没有进展，突然他戒指里的老爷爷传音给他：「小Z啊，凭你的能力可能没法打破这个遗迹的防护阵法，但是我这里有一本诸多高手共同编辑的武功秘籍，从中记载了大量的阵法漏洞，可助你一臂之力！」\n\n小 Z 从戒指中取出武功秘籍，外观上已经年久泛黄，但是书名仔细辨认还是可以辨认出一个名称——CVE.\n\n> [!TIP]\n> 做此题时如出现不符合预期或奇怪的问题，可能是由于校园网环境的网络策略导致，请尝试校园网之外的网络环境。\n",
-    "category": [
-      "Week4",
-      "Web"
-    ],
-    "tags": [
-      "CVE"
-    ],
+    "category": ["Week4", "Web"],
+    "tags": ["CVE"],
     "author": "yuhua",
     "attachments": [],
     "services": [
@@ -2927,24 +2211,15 @@
     "answer": null,
     "difficulty": 2,
     "extra": {
-      "inspectors": [
-        "KAMIYA",
-        "D0ubleD",
-        "L4ne"
-      ]
+      "inspectors": ["KAMIYA", "D0ubleD", "L4ne"]
     }
   },
   {
     "id": 91,
     "name": "小 E 的留言板",
     "description": "小 E 的「Project X」系统现已经公开，于是专门为它写了一个用户体验反馈留言板。小 E 每天都会亲自登录这个平台，查看用户反馈，而他的所有关键会话凭证都“安全”地保存在浏览器中。但是这个留言板存在一个巨大漏洞，你是否能利用这个被他忽视的漏洞，向平台「注入」一段特殊的指令，从而在小 E 毫无察觉的情况下，窃取到他浏览器的核心会话令牌呢？\n",
-    "category": [
-      "Week4",
-      "Web"
-    ],
-    "tags": [
-      "XSS"
-    ],
+    "category": ["Week4", "Web"],
+    "tags": ["XSS"],
     "author": "ENOCH",
     "attachments": [],
     "services": [
@@ -2968,24 +2243,15 @@
     "answer": null,
     "difficulty": 2,
     "extra": {
-      "inspectors": [
-        "KAMIYA",
-        "wsh_",
-        "D0ubleD"
-      ]
+      "inspectors": ["KAMIYA", "wsh_", "D0ubleD"]
     }
   },
   {
     "id": 92,
     "name": "小羊走迷宫",
     "description": "小羊在去战斗的路上遇到了迷宫，但是她好像不小心迷路了，据说要走出去需要用到什么反序列化……什么伪协议……小羊不懂，你来帮帮她吧！\n",
-    "category": [
-      "Week4",
-      "Web"
-    ],
-    "tags": [
-      "PHP"
-    ],
+    "category": ["Week4", "Web"],
+    "tags": ["PHP"],
     "author": "xNftrOne",
     "attachments": [],
     "services": [
@@ -3009,24 +2275,15 @@
     "answer": null,
     "difficulty": 2,
     "extra": {
-      "inspectors": [
-        "wsh_",
-        "KAMIYA",
-        "D0ubleD"
-      ]
+      "inspectors": ["wsh_", "KAMIYA", "D0ubleD"]
     }
   },
   {
     "id": 93,
     "name": "sqlupload",
     "description": "哈哈，这次我用 SQL 来管理 Upload 的文件就不会出问题了吧！\n\n> [!TIP]\n> 本题 FLAG 在根目录下的 `flag` 文件中。\n",
-    "category": [
-      "Week4",
-      "Web"
-    ],
-    "tags": [
-      "SQLi"
-    ],
+    "category": ["Week4", "Web"],
+    "tags": ["SQLi"],
     "author": "KAMIYA",
     "attachments": [
       "https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment_week4/w4.web.sqlupload.zip"
@@ -3052,23 +2309,15 @@
     "answer": null,
     "difficulty": 3,
     "extra": {
-      "inspectors": [
-        "D0ubleD",
-        "wsh_"
-      ]
+      "inspectors": ["D0ubleD", "wsh_"]
     }
   },
   {
     "id": 94,
     "name": "独一无二",
     "description": "秘密说两次就不好了。\n",
-    "category": [
-      "Week4",
-      "Crypto"
-    ],
-    "tags": [
-      "ECC"
-    ],
+    "category": ["Week4", "Crypto"],
+    "tags": ["ECC"],
     "author": "cathylin",
     "attachments": [
       "https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment_week4/w4.cry.one-and-only.rar"
@@ -3077,23 +2326,15 @@
     "answer": "flag{035755ac-ba88-401d-93d3-d13607aa7387}",
     "difficulty": 1,
     "extra": {
-      "inspectors": [
-        "KAMIYA",
-        "Hanson"
-      ]
+      "inspectors": ["KAMIYA", "Hanson"]
     }
   },
   {
     "id": 95,
     "name": "随机数之旅 4",
     "description": "成也线性，败也线性。\n",
-    "category": [
-      "Week4",
-      "Crypto"
-    ],
-    "tags": [
-      "线性代数"
-    ],
+    "category": ["Week4", "Crypto"],
+    "tags": ["线性代数"],
     "author": "cathylin",
     "attachments": [
       "https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment_week4/w4.cry.random-journey-4.rar"
@@ -3102,24 +2343,15 @@
     "answer": "flag{188a9250-bd02-4746-8ddd-a32d9c1bb11a}",
     "difficulty": 1,
     "extra": {
-      "inspectors": [
-        "KAMIYA",
-        "Hanson",
-        "Icesugar"
-      ]
+      "inspectors": ["KAMIYA", "Hanson", "Icesugar"]
     }
   },
   {
     "id": 96,
     "name": "共轭迷宫",
     "description": "Alice 和 Bob 通讯时使用了四元数共轭的密钥交换协议。\n\n然而聪明的你应该发现：四元数在密码学应用中的优越性是它的乘法不可交换性。\n\n但这一题似乎没有很好地发挥这一特性。\n",
-    "category": [
-      "Week4",
-      "Crypto"
-    ],
-    "tags": [
-      "密钥共享协议"
-    ],
+    "category": ["Week4", "Crypto"],
+    "tags": ["密钥共享协议"],
     "author": "gloriablack",
     "attachments": [
       "https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment_week4/w4.cry.conjugate-maze.zip"
@@ -3128,23 +2360,15 @@
     "answer": "flag{hav3_U_f1nd_ouT_@bout_tr1ck?XD}",
     "difficulty": 2,
     "extra": {
-      "inspectors": [
-        "KAMIYA",
-        "Hanson"
-      ]
+      "inspectors": ["KAMIYA", "Hanson"]
     }
   },
   {
     "id": 97,
     "name": "三重密钥锁",
-    "description": "我们设计了一个三重密钥的安全系统，需要同时输入三个短密钥 $(a,b,c)$ 才能解锁。\n\n验证方程：$k\\times a + m\\times b + n\\times c \\equiv f \\pmod p$.\n\n其中 $k,m,n,f$ 已知，且 $a,b,c$ 都是很短的向量。\n\n你截获了验证参数，能破解这个系统吗？\n",
-    "category": [
-      "Week4",
-      "Crypto"
-    ],
-    "tags": [
-      "格密码"
-    ],
+    "description": "我们设计了一个三重密钥的安全系统，需要同时输入三个短密钥 $(a,b,c)$ 才能解锁。\n\n验证方程: $k\\times a + m\\times b + n\\times c \\equiv f \\pmod p$.\n\n其中 $k,m,n,f$ 已知，且 $a,b,c$ 都是很短的向量。\n\n你截获了验证参数，能破解这个系统吗？\n",
+    "category": ["Week4", "Crypto"],
+    "tags": ["格密码"],
     "author": "gloriablack",
     "attachments": [
       "https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment_week4/w4.cry.triple-key-lock.zip"
@@ -3160,13 +2384,8 @@
     "id": 98,
     "name": "天虫的秘密",
     "description": "蚕怎么你了\n",
-    "category": [
-      "Week4",
-      "Crypto"
-    ],
-    "tags": [
-      "分组密码"
-    ],
+    "category": ["Week4", "Crypto"],
+    "tags": ["分组密码"],
     "author": "cathylin",
     "attachments": [
       "https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment_week4/w4.cry.silkworm-secret.rar"
@@ -3197,13 +2416,8 @@
     "id": 99,
     "name": "流量分析：听声辩位",
     "description": "在城邦外的流量海峡中，海豚们通过发出「ascii」音的大小来判断在集体流量游动的顺序。\n\n城邦捕获了海豚们集结出发时的声音，现在需要挑战者通过声音大小的判断来确定是哪些海豚出行。\n",
-    "category": [
-      "Week4",
-      "Misc"
-    ],
-    "tags": [
-      "流量分析"
-    ],
+    "category": ["Week4", "Misc"],
+    "tags": ["流量分析"],
     "author": "willyz",
     "attachments": [
       "https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment_week4/w4.misc.traffic-sound-locate.zip"
@@ -3212,24 +2426,15 @@
     "answer": "flag{blind_injection_Re@lly_Biggg!}",
     "difficulty": 1,
     "extra": {
-      "inspectors": [
-        "miko",
-        "Mrsh"
-      ]
+      "inspectors": ["miko", "Mrsh"]
     }
   },
   {
     "id": 100,
     "name": "区块链：智能合约",
     "description": "如果你想和工坊签订合约，就来这个地址找它吧！\n\n合约地址：`0x88DC8f1de5Ff74d644C1a1defDc54869E5Ce3c08`\n\n合约在 Sepolia 测试链上进行。\n\nSepolia 测试链水龙头地址：<https://sepolia-faucet.pk910.de/>\n",
-    "category": [
-      "Week4",
-      "Misc"
-    ],
-    "tags": [
-      "区块链",
-      "智能合约"
-    ],
+    "category": ["Week4", "Misc"],
+    "tags": ["区块链", "智能合约"],
     "author": "willyz",
     "attachments": [
       "https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment_week4/w4.misc.smart-contracts.zip"
@@ -3238,24 +2443,15 @@
     "answer": "flag{E4sy_S0lidity_D3v_F1a9_C0d3_4ud1t}",
     "difficulty": 1,
     "extra": {
-      "inspectors": [
-        "KAMIYA",
-        "miko",
-        "Mrsh"
-      ]
+      "inspectors": ["KAMIYA", "miko", "Mrsh"]
     }
   },
   {
     "id": 101,
     "name": "jail-Neuro jail",
     "description": "Neuro 打 osu 的时候被关进 jail 了！一定是 Evil 干的，快点帮帮 Neuro 逃出 jail！\n\n> [!TIP]\n> 如果在 Windows 操作系统出现乱码问题，请在终端输入 `chcp 65001`\n",
-    "category": [
-      "Week4",
-      "Misc"
-    ],
-    "tags": [
-      "jail"
-    ],
+    "category": ["Week4", "Misc"],
+    "tags": ["jail"],
     "author": "KAMIYA",
     "attachments": [
       "https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment_week4/w4.misc.jail-neuro.zip"
@@ -3281,21 +2477,14 @@
     "answer": null,
     "difficulty": 1,
     "extra": {
-      "inspectors": [
-        "miko",
-        "willyz",
-        "Mrsh"
-      ]
+      "inspectors": ["miko", "willyz", "Mrsh"]
     }
   },
   {
     "id": 102,
     "name": "混乱的网站",
     "description": "网站还没搭建完成就遭到了致命的攻击。我的代码怎么乱七八糟的，挑战者们能帮我看看代码里隐藏了什么吗？\n\nFLAG 格式：`flag{flag1_flag2}`\n",
-    "category": [
-      "Week4",
-      "Misc"
-    ],
+    "category": ["Week4", "Misc"],
     "tags": [],
     "author": "willyz",
     "attachments": [],
@@ -3318,24 +2507,15 @@
     "answer": "flag{js_very_good_ns2025}",
     "difficulty": 2,
     "extra": {
-      "inspectors": [
-        "KAMIYA",
-        "miko",
-        "Mrsh"
-      ]
+      "inspectors": ["KAMIYA", "miko", "Mrsh"]
     }
   },
   {
     "id": 103,
     "name": "应急响应：初识",
     "description": "欢迎来到第四周。在前三周的挑战中，你已经掌握了基础的日志分析、流量分析、OSINT 能力，请挑战者们集中所有力量，打开这扇应急响应大门吧！\n\n城邦的图片托管服务平台遭受到恶意攻击，请挑战中们协助临时工清理处置，完成报告。\n\n- 用户名：`Administrator`\n- 密码：`Newst@r`\n\n> [!TIP] FLAG 格式\n>\n> `flag{木马连接密码_创建账号工具发布时间(年-月-日)_影子用户密码}`\n>\n> 例：`flag{newstar_2025-09-29_password}`\n",
-    "category": [
-      "Week4",
-      "Misc"
-    ],
-    "tags": [
-      "基础排查"
-    ],
+    "category": ["Week4", "Misc"],
+    "tags": ["基础排查"],
     "author": "willyz",
     "attachments": [
       "https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment_week4/w4.misc.ir-intro.txt"
@@ -3344,22 +2524,15 @@
     "answer": "flag{rebeyond_2022-01-18_Ns2025}",
     "difficulty": 2,
     "extra": {
-      "inspectors": [
-        "miko"
-      ]
+      "inspectors": ["miko"]
     }
   },
   {
     "id": 104,
     "name": "复读机堂堂归来！复读机堂堂归来！",
     "description": "小明依旧不信邪，他觉得只要给复读机加上很多保护那就没有问题。小明依旧不信邪，他觉得只要给复读机加上很多保护那就没有问题。\n",
-    "category": [
-      "Week5",
-      "Pwn"
-    ],
-    "tags": [
-      "BSS 段格式化字符串"
-    ],
+    "category": ["Week5", "Pwn"],
+    "tags": ["BSS 段格式化字符串"],
     "author": "L1nk",
     "attachments": [
       "https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment_week5/w5.pwn.fuduji-back.zip"
@@ -3385,23 +2558,15 @@
     "answer": null,
     "difficulty": 1,
     "extra": {
-      "inspectors": [
-        "daimi",
-        "Zeriah"
-      ]
+      "inspectors": ["daimi", "Zeriah"]
     }
   },
   {
     "id": 105,
     "name": "note",
     "description": "一个笔记管理系统，从这里开始学习堆利用吧！\n",
-    "category": [
-      "Week5",
-      "Pwn"
-    ],
-    "tags": [
-      "UAF"
-    ],
+    "category": ["Week5", "Pwn"],
+    "tags": ["UAF"],
     "author": "sysNow",
     "attachments": [
       "https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment_week5/w5.pwn.note.zip"
@@ -3427,24 +2592,15 @@
     "answer": null,
     "difficulty": 2,
     "extra": {
-      "inspectors": [
-        "Sally",
-        "L1nk",
-        "Zeriah"
-      ]
+      "inspectors": ["Sally", "L1nk", "Zeriah"]
     }
   },
   {
     "id": 106,
     "name": "stdout",
     "description": "小 Y 在学习 C 语言时得知 puts 函数会把一个字符串写入到标准输出  stdout.\n\n小Y突发奇想，直接写入 stdout ，那不就能用 read 来实现 puts 了吗？！\n",
-    "category": [
-      "Week5",
-      "Pwn"
-    ],
-    "tags": [
-      "IO_FILE"
-    ],
+    "category": ["Week5", "Pwn"],
+    "tags": ["IO_FILE"],
     "author": "L1nk",
     "attachments": [
       "https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment_week5/w5.pwn.stdout.zip"
@@ -3477,13 +2633,8 @@
     "id": 107,
     "name": "go?",
     "description": "↑→↓↓↓???\n",
-    "category": [
-      "Week5",
-      "Pwn"
-    ],
-    "tags": [
-      "VM"
-    ],
+    "category": ["Week5", "Pwn"],
+    "tags": ["VM"],
     "author": "ishmael",
     "attachments": [
       "https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment_week5/w5.pwn.go-question.zip"
@@ -3516,13 +2667,8 @@
     "id": 108,
     "name": "Pwn the world",
     "description": "Pwn 掉一整个世界！\n",
-    "category": [
-      "Week5",
-      "Pwn"
-    ],
-    "tags": [
-      "angr"
-    ],
+    "category": ["Week5", "Pwn"],
+    "tags": ["angr"],
     "author": "daimi",
     "attachments": [
       "https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment_week5/w5.pwn.hack-the-world.zip"
@@ -3555,13 +2701,8 @@
     "id": 109,
     "name": "魔法少女的秘密",
     "description": "魔法少女会藏些什么呢？这是秘密。\n",
-    "category": [
-      "Week5",
-      "Reverse"
-    ],
-    "tags": [
-      "flutter"
-    ],
+    "category": ["Week5", "Reverse"],
+    "tags": ["flutter"],
     "author": "PangBai",
     "attachments": [
       "https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment_week5/w5.rev.magical-girl-secret.zip"
@@ -3577,14 +2718,8 @@
     "id": 110,
     "name": "天才的「认证」",
     "description": "我把空间站的防御系统拿来做了个小玩具。如果你能破解它，就来主控室找我。要是连这点事都办不到，就别来烦我了，笨蛋。\n",
-    "category": [
-      "Week5",
-      "Reverse"
-    ],
-    "tags": [
-      "VM",
-      "Python"
-    ],
+    "category": ["Week5", "Reverse"],
+    "tags": ["VM", "Python"],
     "author": "yuro",
     "attachments": [
       "https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment_week5/w5.rev.genius-auth.zip"
@@ -3593,23 +2728,15 @@
     "answer": "flag{Bytec0de_And_St4ck_M4g1c!}",
     "difficulty": 2,
     "extra": {
-      "inspectors": [
-        "AstralPrisma"
-      ]
+      "inspectors": ["AstralPrisma"]
     }
   },
   {
     "id": 111,
     "name": "AnEasySystem",
     "description": "——你是安卓人、苹果人、Linux 人还是 Windows 人？\n\n——都不是。\n\n——？\n",
-    "category": [
-      "Week5",
-      "Reverse"
-    ],
-    "tags": [
-      "鸿蒙逆向",
-      "魔改AES"
-    ],
+    "category": ["Week5", "Reverse"],
+    "tags": ["鸿蒙逆向", "魔改AES"],
     "author": "AstralPrisma",
     "attachments": [
       "https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment_week5/w5.rev.an-easy-system.zip"
@@ -3618,24 +2745,15 @@
     "answer": "flag{r3v3Rs1Ng_7h3_H4rm0nY_05_1s_n07_4S_d1Ff1cUl7_45_y0U_7h1nK!}",
     "difficulty": 2,
     "extra": {
-      "inspectors": [
-        "AstralPrisma",
-        "Azusaq"
-      ]
+      "inspectors": ["AstralPrisma", "Azusaq"]
     }
   },
   {
     "id": 112,
     "name": "Jvav Master",
     "description": "——你会 Java 吗？\n\n——我会 Jvav 啊！\n",
-    "category": [
-      "Week5",
-      "Reverse"
-    ],
-    "tags": [
-      "exe4j",
-      "单字节 VM"
-    ],
+    "category": ["Week5", "Reverse"],
+    "tags": ["exe4j", "单字节 VM"],
     "author": "AstralPrisma",
     "attachments": [
       "https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment_week5/w5.rev.jvav-master.7z"
@@ -3651,14 +2769,8 @@
     "id": 113,
     "name": "河图洛书",
     "description": "昔洛有书，割方为九，置数于中；\n\n全美半之，镇中四象，连携八方；\n\n纵横合同，交斜皆等，间差与共；\n\n今人观之，感其玄妙，遂取其核；\n\n九文待之，九钥翳之，九五作之；\n\n轮替序换，钥表加覆，淆蒙致隐；\n\n协判阴阳，赋于异法，位旋明灭；\n\n终使外人，鉴如天书，既达其效；\n\n君甚聪颖，可否细究，研术破之？\n",
-    "category": [
-      "Week5",
-      "Reverse"
-    ],
-    "tags": [
-      "Cython",
-      "CBC 同构"
-    ],
+    "category": ["Week5", "Reverse"],
+    "tags": ["Cython", "CBC 同构"],
     "author": "AstralPrisma",
     "attachments": [
       "https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment_week5/w5.rev.hetu-luoshu.zip"
@@ -3667,24 +2779,15 @@
     "answer": "flag{7H3_Lu0_5hu_3nCrYP710n_1s_b10Ck_C1ph3R!}",
     "difficulty": 3,
     "extra": {
-      "inspectors": [
-        "Azusaq"
-      ]
+      "inspectors": ["Azusaq"]
     }
   },
   {
     "id": 114,
     "name": "被玩坏的 AI",
     "description": "技术团队排查后发现，AI 在接收外部输入时，会直接将部分内容融入到 HTTP 响应的处理流程中，却没对可能「拆分响应结构」的特殊字符做过滤。现在需要你模拟攻击者，找到漏洞的关键处理逻辑。\n",
-    "category": [
-      "Week5",
-      "Web"
-    ],
-    "tags": [
-      "中间件",
-      "CLRF 注入",
-      "RPO"
-    ],
+    "category": ["Week5", "Web"],
+    "tags": ["中间件", "CLRF 注入", "RPO"],
     "author": "归茛",
     "attachments": [],
     "services": [
@@ -3708,25 +2811,15 @@
     "answer": null,
     "difficulty": 2,
     "extra": {
-      "inspectors": [
-        "xNftrOne",
-        "D0ubleD",
-        "wsh_"
-      ]
+      "inspectors": ["xNftrOne", "D0ubleD", "wsh_"]
     }
   },
   {
     "id": 115,
     "name": "废弃的网站",
     "description": "废弃的网站就别争了。\n",
-    "category": [
-      "Week5",
-      "Web"
-    ],
-    "tags": [
-      "条件竞争",
-      "RCE"
-    ],
+    "category": ["Week5", "Web"],
+    "tags": ["条件竞争", "RCE"],
     "author": "sanjio",
     "attachments": [
       "https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment_week5/w5.web.abandoned-site.zip"
@@ -3752,23 +2845,15 @@
     "answer": null,
     "difficulty": 3,
     "extra": {
-      "inspectors": [
-        "D0ubleD",
-        "wsh_"
-      ]
+      "inspectors": ["D0ubleD", "wsh_"]
     }
   },
   {
     "id": 116,
     "name": "小 W 和小 K 的故事（最终章）",
     "description": "小 K 和小 W 一起来到了 NewStar 的 Web 最后一关。\r\n\r\n此乃旧时代的落幕，亦将见证诸位 NewStar 的崛起。\r\n\r\n> [!TIP]\r\n> 本题靶机环境使用 `node:20-alpine` 作为基础镜像构建\n",
-    "category": [
-      "Week5",
-      "Web"
-    ],
-    "tags": [
-      "Node.js"
-    ],
+    "category": ["Week5", "Web"],
+    "tags": ["Node.js"],
     "author": "KAMIYA",
     "attachments": [
       "https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment_week5/w5.web.w-k-story-final.zip"
@@ -3794,23 +2879,15 @@
     "answer": null,
     "difficulty": 3,
     "extra": {
-      "inspectors": [
-        "D0ubleD",
-        "wsh_"
-      ]
+      "inspectors": ["D0ubleD", "wsh_"]
     }
   },
   {
     "id": 117,
     "name": "眼熟的计算器",
     "description": "今天又买了个新的计算器，看看又给我整了什么花活。\n",
-    "category": [
-      "Week5",
-      "Web"
-    ],
-    "tags": [
-      "js表达式注入"
-    ],
+    "category": ["Week5", "Web"],
+    "tags": ["js表达式注入"],
     "author": "KAMIYA",
     "attachments": [
       "https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment_week5/w5.web.familiar-calc.zip"
@@ -3836,24 +2913,15 @@
     "answer": null,
     "difficulty": 3,
     "extra": {
-      "inspectors": [
-        "D0ubleD",
-        "wsh_"
-      ]
+      "inspectors": ["D0ubleD", "wsh_"]
     }
   },
   {
     "id": 118,
     "name": "Binary Blog",
     "description": "欢迎来到的我的二进制博客。\n",
-    "category": [
-      "Week5",
-      "Web"
-    ],
-    "tags": [
-      "反序列",
-      "文件上传"
-    ],
+    "category": ["Week5", "Web"],
+    "tags": ["反序列", "文件上传"],
     "author": "归茛",
     "attachments": [],
     "services": [
@@ -3877,24 +2945,15 @@
     "answer": null,
     "difficulty": 3,
     "extra": {
-      "inspectors": [
-        "D0ubleD"
-      ]
+      "inspectors": ["D0ubleD"]
     }
   },
   {
     "id": 119,
     "name": "不给你看喵",
     "description": "不告诉你喵\n",
-    "category": [
-      "Week5",
-      "Crypto"
-    ],
-    "tags": [
-      "零知识证明",
-      "LLL",
-      "背包"
-    ],
+    "category": ["Week5", "Crypto"],
+    "tags": ["零知识证明", "LLL", "背包"],
     "author": "cathylin",
     "attachments": [
       "https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment_week5/w5.cry.no-peek-meow.rar"
@@ -3925,14 +2984,8 @@
     "id": 120,
     "name": "BLS 多重签名：零的裂变",
     "description": "欢迎来到 BLS 多重签名验证系统！我们使用最先进的 BLS12-381 曲线和聚合签名技术，确保签名的安全性和效率。\n\n在这个系统中，用户可以注册自己的 BLS 公钥（需要提供 Proof of Possession），然后使用多重签名功能。系统会验证聚合公钥和聚合签名的有效性。\n\n## 你的任务\n\n你需要构造一个特殊的多重签名，使得：\n\n1. 使用 3 个公钥对消息 `get_flag` 进行签名，其中 2 个公钥由你注册控制\n2. 聚合公钥必须等于服务器的固定公钥，聚合签名验证通过\n",
-    "category": [
-      "Week5",
-      "Crypto"
-    ],
-    "tags": [
-      "BLS 聚合签名",
-      "Splitting Zero Attack"
-    ],
+    "category": ["Week5", "Crypto"],
+    "tags": ["BLS 聚合签名", "Splitting Zero Attack"],
     "author": "gloriablack",
     "attachments": [
       "https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment_week5/w5.cry.bls-multisig-zero.zip"
@@ -3965,14 +3018,8 @@
     "id": 121,
     "name": "Poly",
     "description": "What's the gcd of three polynomials?\n",
-    "category": [
-      "Week5",
-      "Crypto"
-    ],
-    "tags": [
-      "抽象代数",
-      "Gröbner 基"
-    ],
+    "category": ["Week5", "Crypto"],
+    "tags": ["抽象代数", "Gröbner 基"],
     "author": "cathylin",
     "attachments": [
       "https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment_week5/w5.cry.poly.rar"
@@ -3988,13 +3035,8 @@
     "id": 122,
     "name": "Smile 盒",
     "description": "谁看到这个 S 盒的差分分布表都一定惊得下巴掉下来。\n",
-    "category": [
-      "Week5",
-      "Crypto"
-    ],
-    "tags": [
-      "差分攻击"
-    ],
+    "category": ["Week5", "Crypto"],
+    "tags": ["差分攻击"],
     "author": "cathylin",
     "attachments": [
       "https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment_week5/w5.cry.smile-box.rar"
@@ -4025,14 +3067,8 @@
     "id": 123,
     "name": "区块链：INTbug",
     "description": "合约地址：`0xB6748b3B308b382E28438cc72872e2D70369D90b`\n",
-    "category": [
-      "Week5",
-      "Misc"
-    ],
-    "tags": [
-      "区块链",
-      "整数溢出"
-    ],
+    "category": ["Week5", "Misc"],
+    "tags": ["区块链", "整数溢出"],
     "author": "willyz",
     "attachments": [
       "https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment_week5/w5.misc.intbug-chain.zip"
@@ -4041,24 +3077,15 @@
     "answer": "flag{Good_NewStar2025_Byeeeee!}",
     "difficulty": 1,
     "extra": {
-      "inspectors": [
-        "miko"
-      ]
+      "inspectors": ["miko"]
     }
   },
   {
     "id": 124,
     "name": "应急响应：把你 mikumiku 掉（1）",
     "description": "> [!INFO]\n> 本题为系列题，除序号外与本题名称相同的题共享同一附件和环境。\n> - 解压密码：`d93e2cb85b2a51ef40e86e4bd6df0b14`\n> - 账号：`newstar`\n> - 密码：`newstar`\n\n城邦为世界第一公主殿下搭建了网站，突然受到了 CVE 组织的攻击，你能帮城邦对服务器进行排查吗？\n\n请问攻击者使用的漏洞编号是？\n\nFLAG 格式：`flag{漏洞编号}`\n",
-    "category": [
-      "Week5",
-      "Misc"
-    ],
-    "tags": [
-      "应急响应",
-      "日志审计",
-      "服务版本历史漏洞"
-    ],
+    "category": ["Week5", "Misc"],
+    "tags": ["应急响应", "日志审计", "服务版本历史漏洞"],
     "author": "willyz",
     "attachments": [
       "https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment_week5/w5.misc.mikumiku.txt"
@@ -4074,15 +3101,8 @@
     "id": 125,
     "name": "应急响应：把你 mikumiku 掉（2）",
     "description": "FLAG 格式：`flag{木马连接密码_恶意用户密码}`\n\n> [!TIP]\n> 用户密码是六位特定范围内的字母构成。\n",
-    "category": [
-      "Week5",
-      "Misc"
-    ],
-    "tags": [
-      "应急响应",
-      "yescrypt",
-      "JSP 木马"
-    ],
+    "category": ["Week5", "Misc"],
+    "tags": ["应急响应", "yescrypt", "JSP 木马"],
     "author": "willyz",
     "attachments": [
       "https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment_week5/w5.misc.mikumiku.txt"
@@ -4098,15 +3118,8 @@
     "id": 126,
     "name": "应急响应：把你 mikumiku 掉（3）",
     "description": "被加密文件里面的内容是什么？\n\nFLAG 格式：`flag{文件内容}`\n",
-    "category": [
-      "Week5",
-      "Misc"
-    ],
-    "tags": [
-      "应急响应",
-      "恶意程序逆向",
-      "AES"
-    ],
+    "category": ["Week5", "Misc"],
+    "tags": ["应急响应", "恶意程序逆向", "AES"],
     "author": "willyz",
     "attachments": [
       "https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment_week5/w5.misc.mikumiku.txt"
@@ -4122,14 +3135,8 @@
     "id": 127,
     "name": "AI HACKER",
     "description": "SafeLLM Hub 一点都不 safe :(\r\n\r\nPaper: [Deep Leakage from Gradients](https://arxiv.org/abs/1906.08935)\r\n\r\n> [!TIP]\r\n> 访问靶机的 `/flag` 路径获取题目任务\n",
-    "category": [
-      "Week5",
-      "Misc"
-    ],
-    "tags": [
-      "GGUF 投毒",
-      "SSTI"
-    ],
+    "category": ["Week5", "Misc"],
+    "tags": ["GGUF 投毒", "SSTI"],
     "author": "Mrsh",
     "attachments": [],
     "services": [
@@ -4166,16 +3173,8 @@
     "id": 128,
     "name": "TIME HACKER",
     "description": "我所害怕的，只有时间。\n",
-    "category": [
-      "Week5",
-      "Misc"
-    ],
-    "tags": [
-      "侧信道",
-      "时间戳",
-      "Atbash",
-      "EXIF 信息"
-    ],
+    "category": ["Week5", "Misc"],
+    "tags": ["侧信道", "时间戳", "Atbash", "EXIF 信息"],
     "author": "Mrsh",
     "attachments": [
       "https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment_week5/w5.misc.time-hacker.zip"
@@ -4184,22 +3183,15 @@
     "answer": "flag{Y0u_4re_tHe_ReaL_TIME_H@cker!!}",
     "difficulty": 3,
     "extra": {
-      "inspectors": [
-        "miko"
-      ]
+      "inspectors": ["miko"]
     }
   },
   {
     "id": 129,
     "name": "llama-pwn",
     "description": "LLM怎么还能溢出？\n",
-    "category": [
-      "Extras",
-      "Pwn"
-    ],
-    "tags": [
-      "堆溢出"
-    ],
+    "category": ["Extras", "Pwn"],
+    "tags": ["堆溢出"],
     "author": "Th3S",
     "attachments": [
       "https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment_extras/ext.pwn.llama-hack.7z"
@@ -4232,13 +3224,8 @@
     "id": 130,
     "name": "Not Symmetric",
     "description": "你知道非对称加密吗？\n",
-    "category": [
-      "Extras",
-      "Reverse"
-    ],
-    "tags": [
-      "非对称加密"
-    ],
+    "category": ["Extras", "Reverse"],
+    "tags": ["非对称加密"],
     "author": "AstralPrisma",
     "attachments": [
       "https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment_extras/ext.rev.not-symmetric.zip"
@@ -4254,13 +3241,8 @@
     "id": 131,
     "name": "who'ssti revenge",
     "description": "什么叫你出题目的时候把 flag 给注释掉了？\n",
-    "category": [
-      "Extras",
-      "Web"
-    ],
-    "tags": [
-      "SSTI"
-    ],
+    "category": ["Extras", "Web"],
+    "tags": ["SSTI"],
     "author": "KAMIYA",
     "attachments": [
       "https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment_extras/ext.web.whossti-revenge.zip"
@@ -4293,14 +3275,8 @@
     "id": 132,
     "name": "黑盒 1",
     "description": "神秘线代黑盒\n",
-    "category": [
-      "Extras",
-      "Crypto"
-    ],
-    "tags": [
-      "群论",
-      "线性代数"
-    ],
+    "category": ["Extras", "Crypto"],
+    "tags": ["群论", "线性代数"],
     "author": "Cathylin",
     "attachments": [],
     "services": [
@@ -4329,14 +3305,8 @@
     "id": 133,
     "name": "混沌密码学入门",
     "description": "乱糟糟的，这是什么？\n\n> [!TIP]\n>\n> FLAG 只含可读明文、下划线、问号、感叹号。\n>\n> 出题环境是 Windows.\n",
-    "category": [
-      "Extras",
-      "Crypto"
-    ],
-    "tags": [
-      "混沌密码学",
-      "图片加密"
-    ],
+    "category": ["Extras", "Crypto"],
+    "tags": ["混沌密码学", "图片加密"],
     "author": "Cathylin",
     "attachments": [
       "https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment_extras/ext.cry.chaos-cipher-intro.rar"
@@ -4352,14 +3322,8 @@
     "id": 134,
     "name": "简约但不简单",
     "description": "非常简约哦\n",
-    "category": [
-      "Extras",
-      "Crypto"
-    ],
-    "tags": [
-      "多项式",
-      "格"
-    ],
+    "category": ["Extras", "Crypto"],
+    "tags": ["多项式", "格"],
     "author": "Cathylin",
     "attachments": [
       "https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment_extras/ext.cry.simple-not-simple.rar"
@@ -4375,14 +3339,8 @@
     "id": 135,
     "name": "随机数之旅 1.3",
     "description": "最旧最冷配置\n",
-    "category": [
-      "Extras",
-      "Crypto"
-    ],
-    "tags": [
-      "LCG",
-      "流密码"
-    ],
+    "category": ["Extras", "Crypto"],
+    "tags": ["LCG", "流密码"],
     "author": "Cathylin",
     "attachments": [
       "https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment_extras/ext.cry.random-journey-1.3.rar"
@@ -4398,14 +3356,8 @@
     "id": 136,
     "name": "随机数之旅 1.9",
     "description": "最旧最冷配置 Pro Max\n",
-    "category": [
-      "Extras",
-      "Crypto"
-    ],
-    "tags": [
-      "LCG",
-      "流密码"
-    ],
+    "category": ["Extras", "Crypto"],
+    "tags": ["LCG", "流密码"],
     "author": "Cathylin",
     "attachments": [
       "https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment_extras/ext.cry.random-journey-1.9.rar"
@@ -4421,13 +3373,8 @@
     "id": 137,
     "name": "随机数之旅 2",
     "description": "MT19.937，哇哦\n",
-    "category": [
-      "Extras",
-      "Crypto"
-    ],
-    "tags": [
-      "MT19937"
-    ],
+    "category": ["Extras", "Crypto"],
+    "tags": ["MT19937"],
     "author": "Cathylin",
     "attachments": [
       "https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment_extras/ext.cry.random-journey-2.rar"
@@ -4443,13 +3390,8 @@
     "id": 138,
     "name": "随机数之旅 3.6",
     "description": "关键在你拥有的信息\n",
-    "category": [
-      "Extras",
-      "Crypto"
-    ],
-    "tags": [
-      "线性代数"
-    ],
+    "category": ["Extras", "Crypto"],
+    "tags": ["线性代数"],
     "author": "Cathylin",
     "attachments": [
       "https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment_extras/ext.cry.random-journey-3.6.rar"
@@ -4465,13 +3407,8 @@
     "id": 139,
     "name": "随机数之旅 3.9",
     "description": "姐姐解方程\n",
-    "category": [
-      "Extras",
-      "Crypto"
-    ],
-    "tags": [
-      "线性代数"
-    ],
+    "category": ["Extras", "Crypto"],
+    "tags": ["线性代数"],
     "author": "Cathylin",
     "attachments": [
       "https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment_extras/ext.cry.random-journey-3.9.rar"
@@ -4487,13 +3424,8 @@
     "id": 140,
     "name": "运气与实力",
     "description": "参数：$2^{24}$; $514$\n",
-    "category": [
-      "Extras",
-      "Crypto"
-    ],
-    "tags": [
-      "生日攻击"
-    ],
+    "category": ["Extras", "Crypto"],
+    "tags": ["生日攻击"],
     "author": "Cathylin",
     "attachments": [],
     "services": [
@@ -4521,16 +3453,9 @@
   {
     "id": 141,
     "name": "置换 DLP",
-    "description": "给定对称群 $S_n$ 和其两个元素（也就是置换）$g, h$，求 $x$ 满足 $g$ 自己复合 $x$ 次得到 $h$.\n\n> [!TIP] 例\n>\n> 输入：$S_3$，$(1\\ 2\\ 3)$，$(1\\ 3\\ 2)$\n>\n> 输出：$2$\n>\n> 因为：$(1\\ 2\\ 3)(1\\ 2\\ 3) = (1\\ 3\\ 2) = (1\\ 2\\ 3)^2$\n",
-    "category": [
-      "Extras",
-      "Crypto"
-    ],
-    "tags": [
-      "算法",
-      "群论",
-      "CRT"
-    ],
+    "description": "给定对称群 $S_n$ 和其两个元素（也就是置换） $g, h$，求 $x$ 满足 $g$ 自己复合 $x$ 次得到 $h$.\n\n> [!TIP] 例\n>\n> 输入: $S_3$, $(1\\ 2\\ 3)$, $(1\\ 3\\ 2)$\n>\n> 输出: $2$\n>\n> 因为: $(1\\ 2\\ 3)(1\\ 2\\ 3) = (1\\ 3\\ 2) = (1\\ 2\\ 3)^2$\n",
+    "category": ["Extras", "Crypto"],
+    "tags": ["算法", "群论", "CRT"],
     "author": "Cathylin",
     "attachments": [],
     "services": [
@@ -4559,14 +3484,8 @@
     "id": 142,
     "name": "DLP",
     "description": "用好题目和工具，解决这个离散对数问题吧！\n",
-    "category": [
-      "Extras",
-      "Crypto"
-    ],
-    "tags": [
-      "离散对数",
-      "CRT"
-    ],
+    "category": ["Extras", "Crypto"],
+    "tags": ["离散对数", "CRT"],
     "author": "Hanson",
     "attachments": [
       "https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment_extras/ext.cry.dlp.zip"
@@ -4582,15 +3501,8 @@
     "id": 143,
     "name": "final_R",
     "description": "NewStar CTF 2025 密码学收官之作。\n",
-    "category": [
-      "Extras",
-      "Crypto"
-    ],
-    "tags": [
-      "循环卷积",
-      "抽象代数",
-      "多项式环"
-    ],
+    "category": ["Extras", "Crypto"],
+    "tags": ["循环卷积", "抽象代数", "多项式环"],
     "author": "Cathylin",
     "attachments": [
       "https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment_extras/ext.cry.final-r.rar"
@@ -4606,16 +3518,8 @@
     "id": 144,
     "name": "Weil 的噪声与秩序",
     "description": "Weil 配对是一种强大的工具，能将椭圆曲线上的点映射到乘法群中，创造出结构化的「秩序」。但当随机噪声被引入其中，这种秩序便会被打破。\n\n你的任务是分析一组被 Weil 配对加密的数据，其中一部分是纯粹的秩序，另一部分则被强烈的噪声污染。区分它们，你就能读懂隐藏在背后的信息。\n",
-    "category": [
-      "Extras",
-      "Crypto"
-    ],
-    "tags": [
-      "Weil 配对",
-      "较小子群",
-      "特征察觉",
-      "椭圆曲线"
-    ],
+    "category": ["Extras", "Crypto"],
+    "tags": ["Weil 配对", "较小子群", "特征察觉", "椭圆曲线"],
     "author": "gloriablack",
     "attachments": [
       "https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment_extras/ext.cry.weil-noise-order.zip"
@@ -4631,14 +3535,8 @@
     "id": 145,
     "name": "不是所有牛奶都叫___",
     "description": "什么牛奶？MN？YGNC？YL？特 @#&!+&*@!#^&-------------------.\n",
-    "category": [
-      "Extras",
-      "Misc"
-    ],
-    "tags": [
-      "流量分析",
-      "TLS 流量解密"
-    ],
+    "category": ["Extras", "Misc"],
+    "tags": ["流量分析", "TLS 流量解密"],
     "author": "miko",
     "attachments": [
       "https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment_extras/ext.misc.not-all-milk.zip"

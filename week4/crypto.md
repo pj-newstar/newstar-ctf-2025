@@ -52,7 +52,7 @@ Alice 和 Bob 通讯时使用了四元数共轭的密钥交换协议。
 
 我们设计了一个三重密钥的安全系统，需要同时输入三个短密钥 $(a,b,c)$ 才能解锁。
 
-验证方程：$k\times a + m\times b + n\times c \equiv f \pmod p$.
+验证方程: $k\times a + m\times b + n\times c \equiv f \pmod p$.
 
 其中 $k,m,n,f$ 已知，且 $a,b,c$ 都是很短的向量。
 
