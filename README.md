@@ -2,13 +2,14 @@
 
 This repository is the archive of [NewStar CTF 2025](https://newstar.wiki/guide/2025/). Attachments and images of challenges are also part of the repository.
 
-You can view the challenge details in each `week?` directory:
+You can view the challenge details in each `week?` or `extras` directory:
 
 - [Week 1](./week1)
 - [Week 2](./week2)
 - [Week 3](./week3)
 - [Week 4](./week4)
 - [Week 5](./week5)
+- [Extras (挑战题)](./extras)
 
 You can download challenge images at [openctf/newstar-2025](https://hub.docker.com/r/openctf/newstar-2025) on Docker Hub.
 
