@@ -69,7 +69,7 @@ interface Metadata {
     // whether the service can access the internet, default means any
     internet?: boolean;
   }[];
-  answer: string | null; // `null` means dynamic generated answer
+  answer: string | null;     // `null` means dynamic generated answer
 
   /* optional fields */
 
