@@ -22,12 +22,12 @@ It has the following structure:
 
 ```typescript
 interface Metadata {
-  id: number | string;   // must be unique
+  id: number | string;       // must be unique
   name: string;
   description: string;
-  category: string[];    // sorted based on hierarchical relationship
+  category: string[];        // sorted based on hierarchical relationship
   tags: string[];
-  author: string;        // empty string means unknown or anonymous
+  author: string | string[]; // empty string means unknown or anonymous
   attachments: string[] | { name: string; url: string }[];
   services: {
     // service name id, must be unique
@@ -42,6 +42,18 @@ interface Metadata {
     // environment variables
     environment?: {
       [key: string]: string | null; // `null` means use non-static or refs value (e.g. `answer`)
+    };
+    // resource limits
+    limits?: {
+      cpu?: string;          // CPU limit, e.g. "0.5"
+      memory?: string;       // memory limit, e.g. "256Mi"
+      storage?: string;      // storage limit, e.g. "1Gi"
+    };
+    // resource requests
+    requests?: {
+      cpu?: string;          // CPU request, e.g. "0.1"
+      memory?: string;       // memory request, e.g. "64Mi"
+      storage?: string;      // storage request, e.g. "128Mi"
     };
     // the hostnames of this service, other services can access it by these hostnames
     hosts?: string[];
@@ -61,17 +73,17 @@ interface Metadata {
   /* optional fields */
 
   difficulty?: number;
-  hints?: string[];      // hints for the challenge
-  hidden?: boolean;      // whether the challenge is hidden
-  score?: number;        // static score
+  hints?: string[];          // hints for the challenge
+  hidden?: boolean;          // whether the challenge is hidden
+  score?: number;            // static score
 
   /**
    * Plugin ids, each plugin has its own schema (or add fields on the global metadata schema).
    * This field is only reserved to avoid conflicts between fields, or categorize extra data.
    */
-  plugins: {
+  plugins?: {
     id: string; // plugin id
-    data: {
+    data?: {
       [key: string]: any;
     };
   }[];
