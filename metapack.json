@@ -3217,7 +3217,8 @@
     "answer": null,
     "difficulty": 3,
     "extra": {
-      "inspectors": []
+      "inspectors": [],
+      "release_at": "Week 5"
     }
   },
   {
@@ -3234,7 +3235,8 @@
     "answer": "flag{Y0u_oU_u_4rE_Re_3_Go0d_OoD_0d_D_47_t_l1bgMp_4Nd_7h15_4sYmM3tr1c_3nCrYp710n}",
     "difficulty": 3,
     "extra": {
-      "inspectors": []
+      "inspectors": [],
+      "release_at": "Week 4"
     }
   },
   {
@@ -3268,7 +3270,8 @@
     "answer": null,
     "difficulty": 3,
     "extra": {
-      "inspectors": []
+      "inspectors": [],
+      "release_at": "Week 3"
     }
   },
   {
@@ -3298,7 +3301,8 @@
     "answer": "flag{4n_4u7om0rphi5m_15_4150_4n_i50m0rphi5m.}",
     "difficulty": 3,
     "extra": {
-      "inspectors": []
+      "inspectors": [],
+      "release_at": "Week 3"
     }
   },
   {
@@ -3315,7 +3319,8 @@
     "answer": "flag{Does_it_look_chaotic?This_just_the_beginning!}",
     "difficulty": 3,
     "extra": {
-      "inspectors": []
+      "inspectors": [],
+      "release_at": "Week 4"
     }
   },
   {
@@ -3332,7 +3337,8 @@
     "answer": "flag{a9eef27e-2229-4110-a28f-42f7f007c06d}",
     "difficulty": 3,
     "extra": {
-      "inspectors": []
+      "inspectors": [],
+      "release_at": "Week 4"
     }
   },
   {
@@ -3349,7 +3355,8 @@
     "answer": "flag{3ea753dc-8d46-41f7-b4a6-e828c0253831}",
     "difficulty": 3,
     "extra": {
-      "inspectors": []
+      "inspectors": [],
+      "release_at": "Week 1"
     }
   },
   {
@@ -3366,7 +3373,8 @@
     "answer": "flag{513a05ef-ca04-4e94-af25-a893da4221fe}",
     "difficulty": 3,
     "extra": {
-      "inspectors": []
+      "inspectors": [],
+      "release_at": "Week 1"
     }
   },
   {
@@ -3383,7 +3391,8 @@
     "answer": "flag{e9ef408f-feef-4732-b6d0-77d9813b8f9c}",
     "difficulty": 3,
     "extra": {
-      "inspectors": []
+      "inspectors": [],
+      "release_at": "Week 2"
     }
   },
   {
@@ -3400,7 +3409,8 @@
     "answer": "flag{0b319110-bdfa-411c-957f-50bdabe1fa1c}",
     "difficulty": 3,
     "extra": {
-      "inspectors": []
+      "inspectors": [],
+      "release_at": "Week 3"
     }
   },
   {
@@ -3417,7 +3427,8 @@
     "answer": "flag{12b2b60e-7783-4bfa-9e58-f77911a211c1_144a045e-0c31-4e5d-b7b5-7e69ac4344ac_19691419-c2f3-4b43-9955-d24adefd7005}",
     "difficulty": 3,
     "extra": {
-      "inspectors": []
+      "inspectors": [],
+      "release_at": "Week 3"
     }
   },
   {
@@ -3447,7 +3458,8 @@
     "answer": "flag{+++++++++++You_are_very_lucky.++++++++++}",
     "difficulty": 3,
     "extra": {
-      "inspectors": []
+      "inspectors": [],
+      "release_at": "Week 3"
     }
   },
   {
@@ -3477,7 +3489,8 @@
     "answer": "flag{D15cR3t3_lo94R1tHM__8Ut_1n_p3RmuT4T1on_9rOUp2__1t_c3RT41nlY_WO'Nt_83_D1fF1cuLt_4_U!}",
     "difficulty": 3,
     "extra": {
-      "inspectors": []
+      "inspectors": [],
+      "release_at": "Week 2"
     }
   },
   {
@@ -3494,7 +3507,8 @@
     "answer": "flag{D0_y0u_lik3_4i5cr3te_1og@rit6m?}",
     "difficulty": 3,
     "extra": {
-      "inspectors": []
+      "inspectors": [],
+      "release_at": "Week 2"
     }
   },
   {
@@ -3511,7 +3525,8 @@
     "answer": "flag{Circu1@r_c0nv01u7i0n_0N_v3c70R==5Qu@Ring_A_p01yn0mia!}",
     "difficulty": 3,
     "extra": {
-      "inspectors": []
+      "inspectors": [],
+      "release_at": "Week 5"
     }
   },
   {
@@ -3528,7 +3543,8 @@
     "answer": "flag{let_m3_exam1n3_wh3ther_U_h@v3_handled_weil_pair1n9}",
     "difficulty": 3,
     "extra": {
-      "inspectors": []
+      "inspectors": [],
+      "release_at": "Week 4"
     }
   },
   {
@@ -3545,7 +3561,8 @@
     "answer": "flag{W0w_You_r3al1y_knOW_TL5&QrCode}",
     "difficulty": 3,
     "extra": {
-      "inspectors": []
+      "inspectors": [],
+      "release_at": "Week 5"
     }
   }
 ]
