@@ -1,0 +1,758 @@
+List of authors
+===============
+
+Descriptions of section entries
+-------------------------------
+	A:	Author of the challenge.
+		Mail will be after the ID: ID <address@domain>
+	L:	Link of the author.
+	T:	Inspectors or testers of the challenge.
+
+
+
+Week 1 - Pwn
+----------------
+
+Pwn's Door
+A:	Findkey
+T:	L1nk
+T:	Sally
+T:	sysNow
+
+GNU Debugger
+A:	L1nk
+T:	s1eepy
+T:	KAMIYA
+
+INTbug
+A:	s1eepy
+T:	sysNow
+T:	daimi
+T:	L1nk
+
+overflow
+A:	Sally
+T:	sysNow
+T:	Findkey
+T:	s1eepy
+
+input_function
+A:	sysNow
+T:	Findkey
+T:	L1nk
+T:	Sally
+
+Week 1 - Reverse
+----------------
+
+X0r
+A:	Eleven.
+T:	Sh4mar3
+T:	KAMIYA
+
+EzMyDroid
+A:	PangBai
+T:	KAMIYA
+
+Puzzle
+A:	Eleven.
+T:	KAMIYA
+
+plzdebugme
+A:	Samsara
+T:	AstralPrisma
+T:	KAMIYA
+T:	Sh4mar3
+
+Strange Base
+A:	JSnow
+T:	KAMIYA
+
+Week 1 - Web
+----------------
+
+别笑，你也过不了第二关
+A:	rea1ity
+T:	xNftrOne
+T:	wsh_
+T:	归茛
+
+宇宙的中心是 PHP
+A:	xNftrOne
+T:	Anchovy
+T:	KAMIYA
+T:	Cnily03
+
+multi-headach3
+A:	D0ubleD
+T:	Anchovy
+T:	KAMIYA
+T:	Cnily03
+
+strange_login
+A:	D0ubleD
+T:	KAMIYA
+T:	Qu43ter
+T:	L4ne
+
+黑客小 W 的故事（1）
+A:	KAMIYA
+T:	Anchovy
+T:	Qu43ter
+T:	wsh_
+
+我真得控制你了
+A:	yunmeng
+T:	KAMIYA
+T:	wsh_
+T:	xNftrOne
+
+Week 1 - Crypto
+----------------
+
+初识 RSA
+A:	Hanson
+T:	cathylin
+
+随机数之旅 1
+A:	cathylin
+T:	L1nk
+T:	Hanson
+
+SageMath 使用指南
+A:	cathylin
+T:	L1nk
+T:	Hanson
+
+唯一表示
+A:	cathylin
+T:	willyz
+T:	Hanson
+
+小跳蛙
+A:	cathylin
+T:	L1nk
+T:	Hanson
+T:	KAMIYA
+
+Week 1 - Misc
+----------------
+
+Sign in
+A:	willyz
+
+我不要革命失败
+A:	kndye
+T:	xNftrOne
+T:	Mrsh
+T:	KAMIYA
+
+Misc 城邦：压缩术
+A:	willyz
+T:	xNftrOne
+T:	Mrsh
+
+OSINT：天空 belong
+A:	willyz
+T:	KAMIYA
+T:	Mrsh
+
+EZ_fence
+A:	Muzhi
+T:	Daybreak
+T:	kndye
+T:	Mrsh
+
+前有文字，所以搜索很有用
+A:	miko
+T:	xNftrOne
+T:	Mrsh
+T:	KAMIYA
+
+Week 2 - Pwn
+----------------
+
+刻在栈里的秘密
+A:	L1nk
+T:	sysNow
+T:	Sally
+T:	KAMIYA
+
+no shell
+A:	Findkey
+T:	sysNow
+T:	s1eepy
+T:	Sally
+
+syscall
+A:	s1eepy
+T:	sysNow
+T:	L1nk
+T:	Sally
+
+input_small_function
+A:	sysNow
+T:	L1nk
+T:	s1eepy
+T:	Sally
+
+calc_beta
+A:	daimi
+T:	s1eepy
+T:	KAMIYA
+
+Week 2 - Reverse
+----------------
+
+尤皮·埃克斯历险记（1）
+A:	AstralPrisma
+T:	JSnow
+T:	KAMIYA
+
+采一朵花，送给艾达（1）
+A:	AstralPrisma
+T:	Azusaq
+T:	KAMIYA
+
+Forgotten_Code
+A:	Azusaq
+T:	KAMIYA
+
+Look at me carefully
+A:	JSnow
+T:	KAMIYA
+
+OhNativeEnc
+A:	PangBai
+T:	Azusaq
+T:	KAMIYA
+
+Week 2 - Web
+----------------
+
+真的是签到诶
+A:	KAMIYA
+T:	xNftrOne
+
+搞点哦润吉吃吃🍊
+A:	Qu43ter
+T:	KAMIYA
+T:	Anchovy
+T:	wsh_
+
+DD 加速器
+A:	D0ubleD
+T:	Anchovy
+T:	KAMIYA
+T:	wsh_
+
+白帽小 K 的故事（1）
+A:	KAMIYA
+T:	wsh_
+T:	xNftrOne
+T:	ENOCH
+
+小 E 的管理系统
+A:	ENOCH
+T:	KAMIYA
+T:	wsh_
+
+Week 2 - Crypto
+----------------
+
+DLP_1
+A:	Hanson
+T:	cathylin
+
+FHE: 0&1
+A:	cathylin
+T:	Hanson
+
+群论小测试
+A:	cathylin
+
+置换
+A:	cathylin
+T:	Hanson
+
+RSA_revenge
+A:	Hanson
+T:	cathylin
+
+Week 2 - Misc
+----------------
+
+美妙的音乐
+A:	AstralPrisma
+T:	Mrsh
+T:	miko
+T:	willyz
+
+日志分析：不敬者的闯入
+A:	willyz
+T:	miko
+
+OSINT：威胁情报
+A:	willyz
+T:	Mrsh
+T:	miko
+
+星期四的狂想
+A:	KAMIYA
+T:	miko
+T:	Mrsh
+
+Misc 城邦：NewKeyboard
+A:	willyz
+T:	miko
+T:	Mrsh
+
+Week 3 - Pwn
+----------------
+
+fmt&canary
+A:	L1nk
+T:	s1eepy
+T:	Zeriah
+
+sandbox_plus
+A:	sysNow
+T:	L1nk
+T:	s1eepy
+T:	Zeriah
+
+小的明？题问
+A:	daimi
+
+calc_meow
+A:	daimi
+
+only_read
+A:	Sally
+T:	Findkey
+
+Week 3 - Reverse
+----------------
+
+pyz3
+A:	Azusaq
+T:	AstralPrisma
+
+采一朵花，送给艾达（2）
+A:	AstralPrisma
+T:	JSnow
+T:	Azusaq
+
+谁改了我的密钥啊
+A:	PangBai
+T:	Azusaq
+
+尤皮·埃克斯历险记（2）
+A:	AstralPrisma
+T:	Azusaq
+
+Dancing Functions
+A:	AstralPrisma
+
+Week 3 - Web
+----------------
+
+小 E 的秘密计划
+A:	ENOCH
+T:	xNftrOne
+T:	wsh_
+T:	归茛
+
+ez-chain
+A:	D0ubleD
+T:	xNftrOne
+T:	归茛
+T:	KAMIYA
+
+MyGO!!!
+A:	rea1ity
+T:	wsh_
+T:	KAMIYA
+T:	xNftrOne
+
+白帽小 K 的故事（2）
+A:	KAMIYA
+T:	ENOCH
+T:	wsh_
+T:	D0ubleD
+
+mirror_gate
+A:	Icesugar
+T:	KAMIYA
+T:	xNftrOne
+T:	wsh_
+
+who'ssti
+A:	KAMIYA
+T:	wsh_
+T:	Icesugar
+T:	D0ubleD
+
+Week 3 - Crypto
+----------------
+
+CBC 之舞
+A:	gloriablack
+T:	Hanson
+
+被泄露的素数
+A:	gloriablack
+T:	Hanson
+
+欧皇的生日
+A:	cathylin
+T:	gloriablack
+T:	Hanson
+T:	KAMIYA
+
+随机数之旅 3
+A:	cathylin
+T:	Hanson
+
+GCL
+A:	cathylin
+T:	Hanson
+
+Week 3 - Misc
+----------------
+
+流量分析：S7 的秘密
+A:	willyz
+
+日志分析：盲辨海豚
+A:	willyz
+T:	miko
+T:	Mrsh
+
+内存取证：Windows 篇
+A:	miko
+T:	willyz
+
+区块链：以太坊的约定
+A:	willyz
+
+jail-evil eval
+A:	KAMIYA
+T:	yuro
+
+Week 4 - Pwn
+----------------
+
+fmt&got
+A:	L1nk
+T:	daimi
+T:	Findkey
+T:	Zeriah
+
+海市蜃楼
+A:	daimi
+T:	Findkey
+T:	sysNow
+T:	Sally
+
+memory
+A:	sysNow
+T:	Zeriah
+T:	Findkey
+T:	L1nk
+
+calc_queen
+A:	daimi
+T:	Findkey
+
+content
+A:	ishmael
+T:	daimi
+
+Week 4 - Reverse
+----------------
+
+NOT_TUI
+A:	Azusaq
+T:	AstralPrisma
+T:	JSnow
+
+PleaseHookMe
+A:	PangBai
+
+尤皮·埃克斯历险记（3）
+A:	AstralPrisma
+T:	JSnow
+
+Dancing Keys
+A:	AstralPrisma
+T:	Azusaq
+T:	JSnow
+
+ezrust
+A:	Azusaq
+T:	JSnow
+
+Week 4 - Web
+----------------
+
+SSTI 在哪里？
+A:	wsh_
+T:	JohnSmith
+T:	ENOCH
+T:	L4ne
+
+武功秘籍
+A:	yuhua
+T:	KAMIYA
+T:	D0ubleD
+T:	L4ne
+
+小 E 的留言板
+A:	ENOCH
+T:	KAMIYA
+T:	wsh_
+T:	D0ubleD
+
+小羊走迷宫
+A:	xNftrOne
+T:	wsh_
+T:	KAMIYA
+T:	D0ubleD
+
+sqlupload
+A:	KAMIYA
+T:	D0ubleD
+T:	wsh_
+
+Week 4 - Crypto
+----------------
+
+独一无二
+A:	cathylin
+T:	KAMIYA
+T:	Hanson
+
+随机数之旅 4
+A:	cathylin
+T:	KAMIYA
+T:	Hanson
+T:	Icesugar
+
+共轭迷宫
+A:	gloriablack
+T:	KAMIYA
+T:	Hanson
+
+三重密钥锁
+A:	gloriablack
+
+天虫的秘密
+A:	cathylin
+
+Week 4 - Misc
+----------------
+
+流量分析：听声辩位
+A:	willyz
+T:	miko
+T:	Mrsh
+
+区块链：智能合约
+A:	willyz
+T:	KAMIYA
+T:	miko
+T:	Mrsh
+
+jail-Neuro jail
+A:	KAMIYA
+T:	miko
+T:	willyz
+T:	Mrsh
+
+混乱的网站
+A:	willyz
+T:	KAMIYA
+T:	miko
+T:	Mrsh
+
+应急响应：初识
+A:	willyz
+T:	miko
+
+Week 5 - Pwn
+----------------
+
+复读机堂堂归来！复读机堂堂归来！
+A:	L1nk
+T:	daimi
+T:	Zeriah
+
+note
+A:	sysNow
+T:	Sally
+T:	L1nk
+T:	Zeriah
+
+stdout
+A:	L1nk
+
+go?
+A:	ishmael
+
+Pwn the world
+A:	daimi
+
+Week 5 - Reverse
+----------------
+
+魔法少女的秘密
+A:	PangBai
+
+天才的「认证」
+A:	yuro
+T:	AstralPrisma
+
+AnEasySystem
+A:	AstralPrisma
+T:	AstralPrisma
+T:	Azusaq
+
+Jvav Master
+A:	AstralPrisma
+
+河图洛书
+A:	AstralPrisma
+T:	Azusaq
+
+Week 5 - Web
+----------------
+
+被玩坏的 AI
+A:	归茛
+T:	xNftrOne
+T:	D0ubleD
+T:	wsh_
+
+废弃的网站
+A:	sanjio
+T:	D0ubleD
+T:	wsh_
+
+小 W 和小 K 的故事（最终章）
+A:	KAMIYA
+T:	D0ubleD
+T:	wsh_
+
+眼熟的计算器
+A:	KAMIYA
+T:	D0ubleD
+T:	wsh_
+
+Binary Blog
+A:	归茛
+T:	D0ubleD
+
+Week 5 - Crypto
+----------------
+
+不给你看喵
+A:	cathylin
+
+BLS 多重签名：零的裂变
+A:	gloriablack
+
+Poly
+A:	cathylin
+
+Smile 盒
+A:	cathylin
+
+Week 5 - Misc
+----------------
+
+区块链：INTbug
+A:	willyz
+T:	miko
+
+应急响应：把你 mikumiku 掉（1）
+A:	willyz
+
+应急响应：把你 mikumiku 掉（2）
+A:	willyz
+
+应急响应：把你 mikumiku 掉（3）
+A:	willyz
+
+AI HACKER
+A:	Mrsh
+
+TIME HACKER
+A:	Mrsh
+T:	miko
+
+Extras - Pwn
+----------------
+
+llama-pwn
+A:	Th3S
+
+Extras - Reverse
+----------------
+
+Not Symmetric
+A:	AstralPrisma
+
+Extras - Web
+----------------
+
+who'ssti revenge
+A:	KAMIYA
+
+Extras - Crypto
+----------------
+
+黑盒 1
+A:	Cathylin
+
+混沌密码学入门
+A:	Cathylin
+
+简约但不简单
+A:	Cathylin
+
+随机数之旅 1.3
+A:	Cathylin
+
+随机数之旅 1.9
+A:	Cathylin
+
+随机数之旅 2
+A:	Cathylin
+
+随机数之旅 3.6
+A:	Cathylin
+
+随机数之旅 3.9
+A:	Cathylin
+
+运气与实力
+A:	Cathylin
+
+置换 DLP
+A:	Cathylin
+
+DLP
+A:	Hanson
+
+final_R
+A:	Cathylin
+
+Weil 的噪声与秩序
+A:	gloriablack
+
+Extras - Misc
+----------------
+
+不是所有牛奶都叫___
+A:	miko
