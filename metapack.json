@@ -2734,7 +2734,7 @@
   {
     "id": 111,
     "name": "AnEasySystem",
-    "description": "——你是安卓人、苹果人、Linux 人还是 Windows 人？\n\n——都不是。\n\n——？\n",
+    "description": "——「你是安卓人、苹果人、Linux 人还是 Windows 人？」\n\n——「都不是。」\n\n——「？」\n",
     "category": ["Week5", "Reverse"],
     "tags": ["鸿蒙逆向", "魔改AES"],
     "author": "AstralPrisma",
@@ -2751,7 +2751,7 @@
   {
     "id": 112,
     "name": "Jvav Master",
-    "description": "——你会 Java 吗？\n\n——我会 Jvav 啊！\n",
+    "description": "——「你会 Java 吗？」\n\n——「我会 Jvav 啊！」\n",
     "category": ["Week5", "Reverse"],
     "tags": ["exe4j", "单字节 VM"],
     "author": "AstralPrisma",
@@ -2921,7 +2921,7 @@
     "name": "Binary Blog",
     "description": "欢迎来到的我的二进制博客。\n",
     "category": ["Week5", "Web"],
-    "tags": ["反序列", "文件上传"],
+    "tags": ["反序列化", "文件上传"],
     "author": "归茛",
     "attachments": [],
     "services": [

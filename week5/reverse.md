@@ -34,11 +34,11 @@
 > <code>flag{r3v3Rs1Ng_7h3_H4rm0nY_05_1s_n07_4S_d1Ff1cUl7_45_y0U_7h1nK!}</code>
 > </details>
 
-——你是安卓人、苹果人、Linux 人还是 Windows 人？
+——「你是安卓人、苹果人、Linux 人还是 Windows 人？」
 
-——都不是。
+——「都不是。」
 
-——？
+——「？」
 
 ## Jvav Master
 
@@ -50,9 +50,9 @@
 > <code>flag{4r3_y0U_g0oD_a7_j4vA?I'm_V3rY_Go0d_47_JvaV}</code>
 > </details>
 
-——你会 Java 吗？
+——「你会 Java 吗？」
 
-——我会 Jvav 啊！
+——「我会 Jvav 啊！」
 
 ## 河图洛书
 
