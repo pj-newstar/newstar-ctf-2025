@@ -10,7 +10,7 @@
 >
 > ```bash
 > # http://127.0.0.1:80
-> docker run -itd --rm --name w3_e_secret_plan -p 80:80 -e ICQ_FLAG=flag{34faed62-2c96-e314-f2cb-08399e3904a4} openctf/newstar-2025:week3_e-secret-plan
+> docker run -itd --rm --name w3-e-secret-plan -p 80:80 -e ICQ_FLAG=flag{34faed62-2c96-e314-f2cb-08399e3904a4} openctf/newstar-2025:week3_e-secret-plan
 > ```
 > </details>
 
@@ -29,7 +29,7 @@
 >
 > ```bash
 > # http://127.0.0.1:80
-> docker run -itd --rm --name w3_ez_chain -p 80:80 -e ICQ_FLAG=flag{411e9009-7c3c-1fc9-19cf-c5599041d675} openctf/newstar-2025:week3_ez-chain
+> docker run -itd --rm --name w3-ez-chain -p 80:80 -e ICQ_FLAG=flag{411e9009-7c3c-1fc9-19cf-c5599041d675} openctf/newstar-2025:week3_ez-chain
 > ```
 > </details>
 
@@ -48,7 +48,7 @@
 >
 > ```bash
 > # http://127.0.0.1:80
-> docker run -itd --rm --name w3_mygo -p 80:80 -e ICQ_FLAG=flag{5beaeb0a-b869-41c1-c5a4-5a22cd99174f} openctf/newstar-2025:week3_mygo
+> docker run -itd --rm --name w3-mygo -p 80:80 -e ICQ_FLAG=flag{5beaeb0a-b869-41c1-c5a4-5a22cd99174f} openctf/newstar-2025:week3_mygo
 > ```
 > </details>
 
@@ -67,7 +67,7 @@ MyGo 的音乐好好听，要全部下下来，FLAG 也可以顺手（
 >
 > ```bash
 > # http://127.0.0.1:80
-> docker run -itd --rm --name w3_whitek2 -p 80:80 -e ICQ_FLAG=flag{52353c3f-e46d-f419-fec8-58e506970a4d} openctf/newstar-2025:week3_whitek2
+> docker run -itd --rm --name w3-whitek2 -p 80:80 -e ICQ_FLAG=flag{52353c3f-e46d-f419-fec8-58e506970a4d} openctf/newstar-2025:week3_whitek2
 > ```
 > </details>
 
@@ -88,7 +88,7 @@ MyGo 的音乐好好听，要全部下下来，FLAG 也可以顺手（
 >
 > ```bash
 > # http://127.0.0.1:80
-> docker run -itd --rm --name w3_mirror_gate -p 80:80 -e ICQ_FLAG=flag{8c4d1d5b-3457-74bc-268d-34e5ea0e3271} openctf/newstar-2025:week3_mirror-gate
+> docker run -itd --rm --name w3-mirror-gate -p 80:80 -e ICQ_FLAG=flag{8c4d1d5b-3457-74bc-268d-34e5ea0e3271} openctf/newstar-2025:week3_mirror-gate
 > ```
 > </details>
 
@@ -109,7 +109,7 @@ MyGo 的音乐好好听，要全部下下来，FLAG 也可以顺手（
 >
 > ```bash
 > # http://127.0.0.1:80
-> docker run -itd --rm --name w3_whossti -p 80:80 -e ICQ_FLAG=flag{5c0757fa-c289-44c2-561c-2a519d16ecaf} openctf/newstar-2025:week3_whossti
+> docker run -itd --rm --name w3-whossti -p 80:80 -e ICQ_FLAG=flag{5c0757fa-c289-44c2-561c-2a519d16ecaf} openctf/newstar-2025:week3_whossti
 > ```
 > </details>
 

@@ -42,7 +42,7 @@ Sepolia 测试链水龙头地址：<https://sepolia-faucet.pk910.de/>
 >
 > ```bash
 > # nc 127.0.0.1 9999
-> docker run -itd --rm --name w4_jail_neuro -p 9999:9999 -e ICQ_FLAG=flag{a1b2bbd4-9afc-c549-939a-cce3136ec376} openctf/newstar-2025:week4_jail-neuro
+> docker run -itd --rm --name w4-jail-neuro -p 9999:9999 -e ICQ_FLAG=flag{a1b2bbd4-9afc-c549-939a-cce3136ec376} openctf/newstar-2025:week4_jail-neuro
 > ```
 > </details>
 
@@ -64,7 +64,7 @@ Neuro 打 osu 的时候被关进 jail 了！一定是 Evil 干的，快点帮帮
 >
 > ```bash
 > # http://127.0.0.1:80
-> docker run -itd --rm --name w4_chaotic_website -p 80:80 openctf/newstar-2025:week4_chaotic-site
+> docker run -itd --rm --name w4-chaotic-website -p 80:80 openctf/newstar-2025:week4_chaotic-site
 > ```
 > </details>
 

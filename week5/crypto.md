@@ -10,7 +10,7 @@
 >
 > ```bash
 > # nc 127.0.0.1 10666
-> docker run -itd --rm --name w5_noshowyou_zkp -p 10666:10666 openctf/newstar-2025:week5_noshowyou-zkp
+> docker run -itd --rm --name w5-noshowyou-zkp -p 10666:10666 openctf/newstar-2025:week5_noshowyou-zkp
 > ```
 > </details>
 
@@ -30,7 +30,7 @@
 >
 > ```bash
 > # nc 127.0.0.1 9999
-> docker run -itd --rm --name w5_bls_sign -p 9999:9999 -e ICQ_FLAG=flag{75829b23-faf8-c0d9-dd8e-a95eebcfa7c2} openctf/newstar-2025:week5_bls-sign
+> docker run -itd --rm --name w5-bls-sign -p 9999:9999 -e ICQ_FLAG=flag{75829b23-faf8-c0d9-dd8e-a95eebcfa7c2} openctf/newstar-2025:week5_bls-sign
 > ```
 > </details>
 
@@ -70,7 +70,7 @@ What's the gcd of three polynomials?
 >
 > ```bash
 > # nc 127.0.0.1 10721
-> docker run -itd --rm --name w5_smile -p 10721:10721 openctf/newstar-2025:week5_smile
+> docker run -itd --rm --name w5-smile -p 10721:10721 openctf/newstar-2025:week5_smile
 > ```
 > </details>
 

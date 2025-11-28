@@ -10,7 +10,7 @@
 >
 > ```bash
 > # http://127.0.0.1:80
-> docker run -itd --rm --name w4_where_ssti -p 80:80 -e ICQ_FLAG=flag{c1a730d1-dbb3-71a6-331d-72d1b44f589d} openctf/newstar-2025:week4_where-ssti
+> docker run -itd --rm --name w4-where-ssti -p 80:80 -e ICQ_FLAG=flag{c1a730d1-dbb3-71a6-331d-72d1b44f589d} openctf/newstar-2025:week4_where-ssti
 > ```
 > </details>
 
@@ -29,7 +29,7 @@
 >
 > ```bash
 > # http://127.0.0.1:80
-> docker run -itd --rm --name w4_cve_kongfu -p 80:80 -e ICQ_FLAG=flag{c806103d-d305-364e-07b0-365df869e3ca} openctf/newstar-2025:week4_cve-kongfu
+> docker run -itd --rm --name w4-cve-kongfu -p 80:80 -e ICQ_FLAG=flag{c806103d-d305-364e-07b0-365df869e3ca} openctf/newstar-2025:week4_cve-kongfu
 > ```
 > </details>
 
@@ -53,7 +53,7 @@
 >
 > ```bash
 > # http://127.0.0.1:5000
-> docker run -itd --rm --name w4_e_board -p 5000:5000 -e ICQ_FLAG=flag{1268462d-7378-3743-f768-dc26b2a9c6fb} openctf/newstar-2025:week4_e-board
+> docker run -itd --rm --name w4-e-board -p 5000:5000 -e ICQ_FLAG=flag{1268462d-7378-3743-f768-dc26b2a9c6fb} openctf/newstar-2025:week4_e-board
 > ```
 > </details>
 
@@ -72,7 +72,7 @@
 >
 > ```bash
 > # http://127.0.0.1:11451
-> docker run -itd --rm --name w4_xiaoyang -p 11451:11451 -e ICQ_FLAG=flag{e7db89ee-fe23-4c9d-7ace-2ad19df2c1a1} openctf/newstar-2025:week4_xiaoyang
+> docker run -itd --rm --name w4-xiaoyang -p 11451:11451 -e ICQ_FLAG=flag{e7db89ee-fe23-4c9d-7ace-2ad19df2c1a1} openctf/newstar-2025:week4_xiaoyang
 > ```
 > </details>
 
@@ -91,7 +91,7 @@
 >
 > ```bash
 > # http://127.0.0.1:80
-> docker run -itd --rm --name w4_sqlupload -p 80:80 -e ICQ_FLAG=flag{2af74d1e-5afc-eee9-33da-8a5245ffcd1d} openctf/newstar-2025:week4_sqlupload
+> docker run -itd --rm --name w4-sqlupload -p 80:80 -e ICQ_FLAG=flag{2af74d1e-5afc-eee9-33da-8a5245ffcd1d} openctf/newstar-2025:week4_sqlupload
 > ```
 > </details>
 

@@ -10,7 +10,7 @@
 >
 > ```bash
 > # http://127.0.0.1:80
-> docker run -itd --rm --name w5_broken_ai -p 80:80 -e ICQ_FLAG=flag{cc7214f2-7c2b-412c-ca22-91466438f884} openctf/newstar-2025:week5_broken-ai
+> docker run -itd --rm --name w5-broken-ai -p 80:80 -e ICQ_FLAG=flag{cc7214f2-7c2b-412c-ca22-91466438f884} openctf/newstar-2025:week5_broken-ai
 > ```
 > </details>
 
@@ -29,7 +29,7 @@
 >
 > ```bash
 > # http://127.0.0.1:5000
-> docker run -itd --rm --name w5_abandoned_website -p 5000:5000 -e ICQ_FLAG=flag{d0d0b6c4-1f18-a2ed-b6dd-7d518fc50626} openctf/newstar-2025:week5_abandoned-site
+> docker run -itd --rm --name w5-abandoned-website -p 5000:5000 -e ICQ_FLAG=flag{d0d0b6c4-1f18-a2ed-b6dd-7d518fc50626} openctf/newstar-2025:week5_abandoned-site
 > ```
 > </details>
 
@@ -48,7 +48,7 @@
 >
 > ```bash
 > # http://127.0.0.1:3000
-> docker run -itd --rm --name w5_wk_story_final -p 3000:3000 -e ICQ_FLAG=flag{b49c020a-965a-e485-0904-fe61d323a7c6} openctf/newstar-2025:week5_wk-story-final
+> docker run -itd --rm --name w5-wk-story-final -p 3000:3000 -e ICQ_FLAG=flag{b49c020a-965a-e485-0904-fe61d323a7c6} openctf/newstar-2025:week5_wk-story-final
 > ```
 > </details>
 
@@ -72,7 +72,7 @@
 >
 > ```bash
 > # http://127.0.0.1:9999
-> docker run -itd --rm --name w5_familiar_calc -p 9999:9999 -e ICQ_FLAG=flag{81d5c7e2-71b0-3cf3-43be-120d919575e1} openctf/newstar-2025:week5_familiar-calc
+> docker run -itd --rm --name w5-familiar-calc -p 9999:9999 -e ICQ_FLAG=flag{81d5c7e2-71b0-3cf3-43be-120d919575e1} openctf/newstar-2025:week5_familiar-calc
 > ```
 > </details>
 
@@ -91,7 +91,7 @@
 >
 > ```bash
 > # http://127.0.0.1:80
-> docker run -itd --rm --name w5_binary_blog -p 80:80 -e ICQ_FLAG=flag{aff75a67-e0bc-8f15-40d8-cad62ad74ec6} openctf/newstar-2025:week5_binary-blog
+> docker run -itd --rm --name w5-binary-blog -p 80:80 -e ICQ_FLAG=flag{aff75a67-e0bc-8f15-40d8-cad62ad74ec6} openctf/newstar-2025:week5_binary-blog
 > ```
 > </details>
 

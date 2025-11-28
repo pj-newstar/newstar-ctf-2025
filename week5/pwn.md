@@ -10,7 +10,7 @@
 >
 > ```bash
 > # nc 127.0.0.1 24680
-> docker run -itd --rm --name w5_fuduji_back -p 24680:24680 -e ICQ_FLAG=flag{756cdf2c-331c-a3fe-7fcb-1b956b574c8f} openctf/newstar-2025:week5_fuduji-back
+> docker run -itd --rm --name w5-fuduji-back -p 24680:24680 -e ICQ_FLAG=flag{756cdf2c-331c-a3fe-7fcb-1b956b574c8f} openctf/newstar-2025:week5_fuduji-back
 > ```
 > </details>
 
@@ -29,7 +29,7 @@
 >
 > ```bash
 > # nc 127.0.0.1 1337
-> docker run -itd --rm --name w5_note -p 1337:1337 -e ICQ_FLAG=flag{364cd82f-5276-62d1-3f12-67a4eac134cc} openctf/newstar-2025:week5_note
+> docker run -itd --rm --name w5-note -p 1337:1337 -e ICQ_FLAG=flag{364cd82f-5276-62d1-3f12-67a4eac134cc} openctf/newstar-2025:week5_note
 > ```
 > </details>
 
@@ -48,7 +48,7 @@
 >
 > ```bash
 > # nc 127.0.0.1 13579
-> docker run -itd --rm --name w5_stdout -p 13579:13579 -e ICQ_FLAG=flag{8cec722d-7a18-e936-cca2-2ab1b7836f26} openctf/newstar-2025:week5_stdout
+> docker run -itd --rm --name w5-stdout -p 13579:13579 -e ICQ_FLAG=flag{8cec722d-7a18-e936-cca2-2ab1b7836f26} openctf/newstar-2025:week5_stdout
 > ```
 > </details>
 
@@ -69,7 +69,7 @@
 >
 > ```bash
 > # nc 127.0.0.1 9999
-> docker run -itd --rm --name w5_pwn_go -p 9999:9999 -e ICQ_FLAG=flag{198747ab-6774-fb27-cfd7-b379984ae2bf} openctf/newstar-2025:week5_pwn-go
+> docker run -itd --rm --name w5-pwn-go -p 9999:9999 -e ICQ_FLAG=flag{198747ab-6774-fb27-cfd7-b379984ae2bf} openctf/newstar-2025:week5_pwn-go
 > ```
 > </details>
 
@@ -88,7 +88,7 @@
 >
 > ```bash
 > # nc 127.0.0.1 9999
-> docker run -itd --rm --name w5_pwn_world -p 9999:9999 -e ICQ_FLAG=flag{64f8a5f6-0a46-332e-ace5-a77ad314f649} openctf/newstar-2025:week5_pwn-world
+> docker run -itd --rm --name w5-pwn-world -p 9999:9999 -e ICQ_FLAG=flag{64f8a5f6-0a46-332e-ace5-a77ad314f649} openctf/newstar-2025:week5_pwn-world
 > ```
 > </details>
 

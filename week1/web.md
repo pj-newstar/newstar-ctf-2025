@@ -10,7 +10,7 @@
 >
 > ```bash
 > # http://127.0.0.1:80
-> docker run -itd --rm --name w1_no_laugh -p 80:80 -e ICQ_FLAG=flag{2e93833e-302a-f261-5d35-13a85d43ef08} openctf/newstar-2025:week1_no-laugh
+> docker run -itd --rm --name w1-no-laugh -p 80:80 -e ICQ_FLAG=flag{2e93833e-302a-f261-5d35-13a85d43ef08} openctf/newstar-2025:week1_no-laugh
 > ```
 > </details>
 
@@ -31,7 +31,7 @@
 >
 > ```bash
 > # http://127.0.0.1:11451
-> docker run -itd --rm --name w1_center_php -p 11451:11451 -e ICQ_FLAG=flag{7ab04152-2af3-3c13-e41a-1718cca11a21} openctf/newstar-2025:week1_center-php
+> docker run -itd --rm --name w1-center-php -p 11451:11451 -e ICQ_FLAG=flag{7ab04152-2af3-3c13-e41a-1718cca11a21} openctf/newstar-2025:week1_center-php
 > ```
 > </details>
 
@@ -50,7 +50,7 @@
 >
 > ```bash
 > # http://127.0.0.1:80
-> docker run -itd --rm --name w1_multi_headach3 -p 80:80 -e ICQ_FLAG=flag{bcd3ed4e-8fc2-d796-f8a8-227aebd0e910} openctf/newstar-2025:week1_multi-headach3
+> docker run -itd --rm --name w1-multi-headach3 -p 80:80 -e ICQ_FLAG=flag{bcd3ed4e-8fc2-d796-f8a8-227aebd0e910} openctf/newstar-2025:week1_multi-headach3
 > ```
 > </details>
 
@@ -69,7 +69,7 @@
 >
 > ```bash
 > # http://127.0.0.1:80
-> docker run -itd --rm --name w1_strange_login -p 80:80 -e ICQ_FLAG=flag{33e855e4-9ec5-0102-a2e5-987847705ba1} openctf/newstar-2025:week1_strange-login
+> docker run -itd --rm --name w1-strange-login -p 80:80 -e ICQ_FLAG=flag{33e855e4-9ec5-0102-a2e5-987847705ba1} openctf/newstar-2025:week1_strange-login
 > ```
 > </details>
 
@@ -88,7 +88,7 @@
 >
 > ```bash
 > # http://127.0.0.1:8000
-> docker run -itd --rm --name w1_blackw1 -p 8000:8000 -e ICQ_FLAG=flag{7c14b9b7-a98c-b803-8a41-961290b804cb} openctf/newstar-2025:week1_blackw1
+> docker run -itd --rm --name w1-blackw1 -p 8000:8000 -e ICQ_FLAG=flag{7c14b9b7-a98c-b803-8a41-961290b804cb} openctf/newstar-2025:week1_blackw1
 > ```
 > </details>
 
@@ -107,7 +107,7 @@ NewStar 的赛场上，小 W 被传送到了一个到处都是虫子的王国，
 >
 > ```bash
 > # http://127.0.0.1:80
-> docker run -itd --rm --name w1_control_you -p 80:80 -e ICQ_FLAG=flag{6e4ac859-5190-b79f-fed7-d29e280c1e80} openctf/newstar-2025:week1_control-you
+> docker run -itd --rm --name w1-control-you -p 80:80 -e ICQ_FLAG=flag{6e4ac859-5190-b79f-fed7-d29e280c1e80} openctf/newstar-2025:week1_control-you
 > ```
 > </details>
 

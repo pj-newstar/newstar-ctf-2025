@@ -73,7 +73,7 @@ FLAG 格式：`flag{文件内容}`
 >
 > ```bash
 > # http://127.0.0.1:5052
-> docker run -itd --rm --name w5_ai_hacker -p 5052:5052 -e CLEANUP_INTERVAL=3600 -e MAX_UPLOAD_COUNT=2 -e MAX_UPLOAD_BYTES=536870912 openctf/newstar-2025:week5_ai-hacker
+> docker run -itd --rm --name w5-ai-hacker -p 5052:5052 -e CLEANUP_INTERVAL=3600 -e MAX_UPLOAD_COUNT=2 -e MAX_UPLOAD_BYTES=536870912 openctf/newstar-2025:week5_ai-hacker
 > ```
 > </details>
 

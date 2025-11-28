@@ -58,7 +58,7 @@
 >
 > ```bash
 > # nc 127.0.0.1 10721
-> docker run -itd --rm --name w1_frog -p 10721:10721 openctf/newstar-2025:week1_frog
+> docker run -itd --rm --name w1-frog -p 10721:10721 openctf/newstar-2025:week1_frog
 > ```
 > </details>
 

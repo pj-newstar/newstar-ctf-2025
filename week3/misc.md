@@ -74,7 +74,7 @@
 >
 > ```bash
 > # nc 127.0.0.1 9999
-> docker run -itd --rm --name w3_jail_evil_eval -p 9999:9999 -e ICQ_FLAG=flag{e0a667cd-3c9a-4ff6-9ba1-9df2d4acba0f} openctf/newstar-2025:week3_jail-evil-eval
+> docker run -itd --rm --name w3-jail-evil-eval -p 9999:9999 -e ICQ_FLAG=flag{e0a667cd-3c9a-4ff6-9ba1-9df2d4acba0f} openctf/newstar-2025:week3_jail-evil-eval
 > ```
 > </details>
 

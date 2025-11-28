@@ -38,7 +38,7 @@ Alice 使用 RSA 加密了一个重要消息，但攻击者通过侧信道攻击
 >
 > ```bash
 > # nc 127.0.0.1 10666
-> docker run -itd --rm --name w3_birthday -p 10666:10666 openctf/newstar-2025:week3_birthday
+> docker run -itd --rm --name w3-birthday -p 10666:10666 openctf/newstar-2025:week3_birthday
 > ```
 > </details>
 

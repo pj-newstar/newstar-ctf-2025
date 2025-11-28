@@ -10,7 +10,7 @@
 >
 > ```bash
 > # nc 127.0.0.1 50052
-> docker run -itd --rm --name ext_llama_pwn -p 50052:50052 -e ICQ_FLAG=flag{81e32e81-2644-d685-3a61-7d9e807d6633} openctf/newstar-2025:extra_llama-pwn
+> docker run -itd --rm --name ext-llama-pwn -p 50052:50052 -e ICQ_FLAG=flag{81e32e81-2644-d685-3a61-7d9e807d6633} openctf/newstar-2025:extra_llama-pwn
 > ```
 > </details>
 
@@ -41,7 +41,7 @@ LLM怎么还能溢出？
 >
 > ```bash
 > # http://127.0.0.1:5000
-> docker run -itd --rm --name ext_whossti -p 5000:5000 -e ICQ_FLAG=flag{22ad78cb-8cbe-766f-c04c-c05d98570ee4} openctf/newstar-2025:extra_whossti
+> docker run -itd --rm --name ext-whossti -p 5000:5000 -e ICQ_FLAG=flag{22ad78cb-8cbe-766f-c04c-c05d98570ee4} openctf/newstar-2025:extra_whossti
 > ```
 > </details>
 
@@ -60,7 +60,7 @@ LLM怎么还能溢出？
 >
 > ```bash
 > # nc 127.0.0.1 10721
-> docker run -itd --rm --name ext_blackbox -p 10721:10721 openctf/newstar-2025:extra_blackbox
+> docker run -itd --rm --name ext-blackbox -p 10721:10721 openctf/newstar-2025:extra_blackbox
 > ```
 > </details>
 
@@ -170,7 +170,7 @@ MT19.937，哇哦
 >
 > ```bash
 > # nc 127.0.0.1 10666
-> docker run -itd --rm --name ext_luck_skill -p 10666:10666 openctf/newstar-2025:extra_luck-skill
+> docker run -itd --rm --name ext-luck-skill -p 10666:10666 openctf/newstar-2025:extra_luck-skill
 > ```
 > </details>
 
@@ -190,7 +190,7 @@ MT19.937，哇哦
 >
 > ```bash
 > # nc 127.0.0.1 10666
-> docker run -itd --rm --name ext_perm_dlp -p 10666:10666 openctf/newstar-2025:extra_perm-dlp
+> docker run -itd --rm --name ext-perm-dlp -p 10666:10666 openctf/newstar-2025:extra_perm-dlp
 > ```
 > </details>
 

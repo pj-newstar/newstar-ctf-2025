@@ -22,7 +22,7 @@
 >
 > ```bash
 > # http://127.0.0.1:80
-> docker run -itd --rm --name w2_intruder -p 80:80 -e ICQ_FLAG=flag{58afc465-090d-c90b-ccb1-855d10345a55} openctf/newstar-2025:week2_intruder
+> docker run -itd --rm --name w2-intruder -p 80:80 -e ICQ_FLAG=flag{58afc465-090d-c90b-ccb1-855d10345a55} openctf/newstar-2025:week2_intruder
 > ```
 > </details>
 

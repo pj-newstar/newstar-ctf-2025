@@ -10,7 +10,7 @@
 >
 > ```bash
 > # nc 127.0.0.1 14514
-> docker run -itd --rm --name w3_fmt_canary -p 14514:14514 -e ICQ_FLAG=flag{2632e836-1977-9b3c-5e0b-4a9c7417c2a0} openctf/newstar-2025:week3_fmt-canary
+> docker run -itd --rm --name w3-fmt-canary -p 14514:14514 -e ICQ_FLAG=flag{2632e836-1977-9b3c-5e0b-4a9c7417c2a0} openctf/newstar-2025:week3_fmt-canary
 > ```
 > </details>
 
@@ -29,7 +29,7 @@
 >
 > ```bash
 > # nc 127.0.0.1 1337
-> docker run -itd --rm --name w3_sandbox_plus -p 1337:1337 -e ICQ_FLAG=flag{5c20a20d-74df-2b14-7038-97dc0256106f} openctf/newstar-2025:week3_sandbox-plus
+> docker run -itd --rm --name w3-sandbox-plus -p 1337:1337 -e ICQ_FLAG=flag{5c20a20d-74df-2b14-7038-97dc0256106f} openctf/newstar-2025:week3_sandbox-plus
 > ```
 > </details>
 
@@ -50,7 +50,7 @@ sandbox!!! 我知道了，要用 orw.
 >
 > ```bash
 > # nc 127.0.0.1 12345
-> docker run -itd --rm --name w3_xiaoming_thread -p 12345:12345 -e ICQ_FLAG=flag{cc4a6472-b2e5-a4ca-dde4-8f9b3784dd28} openctf/newstar-2025:week3_xiaoming-thread
+> docker run -itd --rm --name w3-xiaoming-thread -p 12345:12345 -e ICQ_FLAG=flag{cc4a6472-b2e5-a4ca-dde4-8f9b3784dd28} openctf/newstar-2025:week3_xiaoming-thread
 > ```
 > </details>
 
@@ -69,7 +69,7 @@ sandbox!!! 我知道了，要用 orw.
 >
 > ```bash
 > # nc 127.0.0.1 9999
-> docker run -itd --rm --name w3_calc_meow -p 9999:9999 -e ICQ_FLAG=flag{41348689-2d0e-5777-0e8c-859f51746b1f} openctf/newstar-2025:week3_calc-meow
+> docker run -itd --rm --name w3-calc-meow -p 9999:9999 -e ICQ_FLAG=flag{41348689-2d0e-5777-0e8c-859f51746b1f} openctf/newstar-2025:week3_calc-meow
 > ```
 > </details>
 
@@ -90,7 +90,7 @@ sandbox!!! 我知道了，要用 orw.
 >
 > ```bash
 > # nc 127.0.0.1 1337
-> docker run -itd --rm --name w3_only_read -p 1337:1337 -e ICQ_FLAG=flag{472e6192-635e-a4c4-5820-8c487db2eb0e} openctf/newstar-2025:week3_only-read
+> docker run -itd --rm --name w3-only-read -p 1337:1337 -e ICQ_FLAG=flag{472e6192-635e-a4c4-5820-8c487db2eb0e} openctf/newstar-2025:week3_only-read
 > ```
 > </details>
 

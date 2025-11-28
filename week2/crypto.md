@@ -34,7 +34,7 @@ SageMath 中好像有现成的工具？
 >
 > ```bash
 > # nc 127.0.0.1 7079
-> docker run -itd --rm --name w2_group_theory -p 7079:7079 openctf/newstar-2025:week2_group-theory
+> docker run -itd --rm --name w2-group-theory -p 7079:7079 openctf/newstar-2025:week2_group-theory
 > ```
 > </details>
 

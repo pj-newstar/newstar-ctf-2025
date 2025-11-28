@@ -68,7 +68,7 @@ Alice 和 Bob 通讯时使用了四元数共轭的密钥交换协议。
 >
 > ```bash
 > # nc 127.0.0.1 1337
-> docker run -itd --rm --name w4_silkworm -p 1337:1337 openctf/newstar-2025:week4_silkworm
+> docker run -itd --rm --name w4-silkworm -p 1337:1337 openctf/newstar-2025:week4_silkworm
 > ```
 > </details>
 

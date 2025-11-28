@@ -10,7 +10,7 @@
 >
 > ```bash
 > # http://127.0.0.1:80
-> docker run -itd --rm --name w2_signin_really -p 80:80 -e ICQ_FLAG=flag{07b56bc5-9416-e52d-c55d-8370b12502a0} openctf/newstar-2025:week2_signin-really
+> docker run -itd --rm --name w2-signin-really -p 80:80 -e ICQ_FLAG=flag{07b56bc5-9416-e52d-c55d-8370b12502a0} openctf/newstar-2025:week2_signin-really
 > ```
 > </details>
 
@@ -31,7 +31,7 @@
 >
 > ```bash
 > # http://127.0.0.1:5000
-> docker run -itd --rm --name w2_orange -p 5000:5000 -e ICQ_FLAG=flag{67557172-46ae-56bd-c5f0-bf5501f25d19} openctf/newstar-2025:week2_orange
+> docker run -itd --rm --name w2-orange -p 5000:5000 -e ICQ_FLAG=flag{67557172-46ae-56bd-c5f0-bf5501f25d19} openctf/newstar-2025:week2_orange
 > ```
 > </details>
 
@@ -50,7 +50,7 @@ Doro 把自己最心爱的橘子放在了保险冰箱中，为了一探究竟这
 >
 > ```bash
 > # http://127.0.0.1:80
-> docker run -itd --rm --name w2_dd_speed -p 80:80 -e ICQ_FLAG=flag{ec43d5c2-be39-90c2-28a1-cdc96998c64c} openctf/newstar-2025:week2_dd-speed
+> docker run -itd --rm --name w2-dd-speed -p 80:80 -e ICQ_FLAG=flag{ec43d5c2-be39-90c2-28a1-cdc96998c64c} openctf/newstar-2025:week2_dd-speed
 > ```
 > </details>
 
@@ -69,7 +69,7 @@ D 师傅在服务器上部署了一个加速器，并且提供一个页面来 pi
 >
 > ```bash
 > # http://127.0.0.1:80
-> docker run -itd --rm --name w2_whitek1 -p 80:80 -e ICQ_FLAG=flag{0a0dd8d8-b6cd-8f4f-7824-a9814632addd} openctf/newstar-2025:week2_whitek1
+> docker run -itd --rm --name w2-whitek1 -p 80:80 -e ICQ_FLAG=flag{0a0dd8d8-b6cd-8f4f-7824-a9814632addd} openctf/newstar-2025:week2_whitek1
 > ```
 > </details>
 
@@ -92,7 +92,7 @@ D 师傅在服务器上部署了一个加速器，并且提供一个页面来 pi
 >
 > ```bash
 > # http://127.0.0.1:80
-> docker run -itd --rm --name w2_e_manage_system -p 80:80 -e ICQ_FLAG=flag{0065674f-f73d-a436-9056-c3c4c7047ea3} openctf/newstar-2025:week2_e-manage-system
+> docker run -itd --rm --name w2-e-manage-system -p 80:80 -e ICQ_FLAG=flag{0065674f-f73d-a436-9056-c3c4c7047ea3} openctf/newstar-2025:week2_e-manage-system
 > ```
 > </details>
 

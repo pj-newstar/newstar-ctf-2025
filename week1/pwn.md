@@ -10,7 +10,7 @@
 >
 > ```bash
 > # nc 127.0.0.1 9999
-> docker run -itd --rm --name w1_pwndoor -p 9999:9999 -e ICQ_FLAG=flag{98f97a20-61fa-bbc1-f977-4743584fa4d9} openctf/newstar-2025:week1_pwndoor
+> docker run -itd --rm --name w1-pwndoor -p 9999:9999 -e ICQ_FLAG=flag{98f97a20-61fa-bbc1-f977-4743584fa4d9} openctf/newstar-2025:week1_pwndoor
 > ```
 > </details>
 
@@ -31,7 +31,7 @@ Key 已经为进入 Pwn 的世界做好了充分准备。他找到了可靠的�
 >
 > ```bash
 > # nc 127.0.0.1 9999
-> docker run -itd --rm --name w1_gdb_debugger -p 9999:9999 -e ICQ_FLAG=flag{a4d7d94a-4150-99ef-f411-5f36b2a944b3} openctf/newstar-2025:week1_gdb-debugger
+> docker run -itd --rm --name w1-gdb-debugger -p 9999:9999 -e ICQ_FLAG=flag{a4d7d94a-4150-99ef-f411-5f36b2a944b3} openctf/newstar-2025:week1_gdb-debugger
 > ```
 > </details>
 
@@ -50,7 +50,7 @@ Key 已经为进入 Pwn 的世界做好了充分准备。他找到了可靠的�
 >
 > ```bash
 > # nc 127.0.0.1 1337
-> docker run -itd --rm --name w1_intbug -p 1337:1337 -e ICQ_FLAG=flag{e3b8b8b3-9b09-ef02-d12a-51341dd930e8} openctf/newstar-2025:week1_intbug
+> docker run -itd --rm --name w1-intbug -p 1337:1337 -e ICQ_FLAG=flag{e3b8b8b3-9b09-ef02-d12a-51341dd930e8} openctf/newstar-2025:week1_intbug
 > ```
 > </details>
 
@@ -69,7 +69,7 @@ Key 已经为进入 Pwn 的世界做好了充分准备。他找到了可靠的�
 >
 > ```bash
 > # nc 127.0.0.1 1337
-> docker run -itd --rm --name w1_overflow -p 1337:1337 -e ICQ_FLAG=flag{98918c98-4336-d7b5-16a9-7fbbc82e2b58} openctf/newstar-2025:week1_overflow
+> docker run -itd --rm --name w1-overflow -p 1337:1337 -e ICQ_FLAG=flag{98918c98-4336-d7b5-16a9-7fbbc82e2b58} openctf/newstar-2025:week1_overflow
 > ```
 > </details>
 
@@ -88,7 +88,7 @@ Key 已经为进入 Pwn 的世界做好了充分准备。他找到了可靠的�
 >
 > ```bash
 > # nc 127.0.0.1 1337
-> docker run -itd --rm --name w1_input_function -p 1337:1337 -e ICQ_FLAG=flag{b50376fc-b5db-e0fc-242f-8fcfa5d25920} openctf/newstar-2025:week1_input-function
+> docker run -itd --rm --name w1-input-function -p 1337:1337 -e ICQ_FLAG=flag{b50376fc-b5db-e0fc-242f-8fcfa5d25920} openctf/newstar-2025:week1_input-function
 > ```
 > </details>
 
