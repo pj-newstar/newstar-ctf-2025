@@ -3164,7 +3164,11 @@
             "type": "http"
           }
         ],
-        "environment": {},
+        "environment": {
+          "CLEAN_UP_INTERVAL": "3600",
+          "CF_TURNSTILE_SITE_KEY": "",
+          "CF_TURNSTILE_SECRET_KEY": ""
+        },
         "limits": {
           "cpu": "1",
           "memory": "1024Mi",
