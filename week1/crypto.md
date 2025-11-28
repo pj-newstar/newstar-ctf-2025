@@ -50,9 +50,9 @@
 
 ## <a href="#-小跳蛙"><img src="../_assets/crypto.svg" height="20px" /></a> 小跳蛙
 
-| 出题人 | 难度 | 附件 |
-|-----|-----|-----|
-| cathylin | 中等 | [w1.cry.little-frog.rar](https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment-week1/w1.cry.little-frog.rar) |
+| 出题人 | 难度 | 附件 | 环境镜像 | 端口 |
+|-----|-----|-----|-----|-----|
+| cathylin | 中等 | [w1.cry.little-frog.rar](https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment-week1/w1.cry.little-frog.rar) | [newstar-2025:week1_frog](https://hub.docker.com/r/openctf/newstar-2025/tags?name=week1_frog) | `10721` |
 
 > <details><summary><strong>FLAG:</strong> <i>点此展开/收起</i></summary>
 > <code>flag{Go0d_j0b_t0_Cl34r_thi5_Diff3r3nt_t45k_4_u}</code>

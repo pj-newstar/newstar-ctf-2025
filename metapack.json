@@ -522,7 +522,22 @@
     "attachments": [
       "https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment-week1/w1.cry.little-frog.rar"
     ],
-    "services": [],
+    "services": [
+      {
+        "name": "w1-frog",
+        "image": "docker.io/openctf/newstar-2025:week1_frog",
+        "exposes": [
+          {
+            "port": 10721,
+            "type": "tcp"
+          }
+        ],
+        "environment": {},
+        "limits": {},
+        "requests": {},
+        "internet": false
+      }
+    ],
     "answer": "flag{Go0d_j0b_t0_Cl34r_thi5_Diff3r3nt_t45k_4_u}",
     "difficulty": 2,
     "extra": {

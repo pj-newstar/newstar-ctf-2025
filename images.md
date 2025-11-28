@@ -20,6 +20,7 @@ Followings are related configuration and challenge information of each image.
 | Week 1 - Web    | strange_login                    | `week1_strange-login`   | `80`    | Dynamic                                                                                     |
 | Week 1 - Web    | 黑客小 W 的故事（1）             | `week1_blackw1`         | `8000`  | Dynamic                                                                                     |
 | Week 1 - Web    | 我真得控制你了                   | `week1_control-you`     | `80`    | Dynamic                                                                                     |
+| Week 1 - Crypto | 小跳蛙                           | `week1_frog`            | `10721` | `flag{Go0d_j0b_t0_Cl34r_thi5_Diff3r3nt_t45k_4_u}`                                           |
 | Week 2 - Pwn    | 刻在栈里的秘密                   | `week2_stack-secret`    | `7777`  | Dynamic                                                                                     |
 | Week 2 - Pwn    | no shell                         | `week2_noshell`         | `9999`  | Dynamic                                                                                     |
 | Week 2 - Pwn    | syscall                          | `week2_syscall`         | `1337`  | Dynamic                                                                                     |
