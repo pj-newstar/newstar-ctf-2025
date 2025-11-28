@@ -13,7 +13,7 @@ You can view the challenge details in each `week?` or `extras` directory:
 
 You can download challenge images at [openctf/newstar-2025](https://hub.docker.com/r/openctf/newstar-2025) on Docker Hub.
 
-You can download challenge attachments at [Github Release](https://github.com/project-newstar/newstar-ctf-2025/releases/tag/attachment) page of this repository.
+You can download challenge attachments at [Github Release](https://github.com/pj-newstar/newstar-ctf-2025/releases/tag/attachment) page of this repository.
 
 ## Metapack
 
