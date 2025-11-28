@@ -16,7 +16,7 @@ SageMath 中好像有现成的工具？
 
 | 出题人 | 难度 | 附件 |
 |-----|-----|-----|
-| cathylin | 简单 | [w2.cry.fhe-0-1.rar](https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment-week2/w2.cry.fhe-0-1.rar) |
+| Cathylin | 简单 | [w2.cry.fhe-0-1.rar](https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment-week2/w2.cry.fhe-0-1.rar) |
 
 > <details><summary><strong>FLAG:</strong> <i>点此展开/收起</i></summary>
 > <code>flag{3235c1ab-6830-480f-b5e0-39be40b94a7d}</code>
@@ -28,7 +28,7 @@ SageMath 中好像有现成的工具？
 
 | 出题人 | 难度 | 附件 | 环境镜像 | 端口 |
 |-----|-----|-----|-----|-----|
-| cathylin | 中等 | [w2.cry.group-theory-quiz.rar](https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment-week2/w2.cry.group-theory-quiz.rar) | [newstar-2025:week2_group-theory](https://hub.docker.com/r/openctf/newstar-2025/tags?name=week2_group-theory) | `7079` |
+| Cathylin | 中等 | [w2.cry.group-theory-quiz.rar](https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment-week2/w2.cry.group-theory-quiz.rar) | [newstar-2025:week2_group-theory](https://hub.docker.com/r/openctf/newstar-2025/tags?name=week2_group-theory) | `7079` |
 
 > <details><summary><strong>FLAG:</strong> <i>点此展开/收起</i></summary>
 > <code>flag{I_v3_b3c0m3_@n_e^3Rt_in_gr0up_7h30ry_@Ft3r_5o1ving_7hi5_+++bl3m!!!}</code>
@@ -40,7 +40,7 @@ SageMath 中好像有现成的工具？
 
 | 出题人 | 难度 | 附件 |
 |-----|-----|-----|
-| cathylin | 中等 | [w2.cry.permutation.rar](https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment-week2/w2.cry.permutation.rar) |
+| Cathylin | 中等 | [w2.cry.permutation.rar](https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment-week2/w2.cry.permutation.rar) |
 
 > <details><summary><strong>FLAG:</strong> <i>点此展开/收起</i></summary>
 > <code>flag{SUCH_A_SIMPLE_PERMUTATION_WILL_DEFINITELY_NOT_STUMP_YOU.}</code>

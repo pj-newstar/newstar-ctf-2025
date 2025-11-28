@@ -458,7 +458,7 @@
     "answer": "flag{W3lc0me_t0_4h3_w0rl4_0f_Cryptoooo!}",
     "difficulty": 1,
     "extra": {
-      "inspectors": ["cathylin"]
+      "inspectors": ["Cathylin"]
     }
   },
   {
@@ -467,7 +467,7 @@
     "description": "真正的大中衔接 belike.\n",
     "category": ["Week1", "Crypto"],
     "tags": ["流密码"],
-    "author": "cathylin",
+    "author": "Cathylin",
     "attachments": [
       "https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment-week1/w1.cry.random-journey-1.rar"
     ],
@@ -484,7 +484,7 @@
     "description": "使用 SageMath 运行程序以获得 FLAG.\n",
     "category": ["Week1", "Crypto"],
     "tags": ["工具使用"],
-    "author": "cathylin",
+    "author": "Cathylin",
     "attachments": [
       "https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment-week1/w1.cry.sagemath-guide.rar"
     ],
@@ -501,7 +501,7 @@
     "description": "不要把鸡蛋放在同一个篮子里。\n",
     "category": ["Week1", "Crypto"],
     "tags": ["CRT"],
-    "author": "cathylin",
+    "author": "Cathylin",
     "attachments": [
       "https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment-week1/w1.cry.unique-repr.rar"
     ],
@@ -518,7 +518,7 @@
     "description": "青蛙会跳到哪里去呢？\n",
     "category": ["Week1", "Crypto"],
     "tags": ["数论"],
-    "author": "cathylin",
+    "author": "Cathylin",
     "attachments": [
       "https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment-week1/w1.cry.little-frog.rar"
     ],
@@ -1071,7 +1071,7 @@
     "answer": "flag{I_l0v3_DLPPPPP^.^!}",
     "difficulty": 1,
     "extra": {
-      "inspectors": ["cathylin"]
+      "inspectors": ["Cathylin"]
     }
   },
   {
@@ -1080,7 +1080,7 @@
     "description": "千里之堤，溃于蚁穴。\n",
     "category": ["Week2", "Crypto"],
     "tags": ["具体分析"],
-    "author": "cathylin",
+    "author": "Cathylin",
     "attachments": [
       "https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment-week2/w2.cry.fhe-0-1.rar"
     ],
@@ -1097,7 +1097,7 @@
     "description": "扣「循环群」变成群论高手。\n",
     "category": ["Week2", "Crypto"],
     "tags": ["群论"],
-    "author": "cathylin",
+    "author": "Cathylin",
     "attachments": [
       "https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment-week2/w2.cry.group-theory-quiz.rar"
     ],
@@ -1129,7 +1129,7 @@
     "description": "我一看数学就头疼怎么办？\r\n\r\n> [!TIP]\r\n> 把解密出的文本用 `flag{}` 裹上提交\n",
     "category": ["Week2", "Crypto"],
     "tags": ["古典"],
-    "author": "cathylin",
+    "author": "Cathylin",
     "attachments": [
       "https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment-week2/w2.cry.permutation.rar"
     ],
@@ -1154,7 +1154,7 @@
     "answer": "flag{Ooooo6_y0u_kn0w_F3rm@t_and_Eu13r_v3ry_w3ll!!}",
     "difficulty": 3,
     "extra": {
-      "inspectors": ["cathylin"]
+      "inspectors": ["Cathylin"]
     }
   },
   {
@@ -1748,7 +1748,7 @@
     "description": "诶，骗人的吧，我难道不是欧皇吗？\n",
     "category": ["Week3", "Crypto"],
     "tags": ["生日攻击"],
-    "author": "cathylin",
+    "author": "Cathylin",
     "attachments": [
       "https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment-week3/w3.cry.lucky-birthday.rar"
     ],
@@ -1780,7 +1780,7 @@
     "description": "关键在你拥有的信息。\n",
     "category": ["Week3", "Crypto"],
     "tags": ["线性代数"],
-    "author": "cathylin",
+    "author": "Cathylin",
     "attachments": [
       "https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment-week3/w3.cry.random-journey-3.rar"
     ],
@@ -1797,7 +1797,7 @@
     "description": "居然反过来了。\n",
     "category": ["Week3", "Crypto"],
     "tags": ["LCG"],
-    "author": "cathylin",
+    "author": "Cathylin",
     "attachments": ["https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment-week3/w3.cry.gcl.rar"],
     "services": [],
     "answer": "flag{2eac1c79-8abd-465e-82f4-96beffed69e4}",
@@ -2333,7 +2333,7 @@
     "description": "秘密说两次就不好了。\n",
     "category": ["Week4", "Crypto"],
     "tags": ["ECC"],
-    "author": "cathylin",
+    "author": "Cathylin",
     "attachments": [
       "https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment-week4/w4.cry.one-and-only.rar"
     ],
@@ -2350,7 +2350,7 @@
     "description": "成也线性，败也线性。\n",
     "category": ["Week4", "Crypto"],
     "tags": ["线性代数"],
-    "author": "cathylin",
+    "author": "Cathylin",
     "attachments": [
       "https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment-week4/w4.cry.random-journey-4.rar"
     ],
@@ -2401,7 +2401,7 @@
     "description": "蚕怎么你了\n",
     "category": ["Week4", "Crypto"],
     "tags": ["分组密码"],
-    "author": "cathylin",
+    "author": "Cathylin",
     "attachments": [
       "https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment-week4/w4.cry.silkworm-secret.rar"
     ],
@@ -2969,7 +2969,7 @@
     "description": "不告诉你喵\n",
     "category": ["Week5", "Crypto"],
     "tags": ["零知识证明", "LLL", "背包"],
-    "author": "cathylin",
+    "author": "Cathylin",
     "attachments": [
       "https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment-week5/w5.cry.no-peek-meow.rar"
     ],
@@ -3035,7 +3035,7 @@
     "description": "What's the gcd of three polynomials?\n",
     "category": ["Week5", "Crypto"],
     "tags": ["抽象代数", "Gröbner 基"],
-    "author": "cathylin",
+    "author": "Cathylin",
     "attachments": [
       "https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment-week5/w5.cry.poly.rar"
     ],
@@ -3052,7 +3052,7 @@
     "description": "谁看到这个 S 盒的差分分布表都一定惊得下巴掉下来。\n",
     "category": ["Week5", "Crypto"],
     "tags": ["差分攻击"],
-    "author": "cathylin",
+    "author": "Cathylin",
     "attachments": [
       "https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment-week5/w5.cry.smile-box.rar"
     ],

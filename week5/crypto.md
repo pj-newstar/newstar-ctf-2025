@@ -4,7 +4,7 @@
 
 | 出题人 | 难度 | 附件 | 环境镜像 | 端口 |
 |-----|-----|-----|-----|-----|
-| cathylin | 简单 | [w5.cry.no-peek-meow.rar](https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment-week5/w5.cry.no-peek-meow.rar) | [newstar-2025:week5_noshowyou-zkp](https://hub.docker.com/r/openctf/newstar-2025/tags?name=week5_noshowyou-zkp) | `10666` |
+| Cathylin | 简单 | [w5.cry.no-peek-meow.rar](https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment-week5/w5.cry.no-peek-meow.rar) | [newstar-2025:week5_noshowyou-zkp](https://hub.docker.com/r/openctf/newstar-2025/tags?name=week5_noshowyou-zkp) | `10666` |
 
 > <details><summary><strong>FLAG:</strong> <i>点此展开/收起</i></summary>
 > <code>flag{Do_u_r3a1ly_n33d_me_2_5h0w_u_2_pr0v3_7h4t_1_h4v3_it?}</code>
@@ -36,7 +36,7 @@
 
 | 出题人 | 难度 | 附件 |
 |-----|-----|-----|
-| cathylin | 中等 | [w5.cry.poly.rar](https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment-week5/w5.cry.poly.rar) |
+| Cathylin | 中等 | [w5.cry.poly.rar](https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment-week5/w5.cry.poly.rar) |
 
 > <details><summary><strong>FLAG:</strong> <i>点此展开/收起</i></summary>
 > <code>flag{3bdb2424-591a-4a92-b587-74951c8ad192}</code>
@@ -48,7 +48,7 @@ What's the gcd of three polynomials?
 
 | 出题人 | 难度 | 附件 | 环境镜像 | 端口 |
 |-----|-----|-----|-----|-----|
-| cathylin | 困难 | [w5.cry.smile-box.rar](https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment-week5/w5.cry.smile-box.rar) | [newstar-2025:week5_smile](https://hub.docker.com/r/openctf/newstar-2025/tags?name=week5_smile) | `10721` |
+| Cathylin | 困难 | [w5.cry.smile-box.rar](https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment-week5/w5.cry.smile-box.rar) | [newstar-2025:week5_smile](https://hub.docker.com/r/openctf/newstar-2025/tags?name=week5_smile) | `10721` |
 
 > <details><summary><strong>FLAG:</strong> <i>点此展开/收起</i></summary>
 > <code>flag{Ur_awesome_4_being_able_2_successfully_find_1_high-probability_delta(?)_path!}</code>

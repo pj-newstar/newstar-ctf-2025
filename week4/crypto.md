@@ -4,7 +4,7 @@
 
 | 出题人 | 难度 | 附件 |
 |-----|-----|-----|
-| cathylin | 简单 | [w4.cry.one-and-only.rar](https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment-week4/w4.cry.one-and-only.rar) |
+| Cathylin | 简单 | [w4.cry.one-and-only.rar](https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment-week4/w4.cry.one-and-only.rar) |
 
 > <details><summary><strong>FLAG:</strong> <i>点此展开/收起</i></summary>
 > <code>flag{035755ac-ba88-401d-93d3-d13607aa7387}</code>
@@ -16,7 +16,7 @@
 
 | 出题人 | 难度 | 附件 |
 |-----|-----|-----|
-| cathylin | 简单 | [w4.cry.random-journey-4.rar](https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment-week4/w4.cry.random-journey-4.rar) |
+| Cathylin | 简单 | [w4.cry.random-journey-4.rar](https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment-week4/w4.cry.random-journey-4.rar) |
 
 > <details><summary><strong>FLAG:</strong> <i>点此展开/收起</i></summary>
 > <code>flag{188a9250-bd02-4746-8ddd-a32d9c1bb11a}</code>
@@ -62,7 +62,7 @@ Alice 和 Bob 通讯时使用了四元数共轭的密钥交换协议。
 
 | 出题人 | 难度 | 附件 | 环境镜像 | 端口 |
 |-----|-----|-----|-----|-----|
-| cathylin | 困难 | [w4.cry.silkworm-secret.rar](https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment-week4/w4.cry.silkworm-secret.rar) | [newstar-2025:week4_silkworm](https://hub.docker.com/r/openctf/newstar-2025/tags?name=week4_silkworm) | `1337` |
+| Cathylin | 困难 | [w4.cry.silkworm-secret.rar](https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment-week4/w4.cry.silkworm-secret.rar) | [newstar-2025:week4_silkworm](https://hub.docker.com/r/openctf/newstar-2025/tags?name=week4_silkworm) | `1337` |
 
 > <details><summary><strong>FLAG:</strong> <i>点此展开/收起</i></summary>
 > <code>flag{92a347e1-e485-40e6-b96d-b8d9cfbf14fe}</code>
