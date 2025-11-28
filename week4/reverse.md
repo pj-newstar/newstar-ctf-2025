@@ -28,7 +28,7 @@
 
 | 出题人 | 难度 | 附件 |
 |-----|-----|-----|
-| AstralPrisma | 中等 | [w4.rev.yupi-ex-adventure-3.zip](https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment-week4/w4.rev.yupi-ex-adventure-3.zip) |
+| AstralPrisma | 中等 | [w4.rev.upx-adventure-3.zip](https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment-week4/w4.rev.upx-adventure-3.zip) |
 
 > <details><summary><strong>FLAG:</strong> <i>点此展开/收起</i></summary>
 > <code>flag{C4tcH_th3_rUn71m3_3rr0R_0f_d1vId3D_8Y_z3R0}</code>

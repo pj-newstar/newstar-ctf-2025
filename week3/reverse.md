@@ -50,7 +50,7 @@ IDA IDA，你看，有花😊
 
 | 出题人 | 难度 | 附件 |
 |-----|-----|-----|
-| AstralPrisma | 困难 | [w3.rev.yupi-ex-adventure-2.zip](https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment-week3/w3.rev.yupi-ex-adventure-2.zip) |
+| AstralPrisma | 困难 | [w3.rev.upx-adventure-2.zip](https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment-week3/w3.rev.upx-adventure-2.zip) |
 
 > <details><summary><strong>FLAG:</strong> <i>点此展开/收起</i></summary>
 > <code>flag{CoN7r0l_F10w_F14t73n1nG_C4N_b3_c0NfU5iNg!!}</code>

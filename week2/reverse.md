@@ -4,7 +4,7 @@
 
 | 出题人 | 难度 | 附件 |
 |-----|-----|-----|
-| AstralPrisma | 简单 | [w2.rev.yupi-ex-adventure-1.zip](https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment-week2/w2.rev.yupi-ex-adventure-1.zip) |
+| AstralPrisma | 简单 | [w2.rev.upx-adventure-1.zip](https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment-week2/w2.rev.upx-adventure-1.zip) |
 
 > <details><summary><strong>FLAG:</strong> <i>点此展开/收起</i></summary>
 > <code>flag{E4sy_R3v3rSe_e4Sy_eNcrypt10n}</code>
