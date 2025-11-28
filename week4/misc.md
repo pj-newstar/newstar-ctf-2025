@@ -77,7 +77,8 @@ FLAG 格式：`flag{flag1_flag2}`
 - 用户名：`Administrator`
 - 密码：`Newst@r`
 
-> [!TIP] FLAG 格式
+> [!TIP]
+> **FLAG 格式**
 >
 > `flag{木马连接密码_创建账号工具发布时间(年-月-日)_影子用户密码}`
 >
