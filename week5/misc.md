@@ -83,6 +83,8 @@ FLAG 格式：`flag{文件内容}`
 
 SafeLLM Hub 一点都不 safe :(
 
+Example GGUF: [Qwen1.5-0.5B-Chat-GGUF](https://huggingface.co/Qwen/Qwen1.5-0.5B-Chat-GGUF)
+
 Paper: [Deep Leakage from Gradients](https://arxiv.org/abs/1906.08935)
 
 > [!TIP]

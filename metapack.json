@@ -647,7 +647,7 @@
   {
     "id": 28,
     "name": "刻在栈里的秘密",
-    "description": "欢迎来到 x64 位餐厅！服务员 printf 先生有点健忘，他只能记住您菜单上的前 6 道菜（RDI, RSI, RDX...），再多就只能堆在摇摇晃晃的餐盘（栈）上了。更糟糕的是，他会把你写的菜单原封不动地大声念出来。\r\n\r\n你能设计一份别有用心的菜单，让他念着念着，就把秘密房间的密码念给你听吗？\n",
+    "description": "欢迎来到 x64 位餐厅！服务员 printf 先生有点健忘，他只能记住您菜单上的前 6 道菜（RDI, RSI, RDX...），再多就只能堆在摇摇晃晃的餐盘（栈）上了。更糟糕的是，他会把你写的菜单原封不动地大声念出来。\n\n你能设计一份别有用心的菜单，让他念着念着，就把秘密房间的密码念给你听吗？\n",
     "category": ["Week2", "Pwn"],
     "tags": ["格式化字符串"],
     "author": "L1nk",
@@ -900,7 +900,7 @@
   {
     "id": 38,
     "name": "真的是签到诶",
-    "description": "到了 Week2 的签到题目？？？\r\n\r\n真的是签到吗？真的是签到吗？真的是签到吗？\n",
+    "description": "到了 Week2 的签到题目？？？\n\n真的是签到吗？真的是签到吗？真的是签到吗？\n",
     "category": ["Week2", "Web"],
     "tags": ["编码绕过"],
     "author": "KAMIYA",
@@ -996,7 +996,7 @@
   {
     "id": 41,
     "name": "白帽小 K 的故事（1）",
-    "description": "小 K 为了成为最强的 NewStar，在阴差阳错之下来到了索拉里斯大陆，被风暴席卷的她飞到了黑海岸。\r\n\r\n在那里，泰提斯系统突然发难，漂泊者拜托小 K 解决难题。\r\n\r\n为了成为最强 NewStar，小 K 毅然接受了挑战！\n",
+    "description": "小 K 为了成为最强的 NewStar，在阴差阳错之下来到了索拉里斯大陆，被风暴席卷的她飞到了黑海岸。\n\n在那里，泰提斯系统突然发难，漂泊者拜托小 K 解决难题。\n\n为了成为最强 NewStar，小 K 毅然接受了挑战！\n",
     "category": ["Week2", "Web"],
     "tags": ["文件上传"],
     "author": "KAMIYA",
@@ -1028,7 +1028,7 @@
   {
     "id": 42,
     "name": "小 E 的管理系统",
-    "description": "小 E 开发了一个服务器管理系统，能实时监测服务器状态并显示出来。\r\n\r\n为了防止系统被入侵，小 E 特地给其中的查询功能上了防火墙，但是即便如此，这个系统依然脆弱不堪，只因为使用了原始的SQL拼接——你能绕过小 E 的防火墙，拿到数据库里的秘密吗？\n",
+    "description": "小 E 开发了一个服务器管理系统，能实时监测服务器状态并显示出来。\n\n为了防止系统被入侵，小 E 特地给其中的查询功能上了防火墙，但是即便如此，这个系统依然脆弱不堪，只因为使用了原始的SQL拼接——你能绕过小 E 的防火墙，拿到数据库里的秘密吗？\n",
     "category": ["Week2", "Web"],
     "tags": ["SQLi"],
     "author": "ENOCH",
@@ -1126,7 +1126,7 @@
   {
     "id": 46,
     "name": "置换",
-    "description": "我一看数学就头疼怎么办？\r\n\r\n> [!TIP]\r\n> 把解密出的文本用 `flag{}` 裹上提交\n",
+    "description": "我一看数学就头疼怎么办？\n\n> [!TIP]\n> 把解密出的文本用 `flag{}` 裹上提交\n",
     "category": ["Week2", "Crypto"],
     "tags": ["古典"],
     "author": "Cathylin",
@@ -2866,7 +2866,7 @@
   {
     "id": 116,
     "name": "小 W 和小 K 的故事（最终章）",
-    "description": "小 K 和小 W 一起来到了 NewStar 的 Web 最后一关。\r\n\r\n此乃旧时代的落幕，亦将见证诸位 NewStar 的崛起。\r\n\r\n> [!TIP]\r\n> 本题靶机环境使用 `node:20-alpine` 作为基础镜像构建\n",
+    "description": "小 K 和小 W 一起来到了 NewStar 的 Web 最后一关。\n\n此乃旧时代的落幕，亦将见证诸位 NewStar 的崛起。\n\n> [!TIP]\n> 本题靶机环境使用 `node:20-alpine` 作为基础镜像构建\n",
     "category": ["Week5", "Web"],
     "tags": ["Node.js"],
     "author": "KAMIYA",
@@ -3149,7 +3149,7 @@
   {
     "id": 127,
     "name": "AI HACKER",
-    "description": "SafeLLM Hub 一点都不 safe :(\r\n\r\nPaper: [Deep Leakage from Gradients](https://arxiv.org/abs/1906.08935)\r\n\r\n> [!TIP]\r\n> 访问靶机的 `/flag` 路径获取题目任务\n",
+    "description": "SafeLLM Hub 一点都不 safe :(\n\nExample GGUF: [Qwen1.5-0.5B-Chat-GGUF](https://huggingface.co/Qwen/Qwen1.5-0.5B-Chat-GGUF)\n\nPaper: [Deep Leakage from Gradients](https://arxiv.org/abs/1906.08935)\n\n> [!TIP]\n> 访问靶机的 `/flag` 路径获取题目任务\n",
     "category": ["Week5", "Misc"],
     "tags": ["GGUF 投毒", "SSTI"],
     "author": "Mrsh",
