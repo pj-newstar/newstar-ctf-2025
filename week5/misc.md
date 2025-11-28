@@ -4,7 +4,7 @@
 
 | 出题人 | 难度 | 附件 |
 |-----|-----|-----|
-| willyz | 简单 | [w5.misc.intbug-chain.zip](https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment_week5/w5.misc.intbug-chain.zip) |
+| willyz | 简单 | [w5.misc.intbug-chain.zip](https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment-week5/w5.misc.intbug-chain.zip) |
 
 > <details><summary><strong>FLAG:</strong> <i>点此展开/收起</i></summary>
 > <code>flag{Good_NewStar2025_Byeeeee!}</code>
@@ -16,7 +16,7 @@
 
 | 出题人 | 难度 | 附件 |
 |-----|-----|-----|
-| willyz | 中等 | [w5.misc.mikumiku.txt](https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment_week5/w5.misc.mikumiku.txt) |
+| willyz | 中等 | [w5.misc.mikumiku.txt](https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment-week5/w5.misc.mikumiku.txt) |
 
 > <details><summary><strong>FLAG:</strong> <i>点此展开/收起</i></summary>
 > <code>flag{CVE-2025-24813}</code>
@@ -38,7 +38,7 @@ FLAG 格式：`flag{漏洞编号}`
 
 | 出题人 | 难度 | 附件 |
 |-----|-----|-----|
-| willyz | 中等 | [w5.misc.mikumiku.txt](https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment_week5/w5.misc.mikumiku.txt) |
+| willyz | 中等 | [w5.misc.mikumiku.txt](https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment-week5/w5.misc.mikumiku.txt) |
 
 > <details><summary><strong>FLAG:</strong> <i>点此展开/收起</i></summary>
 > <code>flag{miiikuuu_miiiku}</code>
@@ -53,7 +53,7 @@ FLAG 格式：`flag{木马连接密码_恶意用户密码}`
 
 | 出题人 | 难度 | 附件 |
 |-----|-----|-----|
-| willyz | 中等 | [w5.misc.mikumiku.txt](https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment_week5/w5.misc.mikumiku.txt) |
+| willyz | 中等 | [w5.misc.mikumiku.txt](https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment-week5/w5.misc.mikumiku.txt) |
 
 > <details><summary><strong>FLAG:</strong> <i>点此展开/收起</i></summary>
 > <code>flag{Miku_miku_oo_ee_oo}</code>
@@ -84,7 +84,7 @@ Paper: [Deep Leakage from Gradients](https://arxiv.org/abs/1906.08935)
 
 | 出题人 | 难度 | 附件 |
 |-----|-----|-----|
-| Mrsh | 困难 | [w5.misc.time-hacker.zip](https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment_week5/w5.misc.time-hacker.zip) |
+| Mrsh | 困难 | [w5.misc.time-hacker.zip](https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment-week5/w5.misc.time-hacker.zip) |
 
 > <details><summary><strong>FLAG:</strong> <i>点此展开/收起</i></summary>
 > <code>flag{Y0u_4re_tHe_ReaL_TIME_H@cker!!}</code>

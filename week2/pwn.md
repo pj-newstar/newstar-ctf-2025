@@ -17,7 +17,7 @@
 
 | 出题人 | 难度 | 附件 | 环境镜像 | 端口 |
 |-----|-----|-----|-----|-----|
-| Findkey | 简单 | [w2.pwn.no-shell.zip](https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment_week2/w2.pwn.no-shell.zip) | [newstar-2025:week2_noshell](https://hub.docker.com/r/openctf/newstar-2025/tags?name=week2_noshell) | `9999` |
+| Findkey | 简单 | [w2.pwn.no-shell.zip](https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment-week2/w2.pwn.no-shell.zip) | [newstar-2025:week2_noshell](https://hub.docker.com/r/openctf/newstar-2025/tags?name=week2_noshell) | `9999` |
 
 > <details><summary><strong>FLAG:</strong> 动态</summary>
 > </details>
@@ -28,7 +28,7 @@ Key 在冒险时误入了一个秘境，这里设有一种名为 sandbox 的阵�
 
 | 出题人 | 难度 | 附件 | 环境镜像 | 端口 |
 |-----|-----|-----|-----|-----|
-| s1eepy | 简单 | [w2.pwn.syscall.zip](https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment_week2/w2.pwn.syscall.zip) | [newstar-2025:week2_syscall](https://hub.docker.com/r/openctf/newstar-2025/tags?name=week2_syscall) | `1337` |
+| s1eepy | 简单 | [w2.pwn.syscall.zip](https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment-week2/w2.pwn.syscall.zip) | [newstar-2025:week2_syscall](https://hub.docker.com/r/openctf/newstar-2025/tags?name=week2_syscall) | `1337` |
 
 > <details><summary><strong>FLAG:</strong> 动态</summary>
 > </details>
@@ -39,7 +39,7 @@ Key 在冒险时误入了一个秘境，这里设有一种名为 sandbox 的阵�
 
 | 出题人 | 难度 | 附件 | 环境镜像 | 端口 |
 |-----|-----|-----|-----|-----|
-| sysNow | 中等 | [w2.pwn.input-small-function.zip](https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment_week2/w2.pwn.input-small-function.zip) | [newstar-2025:week2_small-function](https://hub.docker.com/r/openctf/newstar-2025/tags?name=week2_small-function) | `1337` |
+| sysNow | 中等 | [w2.pwn.input-small-function.zip](https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment-week2/w2.pwn.input-small-function.zip) | [newstar-2025:week2_small-function](https://hub.docker.com/r/openctf/newstar-2025/tags?name=week2_small-function) | `1337` |
 
 > <details><summary><strong>FLAG:</strong> 动态</summary>
 > </details>
@@ -50,7 +50,7 @@ Key 在冒险时误入了一个秘境，这里设有一种名为 sandbox 的阵�
 
 | 出题人 | 难度 | 附件 | 环境镜像 | 端口 |
 |-----|-----|-----|-----|-----|
-| daimi | 困难 | [w2.pwn.calc-beta.zip](https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment_week2/w2.pwn.calc-beta.zip) | [newstar-2025:week2_calc-beta](https://hub.docker.com/r/openctf/newstar-2025/tags?name=week2_calc-beta) | `1337` |
+| daimi | 困难 | [w2.pwn.calc-beta.zip](https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment-week2/w2.pwn.calc-beta.zip) | [newstar-2025:week2_calc-beta](https://hub.docker.com/r/openctf/newstar-2025/tags?name=week2_calc-beta) | `1337` |
 
 > <details><summary><strong>FLAG:</strong> 动态</summary>
 > </details>

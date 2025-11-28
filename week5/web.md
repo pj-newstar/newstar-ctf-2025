@@ -15,7 +15,7 @@
 
 | 出题人 | 难度 | 附件 | 环境镜像 | 端口 |
 |-----|-----|-----|-----|-----|
-| sanjio | 困难 | [w5.web.abandoned-site.zip](https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment_week5/w5.web.abandoned-site.zip) | [newstar-2025:week5_abandoned-site](https://hub.docker.com/r/openctf/newstar-2025/tags?name=week5_abandoned-site) | `5000` |
+| sanjio | 困难 | [w5.web.abandoned-site.zip](https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment-week5/w5.web.abandoned-site.zip) | [newstar-2025:week5_abandoned-site](https://hub.docker.com/r/openctf/newstar-2025/tags?name=week5_abandoned-site) | `5000` |
 
 > <details><summary><strong>FLAG:</strong> 动态</summary>
 > </details>
@@ -26,7 +26,7 @@
 
 | 出题人 | 难度 | 附件 | 环境镜像 | 端口 |
 |-----|-----|-----|-----|-----|
-| KAMIYA | 困难 | [w5.web.w-k-story-final.zip](https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment_week5/w5.web.w-k-story-final.zip) | [newstar-2025:week5_wk-story-final](https://hub.docker.com/r/openctf/newstar-2025/tags?name=week5_wk-story-final) | `3000` |
+| KAMIYA | 困难 | [w5.web.w-k-story-final.zip](https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment-week5/w5.web.w-k-story-final.zip) | [newstar-2025:week5_wk-story-final](https://hub.docker.com/r/openctf/newstar-2025/tags?name=week5_wk-story-final) | `3000` |
 
 > <details><summary><strong>FLAG:</strong> 动态</summary>
 > </details>
@@ -42,7 +42,7 @@
 
 | 出题人 | 难度 | 附件 | 环境镜像 | 端口 |
 |-----|-----|-----|-----|-----|
-| KAMIYA | 困难 | [w5.web.familiar-calc.zip](https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment_week5/w5.web.familiar-calc.zip) | [newstar-2025:week5_familiar-calc](https://hub.docker.com/r/openctf/newstar-2025/tags?name=week5_familiar-calc) | `9999` |
+| KAMIYA | 困难 | [w5.web.familiar-calc.zip](https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment-week5/w5.web.familiar-calc.zip) | [newstar-2025:week5_familiar-calc](https://hub.docker.com/r/openctf/newstar-2025/tags?name=week5_familiar-calc) | `9999` |
 
 > <details><summary><strong>FLAG:</strong> 动态</summary>
 > </details>

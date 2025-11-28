@@ -4,7 +4,7 @@
 
 | 出题人 | 附件 | 环境镜像 | 端口 |
 |-----|-----|-----|-----|
-| Th3S | [ext.pwn.llama-hack.7z](https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment_extras/ext.pwn.llama-hack.7z) | [newstar-2025:extra_llama-pwn](https://hub.docker.com/r/openctf/newstar-2025/tags?name=extra_llama-pwn) | `50052` |
+| Th3S | [ext.pwn.llama-hack.7z](https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment-extras/ext.pwn.llama-hack.7z) | [newstar-2025:extra_llama-pwn](https://hub.docker.com/r/openctf/newstar-2025/tags?name=extra_llama-pwn) | `50052` |
 
 > <details><summary><strong>FLAG:</strong> 动态</summary>
 > </details>
@@ -15,7 +15,7 @@ LLM怎么还能溢出？
 
 | 出题人 | 附件 |
 |-----|-----|
-| AstralPrisma | [ext.rev.not-symmetric.zip](https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment_extras/ext.rev.not-symmetric.zip) |
+| AstralPrisma | [ext.rev.not-symmetric.zip](https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment-extras/ext.rev.not-symmetric.zip) |
 
 > <details><summary><strong>FLAG:</strong> <i>点此展开/收起</i></summary>
 > <code>flag{Y0u_oU_u_4rE_Re_3_Go0d_OoD_0d_D_47_t_l1bgMp_4Nd_7h15_4sYmM3tr1c_3nCrYp710n}</code>
@@ -27,7 +27,7 @@ LLM怎么还能溢出？
 
 | 出题人 | 附件 | 环境镜像 | 端口 |
 |-----|-----|-----|-----|
-| KAMIYA | [ext.web.whossti-revenge.zip](https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment_extras/ext.web.whossti-revenge.zip) | [newstar-2025:extra_whossti](https://hub.docker.com/r/openctf/newstar-2025/tags?name=extra_whossti) | `5000` |
+| KAMIYA | [ext.web.whossti-revenge.zip](https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment-extras/ext.web.whossti-revenge.zip) | [newstar-2025:extra_whossti](https://hub.docker.com/r/openctf/newstar-2025/tags?name=extra_whossti) | `5000` |
 
 > <details><summary><strong>FLAG:</strong> 动态</summary>
 > </details>
@@ -50,7 +50,7 @@ LLM怎么还能溢出？
 
 | 出题人 | 附件 |
 |-----|-----|
-| Cathylin | [ext.cry.chaos-cipher-intro.rar](https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment_extras/ext.cry.chaos-cipher-intro.rar) |
+| Cathylin | [ext.cry.chaos-cipher-intro.rar](https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment-extras/ext.cry.chaos-cipher-intro.rar) |
 
 > <details><summary><strong>FLAG:</strong> <i>点此展开/收起</i></summary>
 > <code>flag{Does_it_look_chaotic?This_just_the_beginning!}</code>
@@ -68,7 +68,7 @@ LLM怎么还能溢出？
 
 | 出题人 | 附件 |
 |-----|-----|
-| Cathylin | [ext.cry.simple-not-simple.rar](https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment_extras/ext.cry.simple-not-simple.rar) |
+| Cathylin | [ext.cry.simple-not-simple.rar](https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment-extras/ext.cry.simple-not-simple.rar) |
 
 > <details><summary><strong>FLAG:</strong> <i>点此展开/收起</i></summary>
 > <code>flag{a9eef27e-2229-4110-a28f-42f7f007c06d}</code>
@@ -80,7 +80,7 @@ LLM怎么还能溢出？
 
 | 出题人 | 附件 |
 |-----|-----|
-| Cathylin | [ext.cry.random-journey-1.3.rar](https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment_extras/ext.cry.random-journey-1.3.rar) |
+| Cathylin | [ext.cry.random-journey-1.3.rar](https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment-extras/ext.cry.random-journey-1.3.rar) |
 
 > <details><summary><strong>FLAG:</strong> <i>点此展开/收起</i></summary>
 > <code>flag{3ea753dc-8d46-41f7-b4a6-e828c0253831}</code>
@@ -92,7 +92,7 @@ LLM怎么还能溢出？
 
 | 出题人 | 附件 |
 |-----|-----|
-| Cathylin | [ext.cry.random-journey-1.9.rar](https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment_extras/ext.cry.random-journey-1.9.rar) |
+| Cathylin | [ext.cry.random-journey-1.9.rar](https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment-extras/ext.cry.random-journey-1.9.rar) |
 
 > <details><summary><strong>FLAG:</strong> <i>点此展开/收起</i></summary>
 > <code>flag{513a05ef-ca04-4e94-af25-a893da4221fe}</code>
@@ -104,7 +104,7 @@ LLM怎么还能溢出？
 
 | 出题人 | 附件 |
 |-----|-----|
-| Cathylin | [ext.cry.random-journey-2.rar](https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment_extras/ext.cry.random-journey-2.rar) |
+| Cathylin | [ext.cry.random-journey-2.rar](https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment-extras/ext.cry.random-journey-2.rar) |
 
 > <details><summary><strong>FLAG:</strong> <i>点此展开/收起</i></summary>
 > <code>flag{e9ef408f-feef-4732-b6d0-77d9813b8f9c}</code>
@@ -116,7 +116,7 @@ MT19.937，哇哦
 
 | 出题人 | 附件 |
 |-----|-----|
-| Cathylin | [ext.cry.random-journey-3.6.rar](https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment_extras/ext.cry.random-journey-3.6.rar) |
+| Cathylin | [ext.cry.random-journey-3.6.rar](https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment-extras/ext.cry.random-journey-3.6.rar) |
 
 > <details><summary><strong>FLAG:</strong> <i>点此展开/收起</i></summary>
 > <code>flag{0b319110-bdfa-411c-957f-50bdabe1fa1c}</code>
@@ -128,7 +128,7 @@ MT19.937，哇哦
 
 | 出题人 | 附件 |
 |-----|-----|
-| Cathylin | [ext.cry.random-journey-3.9.rar](https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment_extras/ext.cry.random-journey-3.9.rar) |
+| Cathylin | [ext.cry.random-journey-3.9.rar](https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment-extras/ext.cry.random-journey-3.9.rar) |
 
 > <details><summary><strong>FLAG:</strong> <i>点此展开/收起</i></summary>
 > <code>flag{12b2b60e-7783-4bfa-9e58-f77911a211c1_144a045e-0c31-4e5d-b7b5-7e69ac4344ac_19691419-c2f3-4b43-9955-d24adefd7005}</code>
@@ -172,7 +172,7 @@ MT19.937，哇哦
 
 | 出题人 | 附件 |
 |-----|-----|
-| Hanson | [ext.cry.dlp.zip](https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment_extras/ext.cry.dlp.zip) |
+| Hanson | [ext.cry.dlp.zip](https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment-extras/ext.cry.dlp.zip) |
 
 > <details><summary><strong>FLAG:</strong> <i>点此展开/收起</i></summary>
 > <code>flag{D0_y0u_lik3_4i5cr3te_1og@rit6m?}</code>
@@ -184,7 +184,7 @@ MT19.937，哇哦
 
 | 出题人 | 附件 |
 |-----|-----|
-| Cathylin | [ext.cry.final-r.rar](https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment_extras/ext.cry.final-r.rar) |
+| Cathylin | [ext.cry.final-r.rar](https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment-extras/ext.cry.final-r.rar) |
 
 > <details><summary><strong>FLAG:</strong> <i>点此展开/收起</i></summary>
 > <code>flag{Circu1@r_c0nv01u7i0n_0N_v3c70R==5Qu@Ring_A_p01yn0mia!}</code>
@@ -196,7 +196,7 @@ NewStar CTF 2025 密码学收官之作。
 
 | 出题人 | 附件 |
 |-----|-----|
-| gloriablack | [ext.cry.weil-noise-order.zip](https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment_extras/ext.cry.weil-noise-order.zip) |
+| gloriablack | [ext.cry.weil-noise-order.zip](https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment-extras/ext.cry.weil-noise-order.zip) |
 
 > <details><summary><strong>FLAG:</strong> <i>点此展开/收起</i></summary>
 > <code>flag{let_m3_exam1n3_wh3ther_U_h@v3_handled_weil_pair1n9}</code>
@@ -210,7 +210,7 @@ Weil 配对是一种强大的工具，能将椭圆曲线上的点映射到乘法
 
 | 出题人 | 附件 |
 |-----|-----|
-| miko | [ext.misc.not-all-milk.zip](https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment_extras/ext.misc.not-all-milk.zip) |
+| miko | [ext.misc.not-all-milk.zip](https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment-extras/ext.misc.not-all-milk.zip) |
 
 > <details><summary><strong>FLAG:</strong> <i>点此展开/收起</i></summary>
 > <code>flag{W0w_You_r3al1y_knOW_TL5&QrCode}</code>

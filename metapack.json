@@ -7,7 +7,7 @@
     "tags": ["nc"],
     "author": "Findkey",
     "attachments": [
-      "https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment_week1/w1.pwn.hacker-door.zip"
+      "https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment-week1/w1.pwn.hacker-door.zip"
     ],
     "services": [
       {
@@ -41,7 +41,7 @@
     "tags": ["GDB"],
     "author": "L1nk",
     "attachments": [
-      "https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment_week1/w1.pwn.gnu-debugger.zip"
+      "https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment-week1/w1.pwn.gnu-debugger.zip"
     ],
     "services": [
       {
@@ -75,7 +75,7 @@
     "tags": ["整数溢出"],
     "author": "s1eepy",
     "attachments": [
-      "https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment_week1/w1.pwn.intbug.zip"
+      "https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment-week1/w1.pwn.intbug.zip"
     ],
     "services": [
       {
@@ -109,7 +109,7 @@
     "tags": ["栈溢出"],
     "author": "Sally",
     "attachments": [
-      "https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment_week1/w1.pwn.overflow.zip"
+      "https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment-week1/w1.pwn.overflow.zip"
     ],
     "services": [
       {
@@ -143,7 +143,7 @@
     "tags": ["shellcode"],
     "author": "sysNow",
     "attachments": [
-      "https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment_week1/w1.pwn.input-function.zip"
+      "https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment-week1/w1.pwn.input-function.zip"
     ],
     "services": [
       {
@@ -176,7 +176,7 @@
     "category": ["Week1", "Reverse"],
     "tags": ["异或"],
     "author": "Eleven.",
-    "attachments": ["https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment_week1/w1.rev.x0r.zip"],
+    "attachments": ["https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment-week1/w1.rev.x0r.zip"],
     "services": [],
     "answer": "flag{y0u_Kn0W_b4s1C_xOr}",
     "difficulty": 0,
@@ -192,7 +192,7 @@
     "tags": ["标准 AES"],
     "author": "PangBai",
     "attachments": [
-      "https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment_week1/w1.rev.ezmydroid.zip"
+      "https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment-week1/w1.rev.ezmydroid.zip"
     ],
     "services": [],
     "answer": "flag{@_g00d_st@r7_f0r_ANDROID}",
@@ -209,7 +209,7 @@
     "tags": ["字符串搜索"],
     "author": "Eleven.",
     "attachments": [
-      "https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment_week1/w1.rev.puzzle.zip"
+      "https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment-week1/w1.rev.puzzle.zip"
     ],
     "services": [],
     "answer": "flag{Do_Y0u_Like_7his_Jigs@w_puzz1e_Gam3}",
@@ -226,7 +226,7 @@
     "tags": ["动态调试"],
     "author": "Samsara",
     "attachments": [
-      "https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment_week1/w1.rev.plzdebugme.zip"
+      "https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment-week1/w1.rev.plzdebugme.zip"
     ],
     "services": [],
     "answer": "flag{It3_D3bugG_T11me!_le3_play}",
@@ -243,7 +243,7 @@
     "tags": ["Base 编码"],
     "author": "JSnow",
     "attachments": [
-      "https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment_week1/w1.rev.strange-base.7z"
+      "https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment-week1/w1.rev.strange-base.7z"
     ],
     "services": [],
     "answer": "flag{Wh4t_a_cra2y_8as3!!!}",
@@ -452,7 +452,7 @@
     "tags": ["公钥密码"],
     "author": "Hanson",
     "attachments": [
-      "https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment_week1/w1.cry.rsa-intro.zip"
+      "https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment-week1/w1.cry.rsa-intro.zip"
     ],
     "services": [],
     "answer": "flag{W3lc0me_t0_4h3_w0rl4_0f_Cryptoooo!}",
@@ -469,7 +469,7 @@
     "tags": ["流密码"],
     "author": "cathylin",
     "attachments": [
-      "https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment_week1/w1.cry.random-journey-1.rar"
+      "https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment-week1/w1.cry.random-journey-1.rar"
     ],
     "services": [],
     "answer": "flag{c3bc3ead-01e3-491b-aa2d-d2f042449fd6}",
@@ -486,7 +486,7 @@
     "tags": ["工具使用"],
     "author": "cathylin",
     "attachments": [
-      "https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment_week1/w1.cry.sagemath-guide.rar"
+      "https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment-week1/w1.cry.sagemath-guide.rar"
     ],
     "services": [],
     "answer": "flag{e142d08c-7e7d-43ed-b5ad-af51ffc512ee}",
@@ -503,7 +503,7 @@
     "tags": ["CRT"],
     "author": "cathylin",
     "attachments": [
-      "https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment_week1/w1.cry.unique-repr.rar"
+      "https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment-week1/w1.cry.unique-repr.rar"
     ],
     "services": [],
     "answer": "flag{9c8589c2-aecb-4ec4-b027-654bc322e2d1}",
@@ -520,7 +520,7 @@
     "tags": ["数论"],
     "author": "cathylin",
     "attachments": [
-      "https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment_week1/w1.cry.little-frog.rar"
+      "https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment-week1/w1.cry.little-frog.rar"
     ],
     "services": [],
     "answer": "flag{Go0d_j0b_t0_Cl34r_thi5_Diff3r3nt_t45k_4_u}",
@@ -552,7 +552,7 @@
     "tags": ["编码"],
     "author": "kndye",
     "attachments": [
-      "https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment_week1/w1.misc.no-revolution-fail.zip"
+      "https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment-week1/w1.misc.no-revolution-fail.zip"
     ],
     "services": [],
     "answer": "flag{CRITICAL_PROCESS_DIED_svchost.exe}",
@@ -569,7 +569,7 @@
     "tags": ["隐写"],
     "author": "willyz",
     "attachments": [
-      "https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment_week1/w1.misc.compression-magic.zip"
+      "https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment-week1/w1.misc.compression-magic.zip"
     ],
     "services": [],
     "answer": "flag{You_have_mastered_the_zip_magic!}",
@@ -586,7 +586,7 @@
     "tags": ["OSINT"],
     "author": "willyz",
     "attachments": [
-      "https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment_week1/w1.misc.osint-sky-belong.zip"
+      "https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment-week1/w1.misc.osint-sky-belong.zip"
     ],
     "services": [],
     "answer": "flag{UQ3574_武汉市_Xiaomi}",
@@ -603,7 +603,7 @@
     "tags": ["隐写"],
     "author": "Muzhi",
     "attachments": [
-      "https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment_week1/w1.misc.ez-fence.rar"
+      "https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment-week1/w1.misc.ez-fence.rar"
     ],
     "services": [],
     "answer": "flag{y0u_kn0w_ez_fence_tuzh0ng}",
@@ -620,7 +620,7 @@
     "tags": ["隐写", "编码"],
     "author": "miko",
     "attachments": [
-      "https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment_week1/w1.misc.search-is-useful.zip"
+      "https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment-week1/w1.misc.search-is-useful.zip"
     ],
     "services": [],
     "answer": "flag{you_0V3RC4ME_cH@1LenG3s}",
@@ -669,7 +669,7 @@
     "tags": ["orw"],
     "author": "Findkey",
     "attachments": [
-      "https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment_week2/w2.pwn.no-shell.zip"
+      "https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment-week2/w2.pwn.no-shell.zip"
     ],
     "services": [
       {
@@ -703,7 +703,7 @@
     "tags": ["ret2syscall"],
     "author": "s1eepy",
     "attachments": [
-      "https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment_week2/w2.pwn.syscall.zip"
+      "https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment-week2/w2.pwn.syscall.zip"
     ],
     "services": [
       {
@@ -737,7 +737,7 @@
     "tags": ["shellcode"],
     "author": "sysNow",
     "attachments": [
-      "https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment_week2/w2.pwn.input-small-function.zip"
+      "https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment-week2/w2.pwn.input-small-function.zip"
     ],
     "services": [
       {
@@ -771,7 +771,7 @@
     "tags": ["ret2libc", "ret2csu"],
     "author": "daimi",
     "attachments": [
-      "https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment_week2/w2.pwn.calc-beta.zip"
+      "https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment-week2/w2.pwn.calc-beta.zip"
     ],
     "services": [
       {
@@ -805,7 +805,7 @@
     "tags": ["UPX", "反调试"],
     "author": "AstralPrisma",
     "attachments": [
-      "https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment_week2/w2.rev.yupi-ex-adventure-1.zip"
+      "https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment-week2/w2.rev.yupi-ex-adventure-1.zip"
     ],
     "services": [],
     "answer": "flag{E4sy_R3v3rSe_e4Sy_eNcrypt10n}",
@@ -822,7 +822,7 @@
     "tags": ["花指令"],
     "author": "AstralPrisma",
     "attachments": [
-      "https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment_week2/w2.rev.flower-for-ada-1.zip"
+      "https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment-week2/w2.rev.flower-for-ada-1.zip"
     ],
     "services": [],
     "answer": "flag{Junk_C0d3s_4Re_345y_t0_rEc0gn1Ze!!}",
@@ -839,7 +839,7 @@
     "tags": ["汇编"],
     "author": "Azusaq",
     "attachments": [
-      "https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment_week2/w2.rev.forgotten-code.zip"
+      "https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment-week2/w2.rev.forgotten-code.zip"
     ],
     "services": [],
     "answer": "flag{4553m81y_5_s0o0o0_345y_jD5yQ5mD9}",
@@ -856,7 +856,7 @@
     "tags": ["动态调试分析"],
     "author": "JSnow",
     "attachments": [
-      "https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment_week2/w2.rev.look-carefully.7z"
+      "https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment-week2/w2.rev.look-carefully.7z"
     ],
     "services": [],
     "answer": "flag{H4ve_you_lo0ked_at_me_c1o5ely?}",
@@ -873,7 +873,7 @@
     "tags": ["XXTEA"],
     "author": "PangBai",
     "attachments": [
-      "https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment_week2/w2.rev.ohnativeenc.zip"
+      "https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment-week2/w2.rev.ohnativeenc.zip"
     ],
     "services": [],
     "answer": "flag{Ur_G00d_@_n@tive_Func}",
@@ -1050,7 +1050,7 @@
     "tags": ["离散对数"],
     "author": "Hanson",
     "attachments": [
-      "https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment_week2/w2.cry.dlp-1.zip"
+      "https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment-week2/w2.cry.dlp-1.zip"
     ],
     "services": [],
     "answer": "flag{I_l0v3_DLPPPPP^.^!}",
@@ -1067,7 +1067,7 @@
     "tags": ["具体分析"],
     "author": "cathylin",
     "attachments": [
-      "https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment_week2/w2.cry.fhe-0-1.rar"
+      "https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment-week2/w2.cry.fhe-0-1.rar"
     ],
     "services": [],
     "answer": "flag{3235c1ab-6830-480f-b5e0-39be40b94a7d}",
@@ -1084,7 +1084,7 @@
     "tags": ["群论"],
     "author": "cathylin",
     "attachments": [
-      "https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment_week2/w2.cry.group-theory-quiz.rar"
+      "https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment-week2/w2.cry.group-theory-quiz.rar"
     ],
     "services": [
       {
@@ -1116,7 +1116,7 @@
     "tags": ["古典"],
     "author": "cathylin",
     "attachments": [
-      "https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment_week2/w2.cry.permutation.rar"
+      "https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment-week2/w2.cry.permutation.rar"
     ],
     "services": [],
     "answer": "flag{SUCH_A_SIMPLE_PERMUTATION_WILL_DEFINITELY_NOT_STUMP_YOU.}",
@@ -1133,7 +1133,7 @@
     "tags": ["RSA"],
     "author": "Hanson",
     "attachments": [
-      "https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment_week2/w2.cry.rsa-revenge.zip"
+      "https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment-week2/w2.cry.rsa-revenge.zip"
     ],
     "services": [],
     "answer": "flag{Ooooo6_y0u_kn0w_F3rm@t_and_Eu13r_v3ry_w3ll!!}",
@@ -1150,7 +1150,7 @@
     "tags": ["音频隐写"],
     "author": "AstralPrisma",
     "attachments": [
-      "https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment_week2/w2.misc.beautiful-music.zip"
+      "https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment-week2/w2.misc.beautiful-music.zip"
     ],
     "services": [],
     "answer": "flag{thi5_1S_m1Di_5tEG0}",
@@ -1167,7 +1167,7 @@
     "tags": ["日志分析"],
     "author": "willyz",
     "attachments": [
-      "https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment_week2/w2.misc.log-intrusion.zip"
+      "https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment-week2/w2.misc.log-intrusion.zip"
     ],
     "services": [
       {
@@ -1201,7 +1201,7 @@
     "tags": ["OSINT"],
     "author": "willyz",
     "attachments": [
-      "https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment_week2/w2.misc.osint-threat-intel.zip"
+      "https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment-week2/w2.misc.osint-threat-intel.zip"
     ],
     "services": [],
     "answer": "flag{kimsuky_alps.travelmountain.ml_2021-03-31}",
@@ -1218,7 +1218,7 @@
     "tags": ["流量分析"],
     "author": "KAMIYA",
     "attachments": [
-      "https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment_week2/w2.misc.thursday-rhapsody.zip"
+      "https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment-week2/w2.misc.thursday-rhapsody.zip"
     ],
     "services": [],
     "answer": "flag{What_1S_tHuSd4y_Quickly_VIVO50}",
@@ -1235,7 +1235,7 @@
     "tags": ["流量分析"],
     "author": "willyz",
     "attachments": [
-      "https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment_week2/w2.misc.newkeyboard.zip"
+      "https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment-week2/w2.misc.newkeyboard.zip"
     ],
     "services": [],
     "answer": "flag{th1s_is_newkeyboard_y0u_get_it!}",
@@ -1252,7 +1252,7 @@
     "tags": ["格式化字符串", "canary"],
     "author": "L1nk",
     "attachments": [
-      "https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment_week3/w3.pwn.fmt-canary.zip"
+      "https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment-week3/w3.pwn.fmt-canary.zip"
     ],
     "services": [
       {
@@ -1286,7 +1286,7 @@
     "tags": ["shellcode", "orw"],
     "author": "sysNow",
     "attachments": [
-      "https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment_week3/w3.pwn.sandbox-plus.zip"
+      "https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment-week3/w3.pwn.sandbox-plus.zip"
     ],
     "services": [
       {
@@ -1320,7 +1320,7 @@
     "tags": ["多线程", "代码审计"],
     "author": "daimi",
     "attachments": [
-      "https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment_week3/w3.pwn.xiaoming-question.zip"
+      "https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment-week3/w3.pwn.xiaoming-question.zip"
     ],
     "services": [
       {
@@ -1354,7 +1354,7 @@
     "tags": ["ret2text", "ret2libc"],
     "author": "daimi",
     "attachments": [
-      "https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment_week3/w3.pwn.calc-meow.zip"
+      "https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment-week3/w3.pwn.calc-meow.zip"
     ],
     "services": [
       {
@@ -1388,7 +1388,7 @@
     "tags": ["srop", "栈迁移", "orw"],
     "author": "Sally",
     "attachments": [
-      "https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment_week3/w3.pwn.only-read.zip"
+      "https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment-week3/w3.pwn.only-read.zip"
     ],
     "services": [
       {
@@ -1422,7 +1422,7 @@
     "tags": ["pyc"],
     "author": "Azusaq",
     "attachments": [
-      "https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment_week3/w3.rev.pyz3.zip"
+      "https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment-week3/w3.rev.pyz3.zip"
     ],
     "services": [],
     "answer": "flag{PytH0n_R3v3rs1Ng_4nd_Z3_s0lV3r}",
@@ -1439,7 +1439,7 @@
     "tags": ["花指令"],
     "author": "AstralPrisma",
     "attachments": [
-      "https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment_week3/w3.rev.flower-for-ada-2.zip"
+      "https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment-week3/w3.rev.flower-for-ada-2.zip"
     ],
     "services": [],
     "answer": "flag{WO0o0O0w_So0Oo0o_m4Ny_F1oO0o0oW3R5}",
@@ -1456,7 +1456,7 @@
     "tags": ["动态注册", "init"],
     "author": "PangBai",
     "attachments": [
-      "https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment_week3/w3.rev.who-changed-key.zip"
+      "https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment-week3/w3.rev.who-changed-key.zip"
     ],
     "services": [],
     "answer": "flag{in1t_Rev__}",
@@ -1473,7 +1473,7 @@
     "tags": ["UPX", "平坦化混淆"],
     "author": "AstralPrisma",
     "attachments": [
-      "https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment_week3/w3.rev.yupi-ex-adventure-2.zip"
+      "https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment-week3/w3.rev.yupi-ex-adventure-2.zip"
     ],
     "services": [],
     "answer": "flag{CoN7r0l_F10w_F14t73n1nG_C4N_b3_c0NfU5iNg!!}",
@@ -1490,7 +1490,7 @@
     "tags": ["SMC", "Hook"],
     "author": "AstralPrisma",
     "attachments": [
-      "https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment_week3/w3.rev.dancing-functions.zip"
+      "https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment-week3/w3.rev.dancing-functions.zip"
     ],
     "services": [],
     "answer": "flag{D4nc1Ng_K3yG3N_fUnct10n5_wItH_r4nD_4Nd_5Mc}",
@@ -1667,7 +1667,7 @@
     "tags": ["SSTI"],
     "author": "KAMIYA",
     "attachments": [
-      "https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment_week3/w3.web.whossti.zip"
+      "https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment-week3/w3.web.whossti.zip"
     ],
     "services": [
       {
@@ -1701,7 +1701,7 @@
     "tags": ["AES-CBC"],
     "author": "gloriablack",
     "attachments": [
-      "https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment_week3/w3.cry.cbc-dance.zip"
+      "https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment-week3/w3.cry.cbc-dance.zip"
     ],
     "services": [],
     "answer": "flag{cbc_dancing_1s_the_best_XD_miaowu~_wangang~}",
@@ -1718,7 +1718,7 @@
     "tags": ["CopperSmith"],
     "author": "gloriablack",
     "attachments": [
-      "https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment_week3/w3.cry.leaked-primes.zip"
+      "https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment-week3/w3.cry.leaked-primes.zip"
     ],
     "services": [],
     "answer": "flag{wh3n_th3_m0dul3_i3_bi9_en0ugh_U_c@n_c0ns1der_u3ing_coppersmith}",
@@ -1735,7 +1735,7 @@
     "tags": ["生日攻击"],
     "author": "cathylin",
     "attachments": [
-      "https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment_week3/w3.cry.lucky-birthday.rar"
+      "https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment-week3/w3.cry.lucky-birthday.rar"
     ],
     "services": [
       {
@@ -1767,7 +1767,7 @@
     "tags": ["线性代数"],
     "author": "cathylin",
     "attachments": [
-      "https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment_week3/w3.cry.random-journey-3.rar"
+      "https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment-week3/w3.cry.random-journey-3.rar"
     ],
     "services": [],
     "answer": "flag{1f59622f-ccbc-45c0-b9f5-731a51343027}",
@@ -1783,7 +1783,7 @@
     "category": ["Week3", "Crypto"],
     "tags": ["LCG"],
     "author": "cathylin",
-    "attachments": ["https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment_week3/w3.cry.gcl.rar"],
+    "attachments": ["https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment-week3/w3.cry.gcl.rar"],
     "services": [],
     "answer": "flag{2eac1c79-8abd-465e-82f4-96beffed69e4}",
     "difficulty": 3,
@@ -1799,7 +1799,7 @@
     "tags": ["流量分析", "工业流量分析"],
     "author": "willyz",
     "attachments": [
-      "https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment_week3/w3.misc.traffic-s7-secret.zip"
+      "https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment-week3/w3.misc.traffic-s7-secret.zip"
     ],
     "services": [],
     "answer": "flag{IIOT_important!}",
@@ -1816,7 +1816,7 @@
     "tags": ["日志分析"],
     "author": "willyz",
     "attachments": [
-      "https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment_week3/w3.misc.log-blind-dolphin.zip"
+      "https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment-week3/w3.misc.log-blind-dolphin.zip"
     ],
     "services": [],
     "answer": "flag{SQL_injection_logs_are_very_easy}",
@@ -1833,7 +1833,7 @@
     "tags": ["内存取证"],
     "author": "miko",
     "attachments": [
-      "https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment_week3/w3.misc.mem-forensics-windows.txt"
+      "https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment-week3/w3.misc.mem-forensics-windows.txt"
     ],
     "services": [],
     "answer": "flag{125.216.248.74:11451_temp_admin123_arisamik}",
@@ -1850,7 +1850,7 @@
     "tags": ["区块链"],
     "author": "willyz",
     "attachments": [
-      "https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment_week3/w3.misc.ethereum-promise.zip"
+      "https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment-week3/w3.misc.ethereum-promise.zip"
     ],
     "services": [],
     "answer": "flag{12_1145_20240614_solidity}",
@@ -1867,7 +1867,7 @@
     "tags": ["python jail"],
     "author": "KAMIYA",
     "attachments": [
-      "https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment_week3/w3.misc.jail-evil-eval.zip"
+      "https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment-week3/w3.misc.jail-evil-eval.zip"
     ],
     "services": [
       {
@@ -1901,7 +1901,7 @@
     "tags": ["格式化字符串"],
     "author": "L1nk",
     "attachments": [
-      "https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment_week4/w4.pwn.fmt-got.zip"
+      "https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment-week4/w4.pwn.fmt-got.zip"
     ],
     "services": [
       {
@@ -1935,7 +1935,7 @@
     "tags": ["随机数预测"],
     "author": "daimi",
     "attachments": [
-      "https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment_week4/w4.pwn.mirage.zip"
+      "https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment-week4/w4.pwn.mirage.zip"
     ],
     "services": [
       {
@@ -1969,7 +1969,7 @@
     "tags": ["shellcode"],
     "author": "sysNow",
     "attachments": [
-      "https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment_week4/w4.pwn.memory.zip"
+      "https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment-week4/w4.pwn.memory.zip"
     ],
     "services": [
       {
@@ -2003,7 +2003,7 @@
     "tags": ["栈 Tricks"],
     "author": "daimi",
     "attachments": [
-      "https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment_week4/w4.pwn.calc-queen.zip"
+      "https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment-week4/w4.pwn.calc-queen.zip"
     ],
     "services": [
       {
@@ -2037,7 +2037,7 @@
     "tags": ["堆"],
     "author": "ishmael",
     "attachments": [
-      "https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment_week4/w4.pwn.content.gz"
+      "https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment-week4/w4.pwn.content.gz"
     ],
     "services": [
       {
@@ -2071,7 +2071,7 @@
     "tags": ["Windows GUI"],
     "author": "Azusaq",
     "attachments": [
-      "https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment_week4/w4.rev.not-tui.zip"
+      "https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment-week4/w4.rev.not-tui.zip"
     ],
     "services": [],
     "answer": "flag{bbbd719a361123014e77006476205f73}",
@@ -2088,7 +2088,7 @@
     "tags": ["Frida"],
     "author": "PangBai",
     "attachments": [
-      "https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment_week4/w4.rev.pleasehookme.zip"
+      "https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment-week4/w4.rev.pleasehookme.zip"
     ],
     "services": [],
     "answer": "flag{h007_m3_me}",
@@ -2105,7 +2105,7 @@
     "tags": ["UPX"],
     "author": "AstralPrisma",
     "attachments": [
-      "https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment_week4/w4.rev.yupi-ex-adventure-3.zip"
+      "https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment-week4/w4.rev.yupi-ex-adventure-3.zip"
     ],
     "services": [],
     "answer": "flag{C4tcH_th3_rUn71m3_3rr0R_0f_d1vId3D_8Y_z3R0}",
@@ -2122,7 +2122,7 @@
     "tags": [],
     "author": "AstralPrisma",
     "attachments": [
-      "https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment_week4/w4.rev.dancing-keys.zip"
+      "https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment-week4/w4.rev.dancing-keys.zip"
     ],
     "services": [],
     "answer": "flag{1_h4t3_h4sH_ch3cK1ng_4Nd_r4Nd0m_t3AenCRypt}",
@@ -2139,7 +2139,7 @@
     "tags": ["Rust 逆向"],
     "author": "Azusaq",
     "attachments": [
-      "https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment_week4/w4.rev.ezrust.zip"
+      "https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment-week4/w4.rev.ezrust.zip"
     ],
     "services": [],
     "answer": "flag{rUS7_ReveRse_1s_MY_n19h7m4rE_eW2fZ}",
@@ -2156,7 +2156,7 @@
     "tags": ["SSRF", "SSTI"],
     "author": "wsh_",
     "attachments": [
-      "https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment_week4/w4.web.ssti-where.zip"
+      "https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment-week4/w4.web.ssti-where.zip"
     ],
     "services": [
       {
@@ -2286,7 +2286,7 @@
     "tags": ["SQLi"],
     "author": "KAMIYA",
     "attachments": [
-      "https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment_week4/w4.web.sqlupload.zip"
+      "https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment-week4/w4.web.sqlupload.zip"
     ],
     "services": [
       {
@@ -2320,7 +2320,7 @@
     "tags": ["ECC"],
     "author": "cathylin",
     "attachments": [
-      "https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment_week4/w4.cry.one-and-only.rar"
+      "https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment-week4/w4.cry.one-and-only.rar"
     ],
     "services": [],
     "answer": "flag{035755ac-ba88-401d-93d3-d13607aa7387}",
@@ -2337,7 +2337,7 @@
     "tags": ["线性代数"],
     "author": "cathylin",
     "attachments": [
-      "https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment_week4/w4.cry.random-journey-4.rar"
+      "https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment-week4/w4.cry.random-journey-4.rar"
     ],
     "services": [],
     "answer": "flag{188a9250-bd02-4746-8ddd-a32d9c1bb11a}",
@@ -2354,7 +2354,7 @@
     "tags": ["密钥共享协议"],
     "author": "gloriablack",
     "attachments": [
-      "https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment_week4/w4.cry.conjugate-maze.zip"
+      "https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment-week4/w4.cry.conjugate-maze.zip"
     ],
     "services": [],
     "answer": "flag{hav3_U_f1nd_ouT_@bout_tr1ck?XD}",
@@ -2371,7 +2371,7 @@
     "tags": ["格密码"],
     "author": "gloriablack",
     "attachments": [
-      "https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment_week4/w4.cry.triple-key-lock.zip"
+      "https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment-week4/w4.cry.triple-key-lock.zip"
     ],
     "services": [],
     "answer": "flag{op3n_A_d007_t0_th3_w0rld_0f_latt1ce}",
@@ -2388,7 +2388,7 @@
     "tags": ["分组密码"],
     "author": "cathylin",
     "attachments": [
-      "https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment_week4/w4.cry.silkworm-secret.rar"
+      "https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment-week4/w4.cry.silkworm-secret.rar"
     ],
     "services": [
       {
@@ -2420,7 +2420,7 @@
     "tags": ["流量分析"],
     "author": "willyz",
     "attachments": [
-      "https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment_week4/w4.misc.traffic-sound-locate.zip"
+      "https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment-week4/w4.misc.traffic-sound-locate.zip"
     ],
     "services": [],
     "answer": "flag{blind_injection_Re@lly_Biggg!}",
@@ -2437,7 +2437,7 @@
     "tags": ["区块链", "智能合约"],
     "author": "willyz",
     "attachments": [
-      "https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment_week4/w4.misc.smart-contracts.zip"
+      "https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment-week4/w4.misc.smart-contracts.zip"
     ],
     "services": [],
     "answer": "flag{E4sy_S0lidity_D3v_F1a9_C0d3_4ud1t}",
@@ -2454,7 +2454,7 @@
     "tags": ["jail"],
     "author": "KAMIYA",
     "attachments": [
-      "https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment_week4/w4.misc.jail-neuro.zip"
+      "https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment-week4/w4.misc.jail-neuro.zip"
     ],
     "services": [
       {
@@ -2518,7 +2518,7 @@
     "tags": ["基础排查"],
     "author": "willyz",
     "attachments": [
-      "https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment_week4/w4.misc.ir-intro.txt"
+      "https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment-week4/w4.misc.ir-intro.txt"
     ],
     "services": [],
     "answer": "flag{rebeyond_2022-01-18_Ns2025}",
@@ -2535,7 +2535,7 @@
     "tags": ["BSS 段格式化字符串"],
     "author": "L1nk",
     "attachments": [
-      "https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment_week5/w5.pwn.fuduji-back.zip"
+      "https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment-week5/w5.pwn.fuduji-back.zip"
     ],
     "services": [
       {
@@ -2569,7 +2569,7 @@
     "tags": ["UAF"],
     "author": "sysNow",
     "attachments": [
-      "https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment_week5/w5.pwn.note.zip"
+      "https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment-week5/w5.pwn.note.zip"
     ],
     "services": [
       {
@@ -2603,7 +2603,7 @@
     "tags": ["IO_FILE"],
     "author": "L1nk",
     "attachments": [
-      "https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment_week5/w5.pwn.stdout.zip"
+      "https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment-week5/w5.pwn.stdout.zip"
     ],
     "services": [
       {
@@ -2637,7 +2637,7 @@
     "tags": ["VM"],
     "author": "ishmael",
     "attachments": [
-      "https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment_week5/w5.pwn.go-question.zip"
+      "https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment-week5/w5.pwn.go-question.zip"
     ],
     "services": [
       {
@@ -2671,7 +2671,7 @@
     "tags": ["angr"],
     "author": "daimi",
     "attachments": [
-      "https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment_week5/w5.pwn.hack-the-world.zip"
+      "https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment-week5/w5.pwn.hack-the-world.zip"
     ],
     "services": [
       {
@@ -2705,7 +2705,7 @@
     "tags": ["flutter"],
     "author": "PangBai",
     "attachments": [
-      "https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment_week5/w5.rev.magical-girl-secret.zip"
+      "https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment-week5/w5.rev.magical-girl-secret.zip"
     ],
     "services": [],
     "answer": "flag{You_will_become_magical_girl}",
@@ -2722,7 +2722,7 @@
     "tags": ["VM", "Python"],
     "author": "yuro",
     "attachments": [
-      "https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment_week5/w5.rev.genius-auth.zip"
+      "https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment-week5/w5.rev.genius-auth.zip"
     ],
     "services": [],
     "answer": "flag{Bytec0de_And_St4ck_M4g1c!}",
@@ -2739,7 +2739,7 @@
     "tags": ["鸿蒙逆向", "魔改AES"],
     "author": "AstralPrisma",
     "attachments": [
-      "https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment_week5/w5.rev.an-easy-system.zip"
+      "https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment-week5/w5.rev.an-easy-system.zip"
     ],
     "services": [],
     "answer": "flag{r3v3Rs1Ng_7h3_H4rm0nY_05_1s_n07_4S_d1Ff1cUl7_45_y0U_7h1nK!}",
@@ -2756,7 +2756,7 @@
     "tags": ["exe4j", "单字节 VM"],
     "author": "AstralPrisma",
     "attachments": [
-      "https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment_week5/w5.rev.jvav-master.7z"
+      "https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment-week5/w5.rev.jvav-master.7z"
     ],
     "services": [],
     "answer": "flag{4r3_y0U_g0oD_a7_j4vA?I'm_V3rY_Go0d_47_JvaV}",
@@ -2773,7 +2773,7 @@
     "tags": ["Cython", "CBC 同构"],
     "author": "AstralPrisma",
     "attachments": [
-      "https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment_week5/w5.rev.hetu-luoshu.zip"
+      "https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment-week5/w5.rev.hetu-luoshu.zip"
     ],
     "services": [],
     "answer": "flag{7H3_Lu0_5hu_3nCrYP710n_1s_b10Ck_C1ph3R!}",
@@ -2822,7 +2822,7 @@
     "tags": ["条件竞争", "RCE"],
     "author": "sanjio",
     "attachments": [
-      "https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment_week5/w5.web.abandoned-site.zip"
+      "https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment-week5/w5.web.abandoned-site.zip"
     ],
     "services": [
       {
@@ -2856,7 +2856,7 @@
     "tags": ["Node.js"],
     "author": "KAMIYA",
     "attachments": [
-      "https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment_week5/w5.web.w-k-story-final.zip"
+      "https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment-week5/w5.web.w-k-story-final.zip"
     ],
     "services": [
       {
@@ -2890,7 +2890,7 @@
     "tags": ["js表达式注入"],
     "author": "KAMIYA",
     "attachments": [
-      "https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment_week5/w5.web.familiar-calc.zip"
+      "https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment-week5/w5.web.familiar-calc.zip"
     ],
     "services": [
       {
@@ -2956,7 +2956,7 @@
     "tags": ["零知识证明", "LLL", "背包"],
     "author": "cathylin",
     "attachments": [
-      "https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment_week5/w5.cry.no-peek-meow.rar"
+      "https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment-week5/w5.cry.no-peek-meow.rar"
     ],
     "services": [
       {
@@ -2988,7 +2988,7 @@
     "tags": ["BLS 聚合签名", "Splitting Zero Attack"],
     "author": "gloriablack",
     "attachments": [
-      "https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment_week5/w5.cry.bls-multisig-zero.zip"
+      "https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment-week5/w5.cry.bls-multisig-zero.zip"
     ],
     "services": [
       {
@@ -3022,7 +3022,7 @@
     "tags": ["抽象代数", "Gröbner 基"],
     "author": "cathylin",
     "attachments": [
-      "https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment_week5/w5.cry.poly.rar"
+      "https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment-week5/w5.cry.poly.rar"
     ],
     "services": [],
     "answer": "flag{3bdb2424-591a-4a92-b587-74951c8ad192}",
@@ -3039,7 +3039,7 @@
     "tags": ["差分攻击"],
     "author": "cathylin",
     "attachments": [
-      "https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment_week5/w5.cry.smile-box.rar"
+      "https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment-week5/w5.cry.smile-box.rar"
     ],
     "services": [
       {
@@ -3071,7 +3071,7 @@
     "tags": ["区块链", "整数溢出"],
     "author": "willyz",
     "attachments": [
-      "https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment_week5/w5.misc.intbug-chain.zip"
+      "https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment-week5/w5.misc.intbug-chain.zip"
     ],
     "services": [],
     "answer": "flag{Good_NewStar2025_Byeeeee!}",
@@ -3088,7 +3088,7 @@
     "tags": ["应急响应", "日志审计", "服务版本历史漏洞"],
     "author": "willyz",
     "attachments": [
-      "https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment_week5/w5.misc.mikumiku.txt"
+      "https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment-week5/w5.misc.mikumiku.txt"
     ],
     "services": [],
     "answer": "flag{CVE-2025-24813}",
@@ -3105,7 +3105,7 @@
     "tags": ["应急响应", "yescrypt", "JSP 木马"],
     "author": "willyz",
     "attachments": [
-      "https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment_week5/w5.misc.mikumiku.txt"
+      "https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment-week5/w5.misc.mikumiku.txt"
     ],
     "services": [],
     "answer": "flag{miiikuuu_miiiku}",
@@ -3122,7 +3122,7 @@
     "tags": ["应急响应", "恶意程序逆向", "AES"],
     "author": "willyz",
     "attachments": [
-      "https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment_week5/w5.misc.mikumiku.txt"
+      "https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment-week5/w5.misc.mikumiku.txt"
     ],
     "services": [],
     "answer": "flag{Miku_miku_oo_ee_oo}",
@@ -3177,7 +3177,7 @@
     "tags": ["侧信道", "时间戳", "Atbash", "EXIF 信息"],
     "author": "Mrsh",
     "attachments": [
-      "https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment_week5/w5.misc.time-hacker.zip"
+      "https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment-week5/w5.misc.time-hacker.zip"
     ],
     "services": [],
     "answer": "flag{Y0u_4re_tHe_ReaL_TIME_H@cker!!}",
@@ -3194,7 +3194,7 @@
     "tags": ["堆溢出"],
     "author": "Th3S",
     "attachments": [
-      "https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment_extras/ext.pwn.llama-hack.7z"
+      "https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment-extras/ext.pwn.llama-hack.7z"
     ],
     "services": [
       {
@@ -3229,7 +3229,7 @@
     "tags": ["非对称加密"],
     "author": "AstralPrisma",
     "attachments": [
-      "https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment_extras/ext.rev.not-symmetric.zip"
+      "https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment-extras/ext.rev.not-symmetric.zip"
     ],
     "services": [],
     "answer": "flag{Y0u_oU_u_4rE_Re_3_Go0d_OoD_0d_D_47_t_l1bgMp_4Nd_7h15_4sYmM3tr1c_3nCrYp710n}",
@@ -3247,7 +3247,7 @@
     "tags": ["SSTI"],
     "author": "KAMIYA",
     "attachments": [
-      "https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment_extras/ext.web.whossti-revenge.zip"
+      "https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment-extras/ext.web.whossti-revenge.zip"
     ],
     "services": [
       {
@@ -3313,7 +3313,7 @@
     "tags": ["混沌密码学", "图片加密"],
     "author": "Cathylin",
     "attachments": [
-      "https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment_extras/ext.cry.chaos-cipher-intro.rar"
+      "https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment-extras/ext.cry.chaos-cipher-intro.rar"
     ],
     "services": [],
     "answer": "flag{Does_it_look_chaotic?This_just_the_beginning!}",
@@ -3331,7 +3331,7 @@
     "tags": ["多项式", "格"],
     "author": "Cathylin",
     "attachments": [
-      "https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment_extras/ext.cry.simple-not-simple.rar"
+      "https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment-extras/ext.cry.simple-not-simple.rar"
     ],
     "services": [],
     "answer": "flag{a9eef27e-2229-4110-a28f-42f7f007c06d}",
@@ -3349,7 +3349,7 @@
     "tags": ["LCG", "流密码"],
     "author": "Cathylin",
     "attachments": [
-      "https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment_extras/ext.cry.random-journey-1.3.rar"
+      "https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment-extras/ext.cry.random-journey-1.3.rar"
     ],
     "services": [],
     "answer": "flag{3ea753dc-8d46-41f7-b4a6-e828c0253831}",
@@ -3367,7 +3367,7 @@
     "tags": ["LCG", "流密码"],
     "author": "Cathylin",
     "attachments": [
-      "https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment_extras/ext.cry.random-journey-1.9.rar"
+      "https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment-extras/ext.cry.random-journey-1.9.rar"
     ],
     "services": [],
     "answer": "flag{513a05ef-ca04-4e94-af25-a893da4221fe}",
@@ -3385,7 +3385,7 @@
     "tags": ["MT19937"],
     "author": "Cathylin",
     "attachments": [
-      "https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment_extras/ext.cry.random-journey-2.rar"
+      "https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment-extras/ext.cry.random-journey-2.rar"
     ],
     "services": [],
     "answer": "flag{e9ef408f-feef-4732-b6d0-77d9813b8f9c}",
@@ -3403,7 +3403,7 @@
     "tags": ["线性代数"],
     "author": "Cathylin",
     "attachments": [
-      "https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment_extras/ext.cry.random-journey-3.6.rar"
+      "https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment-extras/ext.cry.random-journey-3.6.rar"
     ],
     "services": [],
     "answer": "flag{0b319110-bdfa-411c-957f-50bdabe1fa1c}",
@@ -3421,7 +3421,7 @@
     "tags": ["线性代数"],
     "author": "Cathylin",
     "attachments": [
-      "https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment_extras/ext.cry.random-journey-3.9.rar"
+      "https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment-extras/ext.cry.random-journey-3.9.rar"
     ],
     "services": [],
     "answer": "flag{12b2b60e-7783-4bfa-9e58-f77911a211c1_144a045e-0c31-4e5d-b7b5-7e69ac4344ac_19691419-c2f3-4b43-9955-d24adefd7005}",
@@ -3501,7 +3501,7 @@
     "tags": ["离散对数", "CRT"],
     "author": "Hanson",
     "attachments": [
-      "https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment_extras/ext.cry.dlp.zip"
+      "https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment-extras/ext.cry.dlp.zip"
     ],
     "services": [],
     "answer": "flag{D0_y0u_lik3_4i5cr3te_1og@rit6m?}",
@@ -3519,7 +3519,7 @@
     "tags": ["循环卷积", "抽象代数", "多项式环"],
     "author": "Cathylin",
     "attachments": [
-      "https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment_extras/ext.cry.final-r.rar"
+      "https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment-extras/ext.cry.final-r.rar"
     ],
     "services": [],
     "answer": "flag{Circu1@r_c0nv01u7i0n_0N_v3c70R==5Qu@Ring_A_p01yn0mia!}",
@@ -3537,7 +3537,7 @@
     "tags": ["Weil 配对", "较小子群", "特征察觉", "椭圆曲线"],
     "author": "gloriablack",
     "attachments": [
-      "https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment_extras/ext.cry.weil-noise-order.zip"
+      "https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment-extras/ext.cry.weil-noise-order.zip"
     ],
     "services": [],
     "answer": "flag{let_m3_exam1n3_wh3ther_U_h@v3_handled_weil_pair1n9}",
@@ -3555,7 +3555,7 @@
     "tags": ["流量分析", "TLS 流量解密"],
     "author": "miko",
     "attachments": [
-      "https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment_extras/ext.misc.not-all-milk.zip"
+      "https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment-extras/ext.misc.not-all-milk.zip"
     ],
     "services": [],
     "answer": "flag{W0w_You_r3al1y_knOW_TL5&QrCode}",

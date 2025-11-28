@@ -4,7 +4,7 @@
 
 | 出题人 | 难度 | 附件 |
 |-----|-----|-----|
-| willyz | 简单 | [w4.misc.traffic-sound-locate.zip](https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment_week4/w4.misc.traffic-sound-locate.zip) |
+| willyz | 简单 | [w4.misc.traffic-sound-locate.zip](https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment-week4/w4.misc.traffic-sound-locate.zip) |
 
 > <details><summary><strong>FLAG:</strong> <i>点此展开/收起</i></summary>
 > <code>flag{blind_injection_Re@lly_Biggg!}</code>
@@ -18,7 +18,7 @@
 
 | 出题人 | 难度 | 附件 |
 |-----|-----|-----|
-| willyz | 简单 | [w4.misc.smart-contracts.zip](https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment_week4/w4.misc.smart-contracts.zip) |
+| willyz | 简单 | [w4.misc.smart-contracts.zip](https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment-week4/w4.misc.smart-contracts.zip) |
 
 > <details><summary><strong>FLAG:</strong> <i>点此展开/收起</i></summary>
 > <code>flag{E4sy_S0lidity_D3v_F1a9_C0d3_4ud1t}</code>
@@ -36,7 +36,7 @@ Sepolia 测试链水龙头地址：<https://sepolia-faucet.pk910.de/>
 
 | 出题人 | 难度 | 附件 | 环境镜像 | 端口 |
 |-----|-----|-----|-----|-----|
-| KAMIYA | 简单 | [w4.misc.jail-neuro.zip](https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment_week4/w4.misc.jail-neuro.zip) | [newstar-2025:week4_jail-neuro](https://hub.docker.com/r/openctf/newstar-2025/tags?name=week4_jail-neuro) | `9999` |
+| KAMIYA | 简单 | [w4.misc.jail-neuro.zip](https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment-week4/w4.misc.jail-neuro.zip) | [newstar-2025:week4_jail-neuro](https://hub.docker.com/r/openctf/newstar-2025/tags?name=week4_jail-neuro) | `9999` |
 
 > <details><summary><strong>FLAG:</strong> 动态</summary>
 > </details>
@@ -64,7 +64,7 @@ FLAG 格式：`flag{flag1_flag2}`
 
 | 出题人 | 难度 | 附件 |
 |-----|-----|-----|
-| willyz | 中等 | [w4.misc.ir-intro.txt](https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment_week4/w4.misc.ir-intro.txt) |
+| willyz | 中等 | [w4.misc.ir-intro.txt](https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment-week4/w4.misc.ir-intro.txt) |
 
 > <details><summary><strong>FLAG:</strong> <i>点此展开/收起</i></summary>
 > <code>flag{rebeyond_2022-01-18_Ns2025}</code>

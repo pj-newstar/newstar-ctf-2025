@@ -4,7 +4,7 @@
 
 | 出题人 | 难度 | 附件 |
 |-----|-----|-----|
-| willyz | 简单 | [w3.misc.traffic-s7-secret.zip](https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment_week3/w3.misc.traffic-s7-secret.zip) |
+| willyz | 简单 | [w3.misc.traffic-s7-secret.zip](https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment-week3/w3.misc.traffic-s7-secret.zip) |
 
 > <details><summary><strong>FLAG:</strong> <i>点此展开/收起</i></summary>
 > <code>flag{IIOT_important!}</code>
@@ -16,7 +16,7 @@
 
 | 出题人 | 难度 | 附件 |
 |-----|-----|-----|
-| willyz | 简单 | [w3.misc.log-blind-dolphin.zip](https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment_week3/w3.misc.log-blind-dolphin.zip) |
+| willyz | 简单 | [w3.misc.log-blind-dolphin.zip](https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment-week3/w3.misc.log-blind-dolphin.zip) |
 
 > <details><summary><strong>FLAG:</strong> <i>点此展开/收起</i></summary>
 > <code>flag{SQL_injection_logs_are_very_easy}</code>
@@ -28,7 +28,7 @@
 
 | 出题人 | 难度 | 附件 |
 |-----|-----|-----|
-| miko | 中等 | [w3.misc.mem-forensics-windows.txt](https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment_week3/w3.misc.mem-forensics-windows.txt) |
+| miko | 中等 | [w3.misc.mem-forensics-windows.txt](https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment-week3/w3.misc.mem-forensics-windows.txt) |
 
 > <details><summary><strong>FLAG:</strong> <i>点此展开/收起</i></summary>
 > <code>flag{125.216.248.74:11451_temp_admin123_arisamik}</code>
@@ -49,7 +49,7 @@
 
 | 出题人 | 难度 | 附件 |
 |-----|-----|-----|
-| willyz | 中等 | [w3.misc.ethereum-promise.zip](https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment_week3/w3.misc.ethereum-promise.zip) |
+| willyz | 中等 | [w3.misc.ethereum-promise.zip](https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment-week3/w3.misc.ethereum-promise.zip) |
 
 > <details><summary><strong>FLAG:</strong> <i>点此展开/收起</i></summary>
 > <code>flag{12_1145_20240614_solidity}</code>
@@ -68,7 +68,7 @@
 
 | 出题人 | 难度 | 附件 | 环境镜像 | 端口 |
 |-----|-----|-----|-----|-----|
-| KAMIYA | 中等 | [w3.misc.jail-evil-eval.zip](https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment_week3/w3.misc.jail-evil-eval.zip) | [newstar-2025:week3_jail-evil-eval](https://hub.docker.com/r/openctf/newstar-2025/tags?name=week3_jail-evil-eval) | `9999` |
+| KAMIYA | 中等 | [w3.misc.jail-evil-eval.zip](https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment-week3/w3.misc.jail-evil-eval.zip) | [newstar-2025:week3_jail-evil-eval](https://hub.docker.com/r/openctf/newstar-2025/tags?name=week3_jail-evil-eval) | `9999` |
 
 > <details><summary><strong>FLAG:</strong> 动态</summary>
 > </details>

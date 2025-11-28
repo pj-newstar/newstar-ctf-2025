@@ -4,7 +4,7 @@
 
 | 出题人 | 难度 | 附件 | 环境镜像 | 端口 |
 |-----|-----|-----|-----|-----|
-| L1nk | 简单 | [w4.pwn.fmt-got.zip](https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment_week4/w4.pwn.fmt-got.zip) | [newstar-2025:week4_fmt-got](https://hub.docker.com/r/openctf/newstar-2025/tags?name=week4_fmt-got) | `13579` |
+| L1nk | 简单 | [w4.pwn.fmt-got.zip](https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment-week4/w4.pwn.fmt-got.zip) | [newstar-2025:week4_fmt-got](https://hub.docker.com/r/openctf/newstar-2025/tags?name=week4_fmt-got) | `13579` |
 
 > <details><summary><strong>FLAG:</strong> 动态</summary>
 > </details>
@@ -15,7 +15,7 @@ GOT means 《冰与火之歌：权力游戏》
 
 | 出题人 | 难度 | 附件 | 环境镜像 | 端口 |
 |-----|-----|-----|-----|-----|
-| daimi | 中等 | [w4.pwn.mirage.zip](https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment_week4/w4.pwn.mirage.zip) | [newstar-2025:week4_desert](https://hub.docker.com/r/openctf/newstar-2025/tags?name=week4_desert) | `9999` |
+| daimi | 中等 | [w4.pwn.mirage.zip](https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment-week4/w4.pwn.mirage.zip) | [newstar-2025:week4_desert](https://hub.docker.com/r/openctf/newstar-2025/tags?name=week4_desert) | `9999` |
 
 > <details><summary><strong>FLAG:</strong> 动态</summary>
 > </details>
@@ -26,7 +26,7 @@ GOT means 《冰与火之歌：权力游戏》
 
 | 出题人 | 难度 | 附件 | 环境镜像 | 端口 |
 |-----|-----|-----|-----|-----|
-| sysNow | 中等 | [w4.pwn.memory.zip](https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment_week4/w4.pwn.memory.zip) | [newstar-2025:week4_memory](https://hub.docker.com/r/openctf/newstar-2025/tags?name=week4_memory) | `1337` |
+| sysNow | 中等 | [w4.pwn.memory.zip](https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment-week4/w4.pwn.memory.zip) | [newstar-2025:week4_memory](https://hub.docker.com/r/openctf/newstar-2025/tags?name=week4_memory) | `1337` |
 
 > <details><summary><strong>FLAG:</strong> 动态</summary>
 > </details>
@@ -37,7 +37,7 @@ GOT means 《冰与火之歌：权力游戏》
 
 | 出题人 | 难度 | 附件 | 环境镜像 | 端口 |
 |-----|-----|-----|-----|-----|
-| daimi | 困难 | [w4.pwn.calc-queen.zip](https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment_week4/w4.pwn.calc-queen.zip) | [newstar-2025:week4_calc-queen](https://hub.docker.com/r/openctf/newstar-2025/tags?name=week4_calc-queen) | `9999` |
+| daimi | 困难 | [w4.pwn.calc-queen.zip](https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment-week4/w4.pwn.calc-queen.zip) | [newstar-2025:week4_calc-queen](https://hub.docker.com/r/openctf/newstar-2025/tags?name=week4_calc-queen) | `9999` |
 
 > <details><summary><strong>FLAG:</strong> 动态</summary>
 > </details>
@@ -50,7 +50,7 @@ GOT means 《冰与火之歌：权力游戏》
 
 | 出题人 | 难度 | 附件 | 环境镜像 | 端口 |
 |-----|-----|-----|-----|-----|
-| ishmael | 困难 | [w4.pwn.content.gz](https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment_week4/w4.pwn.content.gz) | [newstar-2025:week4_content](https://hub.docker.com/r/openctf/newstar-2025/tags?name=week4_content) | `9999` |
+| ishmael | 困难 | [w4.pwn.content.gz](https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment-week4/w4.pwn.content.gz) | [newstar-2025:week4_content](https://hub.docker.com/r/openctf/newstar-2025/tags?name=week4_content) | `9999` |
 
 > <details><summary><strong>FLAG:</strong> 动态</summary>
 > </details>

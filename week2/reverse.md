@@ -4,7 +4,7 @@
 
 | 出题人 | 难度 | 附件 |
 |-----|-----|-----|
-| AstralPrisma | 简单 | [w2.rev.yupi-ex-adventure-1.zip](https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment_week2/w2.rev.yupi-ex-adventure-1.zip) |
+| AstralPrisma | 简单 | [w2.rev.yupi-ex-adventure-1.zip](https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment-week2/w2.rev.yupi-ex-adventure-1.zip) |
 
 > <details><summary><strong>FLAG:</strong> <i>点此展开/收起</i></summary>
 > <code>flag{E4sy_R3v3rSe_e4Sy_eNcrypt10n}</code>
@@ -20,7 +20,7 @@
 
 | 出题人 | 难度 | 附件 |
 |-----|-----|-----|
-| AstralPrisma | 中等 | [w2.rev.flower-for-ada-1.zip](https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment_week2/w2.rev.flower-for-ada-1.zip) |
+| AstralPrisma | 中等 | [w2.rev.flower-for-ada-1.zip](https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment-week2/w2.rev.flower-for-ada-1.zip) |
 
 > <details><summary><strong>FLAG:</strong> <i>点此展开/收起</i></summary>
 > <code>flag{Junk_C0d3s_4Re_345y_t0_rEc0gn1Ze!!}</code>
@@ -34,7 +34,7 @@ IDA 反汇编不出来，躺赢狗😡！
 
 | 出题人 | 难度 | 附件 |
 |-----|-----|-----|
-| Azusaq | 中等 | [w2.rev.forgotten-code.zip](https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment_week2/w2.rev.forgotten-code.zip) |
+| Azusaq | 中等 | [w2.rev.forgotten-code.zip](https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment-week2/w2.rev.forgotten-code.zip) |
 
 > <details><summary><strong>FLAG:</strong> <i>点此展开/收起</i></summary>
 > <code>flag{4553m81y_5_s0o0o0_345y_jD5yQ5mD9}</code>
@@ -46,7 +46,7 @@ IDA 反汇编不出来，躺赢狗😡！
 
 | 出题人 | 难度 | 附件 |
 |-----|-----|-----|
-| JSnow | 中等 | [w2.rev.look-carefully.7z](https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment_week2/w2.rev.look-carefully.7z) |
+| JSnow | 中等 | [w2.rev.look-carefully.7z](https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment-week2/w2.rev.look-carefully.7z) |
 
 > <details><summary><strong>FLAG:</strong> <i>点此展开/收起</i></summary>
 > <code>flag{H4ve_you_lo0ked_at_me_c1o5ely?}</code>
@@ -58,7 +58,7 @@ IDA 反汇编不出来，躺赢狗😡！
 
 | 出题人 | 难度 | 附件 |
 |-----|-----|-----|
-| PangBai | 中等 | [w2.rev.ohnativeenc.zip](https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment_week2/w2.rev.ohnativeenc.zip) |
+| PangBai | 中等 | [w2.rev.ohnativeenc.zip](https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment-week2/w2.rev.ohnativeenc.zip) |
 
 > <details><summary><strong>FLAG:</strong> <i>点此展开/收起</i></summary>
 > <code>flag{Ur_G00d_@_n@tive_Func}</code>

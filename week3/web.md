@@ -63,7 +63,7 @@ MyGo 的音乐好好听，要全部下下来，FLAG 也可以顺手（
 
 | 出题人 | 难度 | 附件 | 环境镜像 | 端口 |
 |-----|-----|-----|-----|-----|
-| KAMIYA | 中等 | [w3.web.whossti.zip](https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment_week3/w3.web.whossti.zip) | [newstar-2025:week3_whossti](https://hub.docker.com/r/openctf/newstar-2025/tags?name=week3_whossti) | `80` |
+| KAMIYA | 中等 | [w3.web.whossti.zip](https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment-week3/w3.web.whossti.zip) | [newstar-2025:week3_whossti](https://hub.docker.com/r/openctf/newstar-2025/tags?name=week3_whossti) | `80` |
 
 > <details><summary><strong>FLAG:</strong> 动态</summary>
 > </details>

@@ -4,7 +4,7 @@
 
 | 出题人 | 难度 | 附件 |
 |-----|-----|-----|
-| AstralPrisma | 简单 | [w2.misc.beautiful-music.zip](https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment_week2/w2.misc.beautiful-music.zip) |
+| AstralPrisma | 简单 | [w2.misc.beautiful-music.zip](https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment-week2/w2.misc.beautiful-music.zip) |
 
 > <details><summary><strong>FLAG:</strong> <i>点此展开/收起</i></summary>
 > <code>flag{thi5_1S_m1Di_5tEG0}</code>
@@ -16,7 +16,7 @@
 
 | 出题人 | 难度 | 附件 | 环境镜像 | 端口 |
 |-----|-----|-----|-----|-----|
-| willyz | 简单 | [w2.misc.log-intrusion.zip](https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment_week2/w2.misc.log-intrusion.zip) | [newstar-2025:week2_intruder](https://hub.docker.com/r/openctf/newstar-2025/tags?name=week2_intruder) | `80` |
+| willyz | 简单 | [w2.misc.log-intrusion.zip](https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment-week2/w2.misc.log-intrusion.zip) | [newstar-2025:week2_intruder](https://hub.docker.com/r/openctf/newstar-2025/tags?name=week2_intruder) | `80` |
 
 > <details><summary><strong>FLAG:</strong> 动态</summary>
 > </details>
@@ -31,7 +31,7 @@
 
 | 出题人 | 难度 | 附件 |
 |-----|-----|-----|
-| willyz | 简单 | [w2.misc.osint-threat-intel.zip](https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment_week2/w2.misc.osint-threat-intel.zip) |
+| willyz | 简单 | [w2.misc.osint-threat-intel.zip](https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment-week2/w2.misc.osint-threat-intel.zip) |
 
 > <details><summary><strong>FLAG:</strong> <i>点此展开/收起</i></summary>
 > <code>flag{kimsuky_alps.travelmountain.ml_2021-03-31}</code>
@@ -51,7 +51,7 @@
 
 | 出题人 | 难度 | 附件 |
 |-----|-----|-----|
-| KAMIYA | 困难 | [w2.misc.thursday-rhapsody.zip](https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment_week2/w2.misc.thursday-rhapsody.zip) |
+| KAMIYA | 困难 | [w2.misc.thursday-rhapsody.zip](https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment-week2/w2.misc.thursday-rhapsody.zip) |
 
 > <details><summary><strong>FLAG:</strong> <i>点此展开/收起</i></summary>
 > <code>flag{What_1S_tHuSd4y_Quickly_VIVO50}</code>
@@ -67,7 +67,7 @@
 
 | 出题人 | 难度 | 附件 |
 |-----|-----|-----|
-| willyz | 困难 | [w2.misc.newkeyboard.zip](https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment_week2/w2.misc.newkeyboard.zip) |
+| willyz | 困难 | [w2.misc.newkeyboard.zip](https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment-week2/w2.misc.newkeyboard.zip) |
 
 > <details><summary><strong>FLAG:</strong> <i>点此展开/收起</i></summary>
 > <code>flag{th1s_is_newkeyboard_y0u_get_it!}</code>

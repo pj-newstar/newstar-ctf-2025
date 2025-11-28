@@ -4,7 +4,7 @@
 
 | 出题人 | 难度 | 附件 |
 |-----|-----|-----|
-| gloriablack | 简单 | [w3.cry.cbc-dance.zip](https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment_week3/w3.cry.cbc-dance.zip) |
+| gloriablack | 简单 | [w3.cry.cbc-dance.zip](https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment-week3/w3.cry.cbc-dance.zip) |
 
 > <details><summary><strong>FLAG:</strong> <i>点此展开/收起</i></summary>
 > <code>flag{cbc_dancing_1s_the_best_XD_miaowu~_wangang~}</code>
@@ -18,7 +18,7 @@
 
 | 出题人 | 难度 | 附件 |
 |-----|-----|-----|
-| gloriablack | 中等 | [w3.cry.leaked-primes.zip](https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment_week3/w3.cry.leaked-primes.zip) |
+| gloriablack | 中等 | [w3.cry.leaked-primes.zip](https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment-week3/w3.cry.leaked-primes.zip) |
 
 > <details><summary><strong>FLAG:</strong> <i>点此展开/收起</i></summary>
 > <code>flag{wh3n_th3_m0dul3_i3_bi9_en0ugh_U_c@n_c0ns1der_u3ing_coppersmith}</code>
@@ -32,7 +32,7 @@ Alice 使用 RSA 加密了一个重要消息，但攻击者通过侧信道攻击
 
 | 出题人 | 难度 | 附件 | 环境镜像 | 端口 |
 |-----|-----|-----|-----|-----|
-| cathylin | 中等 | [w3.cry.lucky-birthday.rar](https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment_week3/w3.cry.lucky-birthday.rar) | [newstar-2025:week3_birthday](https://hub.docker.com/r/openctf/newstar-2025/tags?name=week3_birthday) | `10666` |
+| cathylin | 中等 | [w3.cry.lucky-birthday.rar](https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment-week3/w3.cry.lucky-birthday.rar) | [newstar-2025:week3_birthday](https://hub.docker.com/r/openctf/newstar-2025/tags?name=week3_birthday) | `10666` |
 
 > <details><summary><strong>FLAG:</strong> <i>点此展开/收起</i></summary>
 > <code>flag{-----you---are----so++++lucky+++++}</code>
@@ -44,7 +44,7 @@ Alice 使用 RSA 加密了一个重要消息，但攻击者通过侧信道攻击
 
 | 出题人 | 难度 | 附件 |
 |-----|-----|-----|
-| cathylin | 中等 | [w3.cry.random-journey-3.rar](https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment_week3/w3.cry.random-journey-3.rar) |
+| cathylin | 中等 | [w3.cry.random-journey-3.rar](https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment-week3/w3.cry.random-journey-3.rar) |
 
 > <details><summary><strong>FLAG:</strong> <i>点此展开/收起</i></summary>
 > <code>flag{1f59622f-ccbc-45c0-b9f5-731a51343027}</code>
@@ -56,7 +56,7 @@ Alice 使用 RSA 加密了一个重要消息，但攻击者通过侧信道攻击
 
 | 出题人 | 难度 | 附件 |
 |-----|-----|-----|
-| cathylin | 困难 | [w3.cry.gcl.rar](https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment_week3/w3.cry.gcl.rar) |
+| cathylin | 困难 | [w3.cry.gcl.rar](https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment-week3/w3.cry.gcl.rar) |
 
 > <details><summary><strong>FLAG:</strong> <i>点此展开/收起</i></summary>
 > <code>flag{2eac1c79-8abd-465e-82f4-96beffed69e4}</code>

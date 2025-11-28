@@ -4,7 +4,7 @@
 
 | 出题人 | 难度 | 附件 | 环境镜像 | 端口 |
 |-----|-----|-----|-----|-----|
-| wsh_ | 简单 | [w4.web.ssti-where.zip](https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment_week4/w4.web.ssti-where.zip) | [newstar-2025:week4_where-ssti](https://hub.docker.com/r/openctf/newstar-2025/tags?name=week4_where-ssti) | `80` |
+| wsh_ | 简单 | [w4.web.ssti-where.zip](https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment-week4/w4.web.ssti-where.zip) | [newstar-2025:week4_where-ssti](https://hub.docker.com/r/openctf/newstar-2025/tags?name=week4_where-ssti) | `80` |
 
 > <details><summary><strong>FLAG:</strong> 动态</summary>
 > </details>
@@ -53,7 +53,7 @@
 
 | 出题人 | 难度 | 附件 | 环境镜像 | 端口 |
 |-----|-----|-----|-----|-----|
-| KAMIYA | 困难 | [w4.web.sqlupload.zip](https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment_week4/w4.web.sqlupload.zip) | [newstar-2025:week4_sqlupload](https://hub.docker.com/r/openctf/newstar-2025/tags?name=week4_sqlupload) | `80` |
+| KAMIYA | 困难 | [w4.web.sqlupload.zip](https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment-week4/w4.web.sqlupload.zip) | [newstar-2025:week4_sqlupload](https://hub.docker.com/r/openctf/newstar-2025/tags?name=week4_sqlupload) | `80` |
 
 > <details><summary><strong>FLAG:</strong> 动态</summary>
 > </details>

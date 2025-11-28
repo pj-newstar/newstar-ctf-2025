@@ -4,7 +4,7 @@
 
 | 出题人 | 附件 |
 |-----|-----|
-| Eleven. | [w1.rev.x0r.zip](https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment_week1/w1.rev.x0r.zip) |
+| Eleven. | [w1.rev.x0r.zip](https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment-week1/w1.rev.x0r.zip) |
 
 > <details><summary><strong>FLAG:</strong> <i>点此展开/收起</i></summary>
 > <code>flag{y0u_Kn0W_b4s1C_xOr}</code>
@@ -16,7 +16,7 @@ no xor，no encrypt.
 
 | 出题人 | 难度 | 附件 |
 |-----|-----|-----|
-| PangBai | 简单 | [w1.rev.ezmydroid.zip](https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment_week1/w1.rev.ezmydroid.zip) |
+| PangBai | 简单 | [w1.rev.ezmydroid.zip](https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment-week1/w1.rev.ezmydroid.zip) |
 
 > <details><summary><strong>FLAG:</strong> <i>点此展开/收起</i></summary>
 > <code>flag{@_g00d_st@r7_f0r_ANDROID}</code>
@@ -28,7 +28,7 @@ no xor，no encrypt.
 
 | 出题人 | 难度 | 附件 |
 |-----|-----|-----|
-| Eleven. | 简单 | [w1.rev.puzzle.zip](https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment_week1/w1.rev.puzzle.zip) |
+| Eleven. | 简单 | [w1.rev.puzzle.zip](https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment-week1/w1.rev.puzzle.zip) |
 
 > <details><summary><strong>FLAG:</strong> <i>点此展开/收起</i></summary>
 > <code>flag{Do_Y0u_Like_7his_Jigs@w_puzz1e_Gam3}</code>
@@ -40,7 +40,7 @@ no xor，no encrypt.
 
 | 出题人 | 难度 | 附件 |
 |-----|-----|-----|
-| Samsara | 中等 | [w1.rev.plzdebugme.zip](https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment_week1/w1.rev.plzdebugme.zip) |
+| Samsara | 中等 | [w1.rev.plzdebugme.zip](https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment-week1/w1.rev.plzdebugme.zip) |
 
 > <details><summary><strong>FLAG:</strong> <i>点此展开/收起</i></summary>
 > <code>flag{It3_D3bugG_T11me!_le3_play}</code>
@@ -52,7 +52,7 @@ no xor，no encrypt.
 
 | 出题人 | 难度 | 附件 |
 |-----|-----|-----|
-| JSnow | 中等 | [w1.rev.strange-base.7z](https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment_week1/w1.rev.strange-base.7z) |
+| JSnow | 中等 | [w1.rev.strange-base.7z](https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment-week1/w1.rev.strange-base.7z) |
 
 > <details><summary><strong>FLAG:</strong> <i>点此展开/收起</i></summary>
 > <code>flag{Wh4t_a_cra2y_8as3!!!}</code>

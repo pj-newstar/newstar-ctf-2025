@@ -4,7 +4,7 @@
 
 | 出题人 | 难度 | 附件 |
 |-----|-----|-----|
-| PangBai | 中等 | [w5.rev.magical-girl-secret.zip](https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment_week5/w5.rev.magical-girl-secret.zip) |
+| PangBai | 中等 | [w5.rev.magical-girl-secret.zip](https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment-week5/w5.rev.magical-girl-secret.zip) |
 
 > <details><summary><strong>FLAG:</strong> <i>点此展开/收起</i></summary>
 > <code>flag{You_will_become_magical_girl}</code>
@@ -16,7 +16,7 @@
 
 | 出题人 | 难度 | 附件 |
 |-----|-----|-----|
-| yuro | 中等 | [w5.rev.genius-auth.zip](https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment_week5/w5.rev.genius-auth.zip) |
+| yuro | 中等 | [w5.rev.genius-auth.zip](https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment-week5/w5.rev.genius-auth.zip) |
 
 > <details><summary><strong>FLAG:</strong> <i>点此展开/收起</i></summary>
 > <code>flag{Bytec0de_And_St4ck_M4g1c!}</code>
@@ -28,7 +28,7 @@
 
 | 出题人 | 难度 | 附件 |
 |-----|-----|-----|
-| AstralPrisma | 中等 | [w5.rev.an-easy-system.zip](https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment_week5/w5.rev.an-easy-system.zip) |
+| AstralPrisma | 中等 | [w5.rev.an-easy-system.zip](https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment-week5/w5.rev.an-easy-system.zip) |
 
 > <details><summary><strong>FLAG:</strong> <i>点此展开/收起</i></summary>
 > <code>flag{r3v3Rs1Ng_7h3_H4rm0nY_05_1s_n07_4S_d1Ff1cUl7_45_y0U_7h1nK!}</code>
@@ -44,7 +44,7 @@
 
 | 出题人 | 难度 | 附件 |
 |-----|-----|-----|
-| AstralPrisma | 中等 | [w5.rev.jvav-master.7z](https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment_week5/w5.rev.jvav-master.7z) |
+| AstralPrisma | 中等 | [w5.rev.jvav-master.7z](https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment-week5/w5.rev.jvav-master.7z) |
 
 > <details><summary><strong>FLAG:</strong> <i>点此展开/收起</i></summary>
 > <code>flag{4r3_y0U_g0oD_a7_j4vA?I'm_V3rY_Go0d_47_JvaV}</code>
@@ -58,7 +58,7 @@
 
 | 出题人 | 难度 | 附件 |
 |-----|-----|-----|
-| AstralPrisma | 困难 | [w5.rev.hetu-luoshu.zip](https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment_week5/w5.rev.hetu-luoshu.zip) |
+| AstralPrisma | 困难 | [w5.rev.hetu-luoshu.zip](https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment-week5/w5.rev.hetu-luoshu.zip) |
 
 > <details><summary><strong>FLAG:</strong> <i>点此展开/收起</i></summary>
 > <code>flag{7H3_Lu0_5hu_3nCrYP710n_1s_b10Ck_C1ph3R!}</code>

@@ -4,7 +4,7 @@
 
 | 出题人 | 难度 | 附件 |
 |-----|-----|-----|
-| Azusaq | 简单 | [w3.rev.pyz3.zip](https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment_week3/w3.rev.pyz3.zip) |
+| Azusaq | 简单 | [w3.rev.pyz3.zip](https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment-week3/w3.rev.pyz3.zip) |
 
 > <details><summary><strong>FLAG:</strong> <i>点此展开/收起</i></summary>
 > <code>flag{PytH0n_R3v3rs1Ng_4nd_Z3_s0lV3r}</code>
@@ -16,7 +16,7 @@
 
 | 出题人 | 难度 | 附件 |
 |-----|-----|-----|
-| AstralPrisma | 中等 | [w3.rev.flower-for-ada-2.zip](https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment_week3/w3.rev.flower-for-ada-2.zip) |
+| AstralPrisma | 中等 | [w3.rev.flower-for-ada-2.zip](https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment-week3/w3.rev.flower-for-ada-2.zip) |
 
 > <details><summary><strong>FLAG:</strong> <i>点此展开/收起</i></summary>
 > <code>flag{WO0o0O0w_So0Oo0o_m4Ny_F1oO0o0oW3R5}</code>
@@ -38,7 +38,7 @@ IDA IDA，你看，有花😊
 
 | 出题人 | 难度 | 附件 |
 |-----|-----|-----|
-| PangBai | 中等 | [w3.rev.who-changed-key.zip](https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment_week3/w3.rev.who-changed-key.zip) |
+| PangBai | 中等 | [w3.rev.who-changed-key.zip](https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment-week3/w3.rev.who-changed-key.zip) |
 
 > <details><summary><strong>FLAG:</strong> <i>点此展开/收起</i></summary>
 > <code>flag{in1t_Rev__}</code>
@@ -50,7 +50,7 @@ IDA IDA，你看，有花😊
 
 | 出题人 | 难度 | 附件 |
 |-----|-----|-----|
-| AstralPrisma | 困难 | [w3.rev.yupi-ex-adventure-2.zip](https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment_week3/w3.rev.yupi-ex-adventure-2.zip) |
+| AstralPrisma | 困难 | [w3.rev.yupi-ex-adventure-2.zip](https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment-week3/w3.rev.yupi-ex-adventure-2.zip) |
 
 > <details><summary><strong>FLAG:</strong> <i>点此展开/收起</i></summary>
 > <code>flag{CoN7r0l_F10w_F14t73n1nG_C4N_b3_c0NfU5iNg!!}</code>
@@ -66,7 +66,7 @@ IDA IDA，你看，有花😊
 
 | 出题人 | 难度 | 附件 |
 |-----|-----|-----|
-| AstralPrisma | 困难 | [w3.rev.dancing-functions.zip](https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment_week3/w3.rev.dancing-functions.zip) |
+| AstralPrisma | 困难 | [w3.rev.dancing-functions.zip](https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment-week3/w3.rev.dancing-functions.zip) |
 
 > <details><summary><strong>FLAG:</strong> <i>点此展开/收起</i></summary>
 > <code>flag{D4nc1Ng_K3yG3N_fUnct10n5_wItH_r4nD_4Nd_5Mc}</code>

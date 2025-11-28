@@ -24,7 +24,7 @@
 
 | 出题人 | 难度 | 附件 |
 |-----|-----|-----|
-| kndye | 简单 | [w1.misc.no-revolution-fail.zip](https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment_week1/w1.misc.no-revolution-fail.zip) |
+| kndye | 简单 | [w1.misc.no-revolution-fail.zip](https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment-week1/w1.misc.no-revolution-fail.zip) |
 
 > <details><summary><strong>FLAG:</strong> <i>点此展开/收起</i></summary>
 > <code>flag{CRITICAL_PROCESS_DIED_svchost.exe}</code>
@@ -36,7 +36,7 @@
 
 | 出题人 | 难度 | 附件 |
 |-----|-----|-----|
-| willyz | 简单 | [w1.misc.compression-magic.zip](https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment_week1/w1.misc.compression-magic.zip) |
+| willyz | 简单 | [w1.misc.compression-magic.zip](https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment-week1/w1.misc.compression-magic.zip) |
 
 > <details><summary><strong>FLAG:</strong> <i>点此展开/收起</i></summary>
 > <code>flag{You_have_mastered_the_zip_magic!}</code>
@@ -50,7 +50,7 @@
 
 | 出题人 | 难度 | 附件 |
 |-----|-----|-----|
-| willyz | 简单 | [w1.misc.osint-sky-belong.zip](https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment_week1/w1.misc.osint-sky-belong.zip) |
+| willyz | 简单 | [w1.misc.osint-sky-belong.zip](https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment-week1/w1.misc.osint-sky-belong.zip) |
 
 > <details><summary><strong>FLAG:</strong> <i>点此展开/收起</i></summary>
 > <code>flag{UQ3574_武汉市_Xiaomi}</code>
@@ -70,7 +70,7 @@ OSINT 是指通过公开可获取的信息源收集、分析和利用数据从�
 
 | 出题人 | 难度 | 附件 |
 |-----|-----|-----|
-| Muzhi | 中等 | [w1.misc.ez-fence.rar](https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment_week1/w1.misc.ez-fence.rar) |
+| Muzhi | 中等 | [w1.misc.ez-fence.rar](https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment-week1/w1.misc.ez-fence.rar) |
 
 > <details><summary><strong>FLAG:</strong> <i>点此展开/收起</i></summary>
 > <code>flag{y0u_kn0w_ez_fence_tuzh0ng}</code>
@@ -82,7 +82,7 @@ RAR 发现一张残缺的照片竟然需 要 4 颗钉子才能钉住，照片里
 
 | 出题人 | 难度 | 附件 |
 |-----|-----|-----|
-| miko | 困难 | [w1.misc.search-is-useful.zip](https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment_week1/w1.misc.search-is-useful.zip) |
+| miko | 困难 | [w1.misc.search-is-useful.zip](https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment-week1/w1.misc.search-is-useful.zip) |
 
 > <details><summary><strong>FLAG:</strong> <i>点此展开/收起</i></summary>
 > <code>flag{you_0V3RC4ME_cH@1LenG3s}</code>

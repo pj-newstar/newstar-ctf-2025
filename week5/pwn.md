@@ -4,7 +4,7 @@
 
 | 出题人 | 难度 | 附件 | 环境镜像 | 端口 |
 |-----|-----|-----|-----|-----|
-| L1nk | 简单 | [w5.pwn.fuduji-back.zip](https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment_week5/w5.pwn.fuduji-back.zip) | [newstar-2025:week5_fuduji-back](https://hub.docker.com/r/openctf/newstar-2025/tags?name=week5_fuduji-back) | `24680` |
+| L1nk | 简单 | [w5.pwn.fuduji-back.zip](https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment-week5/w5.pwn.fuduji-back.zip) | [newstar-2025:week5_fuduji-back](https://hub.docker.com/r/openctf/newstar-2025/tags?name=week5_fuduji-back) | `24680` |
 
 > <details><summary><strong>FLAG:</strong> 动态</summary>
 > </details>
@@ -15,7 +15,7 @@
 
 | 出题人 | 难度 | 附件 | 环境镜像 | 端口 |
 |-----|-----|-----|-----|-----|
-| sysNow | 中等 | [w5.pwn.note.zip](https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment_week5/w5.pwn.note.zip) | [newstar-2025:week5_note](https://hub.docker.com/r/openctf/newstar-2025/tags?name=week5_note) | `1337` |
+| sysNow | 中等 | [w5.pwn.note.zip](https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment-week5/w5.pwn.note.zip) | [newstar-2025:week5_note](https://hub.docker.com/r/openctf/newstar-2025/tags?name=week5_note) | `1337` |
 
 > <details><summary><strong>FLAG:</strong> 动态</summary>
 > </details>
@@ -26,7 +26,7 @@
 
 | 出题人 | 难度 | 附件 | 环境镜像 | 端口 |
 |-----|-----|-----|-----|-----|
-| L1nk | 中等 | [w5.pwn.stdout.zip](https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment_week5/w5.pwn.stdout.zip) | [newstar-2025:week5_stdout](https://hub.docker.com/r/openctf/newstar-2025/tags?name=week5_stdout) | `13579` |
+| L1nk | 中等 | [w5.pwn.stdout.zip](https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment-week5/w5.pwn.stdout.zip) | [newstar-2025:week5_stdout](https://hub.docker.com/r/openctf/newstar-2025/tags?name=week5_stdout) | `13579` |
 
 > <details><summary><strong>FLAG:</strong> 动态</summary>
 > </details>
@@ -39,7 +39,7 @@
 
 | 出题人 | 难度 | 附件 | 环境镜像 | 端口 |
 |-----|-----|-----|-----|-----|
-| ishmael | 困难 | [w5.pwn.go-question.zip](https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment_week5/w5.pwn.go-question.zip) | [newstar-2025:week5_pwn-go](https://hub.docker.com/r/openctf/newstar-2025/tags?name=week5_pwn-go) | `9999` |
+| ishmael | 困难 | [w5.pwn.go-question.zip](https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment-week5/w5.pwn.go-question.zip) | [newstar-2025:week5_pwn-go](https://hub.docker.com/r/openctf/newstar-2025/tags?name=week5_pwn-go) | `9999` |
 
 > <details><summary><strong>FLAG:</strong> 动态</summary>
 > </details>
@@ -50,7 +50,7 @@
 
 | 出题人 | 难度 | 附件 | 环境镜像 | 端口 |
 |-----|-----|-----|-----|-----|
-| daimi | 困难 | [w5.pwn.hack-the-world.zip](https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment_week5/w5.pwn.hack-the-world.zip) | [newstar-2025:week5_pwn-world](https://hub.docker.com/r/openctf/newstar-2025/tags?name=week5_pwn-world) | `9999` |
+| daimi | 困难 | [w5.pwn.hack-the-world.zip](https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment-week5/w5.pwn.hack-the-world.zip) | [newstar-2025:week5_pwn-world](https://hub.docker.com/r/openctf/newstar-2025/tags?name=week5_pwn-world) | `9999` |
 
 > <details><summary><strong>FLAG:</strong> 动态</summary>
 > </details>
