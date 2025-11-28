@@ -22,7 +22,7 @@
 > <code>flag{CVE-2025-24813}</code>
 > </details>
 
-> [!INFO]
+> [!NOTE]
 > 本题为系列题，除序号外与本题名称相同的题共享同一附件和环境。
 > - 解压密码：`d93e2cb85b2a51ef40e86e4bd6df0b14`
 > - 账号：`newstar`
