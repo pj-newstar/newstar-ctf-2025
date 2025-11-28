@@ -64,6 +64,14 @@ Alice 和 Bob 通讯时使用了四元数共轭的密钥交换协议。
 |-----|-----|-----|-----|-----|
 | Cathylin | 困难 | [w4.cry.silkworm-secret.rar](https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment-week4/w4.cry.silkworm-secret.rar) | [newstar-2025:week4_silkworm](https://hub.docker.com/r/openctf/newstar-2025/tags?name=week4_silkworm) | `1337` |
 
+> <details><summary><strong>Docker 启动命令:</strong> <i>点此展开/收起</i></summary>
+>
+> ```bash
+> # nc 127.0.0.1 1337
+> docker run -itd --rm --name w4_silkworm -p 1337:1337 openctf/newstar-2025:week4_silkworm
+> ```
+> </details>
+
 > <details><summary><strong>FLAG:</strong> <i>点此展开/收起</i></summary>
 > <code>flag{92a347e1-e485-40e6-b96d-b8d9cfbf14fe}</code>
 > </details>

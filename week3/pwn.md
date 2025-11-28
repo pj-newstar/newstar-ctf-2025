@@ -6,6 +6,14 @@
 |-----|-----|-----|-----|-----|
 | L1nk | 简单 | [w3.pwn.fmt-canary.zip](https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment-week3/w3.pwn.fmt-canary.zip) | [newstar-2025:week3_fmt-canary](https://hub.docker.com/r/openctf/newstar-2025/tags?name=week3_fmt-canary) | `14514` |
 
+> <details><summary><strong>Docker 启动命令:</strong> <i>点此展开/收起</i></summary>
+>
+> ```bash
+> # nc 127.0.0.1 14514
+> docker run -itd --rm --name w3_fmt_canary -p 14514:14514 -e ICQ_FLAG=flag{2632e836-1977-9b3c-5e0b-4a9c7417c2a0} openctf/newstar-2025:week3_fmt-canary
+> ```
+> </details>
+
 > <details><summary><strong>FLAG:</strong> 动态</summary>
 > </details>
 
@@ -16,6 +24,14 @@
 | 出题人 | 难度 | 附件 | 环境镜像 | 端口 |
 |-----|-----|-----|-----|-----|
 | sysNow | 中等 | [w3.pwn.sandbox-plus.zip](https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment-week3/w3.pwn.sandbox-plus.zip) | [newstar-2025:week3_sandbox-plus](https://hub.docker.com/r/openctf/newstar-2025/tags?name=week3_sandbox-plus) | `1337` |
+
+> <details><summary><strong>Docker 启动命令:</strong> <i>点此展开/收起</i></summary>
+>
+> ```bash
+> # nc 127.0.0.1 1337
+> docker run -itd --rm --name w3_sandbox_plus -p 1337:1337 -e ICQ_FLAG=flag{5c20a20d-74df-2b14-7038-97dc0256106f} openctf/newstar-2025:week3_sandbox-plus
+> ```
+> </details>
 
 > <details><summary><strong>FLAG:</strong> 动态</summary>
 > </details>
@@ -30,6 +46,14 @@ sandbox!!! 我知道了，要用 orw.
 |-----|-----|-----|-----|-----|
 | daimi | 困难 | [w3.pwn.xiaoming-question.zip](https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment-week3/w3.pwn.xiaoming-question.zip) | [newstar-2025:week3_xiaoming-thread](https://hub.docker.com/r/openctf/newstar-2025/tags?name=week3_xiaoming-thread) | `12345` |
 
+> <details><summary><strong>Docker 启动命令:</strong> <i>点此展开/收起</i></summary>
+>
+> ```bash
+> # nc 127.0.0.1 12345
+> docker run -itd --rm --name w3_xiaoming_thread -p 12345:12345 -e ICQ_FLAG=flag{cc4a6472-b2e5-a4ca-dde4-8f9b3784dd28} openctf/newstar-2025:week3_xiaoming-thread
+> ```
+> </details>
+
 > <details><summary><strong>FLAG:</strong> 动态</summary>
 > </details>
 
@@ -40,6 +64,14 @@ sandbox!!! 我知道了，要用 orw.
 | 出题人 | 难度 | 附件 | 环境镜像 | 端口 |
 |-----|-----|-----|-----|-----|
 | daimi | 困难 | [w3.pwn.calc-meow.zip](https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment-week3/w3.pwn.calc-meow.zip) | [newstar-2025:week3_calc-meow](https://hub.docker.com/r/openctf/newstar-2025/tags?name=week3_calc-meow) | `9999` |
+
+> <details><summary><strong>Docker 启动命令:</strong> <i>点此展开/收起</i></summary>
+>
+> ```bash
+> # nc 127.0.0.1 9999
+> docker run -itd --rm --name w3_calc_meow -p 9999:9999 -e ICQ_FLAG=flag{41348689-2d0e-5777-0e8c-859f51746b1f} openctf/newstar-2025:week3_calc-meow
+> ```
+> </details>
 
 > <details><summary><strong>FLAG:</strong> 动态</summary>
 > </details>
@@ -53,6 +85,14 @@ sandbox!!! 我知道了，要用 orw.
 | 出题人 | 难度 | 附件 | 环境镜像 | 端口 |
 |-----|-----|-----|-----|-----|
 | Sally | 困难 | [w3.pwn.only-read.zip](https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment-week3/w3.pwn.only-read.zip) | [newstar-2025:week3_only-read](https://hub.docker.com/r/openctf/newstar-2025/tags?name=week3_only-read) | `1337` |
+
+> <details><summary><strong>Docker 启动命令:</strong> <i>点此展开/收起</i></summary>
+>
+> ```bash
+> # nc 127.0.0.1 1337
+> docker run -itd --rm --name w3_only_read -p 1337:1337 -e ICQ_FLAG=flag{472e6192-635e-a4c4-5820-8c487db2eb0e} openctf/newstar-2025:week3_only-read
+> ```
+> </details>
 
 > <details><summary><strong>FLAG:</strong> 动态</summary>
 > </details>

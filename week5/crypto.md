@@ -6,6 +6,14 @@
 |-----|-----|-----|-----|-----|
 | Cathylin | 简单 | [w5.cry.no-peek-meow.rar](https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment-week5/w5.cry.no-peek-meow.rar) | [newstar-2025:week5_noshowyou-zkp](https://hub.docker.com/r/openctf/newstar-2025/tags?name=week5_noshowyou-zkp) | `10666` |
 
+> <details><summary><strong>Docker 启动命令:</strong> <i>点此展开/收起</i></summary>
+>
+> ```bash
+> # nc 127.0.0.1 10666
+> docker run -itd --rm --name w5_noshowyou_zkp -p 10666:10666 openctf/newstar-2025:week5_noshowyou-zkp
+> ```
+> </details>
+
 > <details><summary><strong>FLAG:</strong> <i>点此展开/收起</i></summary>
 > <code>flag{Do_u_r3a1ly_n33d_me_2_5h0w_u_2_pr0v3_7h4t_1_h4v3_it?}</code>
 > </details>
@@ -17,6 +25,14 @@
 | 出题人 | 难度 | 附件 | 环境镜像 | 端口 |
 |-----|-----|-----|-----|-----|
 | gloriablack | 中等 | [w5.cry.bls-multisig-zero.zip](https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment-week5/w5.cry.bls-multisig-zero.zip) | [newstar-2025:week5_bls-sign](https://hub.docker.com/r/openctf/newstar-2025/tags?name=week5_bls-sign) | `9999` |
+
+> <details><summary><strong>Docker 启动命令:</strong> <i>点此展开/收起</i></summary>
+>
+> ```bash
+> # nc 127.0.0.1 9999
+> docker run -itd --rm --name w5_bls_sign -p 9999:9999 -e ICQ_FLAG=flag{75829b23-faf8-c0d9-dd8e-a95eebcfa7c2} openctf/newstar-2025:week5_bls-sign
+> ```
+> </details>
 
 > <details><summary><strong>FLAG:</strong> 动态</summary>
 > </details>
@@ -49,6 +65,14 @@ What's the gcd of three polynomials?
 | 出题人 | 难度 | 附件 | 环境镜像 | 端口 |
 |-----|-----|-----|-----|-----|
 | Cathylin | 困难 | [w5.cry.smile-box.rar](https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment-week5/w5.cry.smile-box.rar) | [newstar-2025:week5_smile](https://hub.docker.com/r/openctf/newstar-2025/tags?name=week5_smile) | `10721` |
+
+> <details><summary><strong>Docker 启动命令:</strong> <i>点此展开/收起</i></summary>
+>
+> ```bash
+> # nc 127.0.0.1 10721
+> docker run -itd --rm --name w5_smile -p 10721:10721 openctf/newstar-2025:week5_smile
+> ```
+> </details>
 
 > <details><summary><strong>FLAG:</strong> <i>点此展开/收起</i></summary>
 > <code>flag{Ur_awesome_4_being_able_2_successfully_find_1_high-probability_delta(?)_path!}</code>

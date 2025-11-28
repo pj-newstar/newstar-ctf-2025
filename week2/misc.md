@@ -18,6 +18,14 @@
 |-----|-----|-----|-----|-----|
 | willyz | 简单 | [w2.misc.log-intrusion.zip](https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment-week2/w2.misc.log-intrusion.zip) | [newstar-2025:week2_intruder](https://hub.docker.com/r/openctf/newstar-2025/tags?name=week2_intruder) | `80` |
 
+> <details><summary><strong>Docker 启动命令:</strong> <i>点此展开/收起</i></summary>
+>
+> ```bash
+> # http://127.0.0.1:80
+> docker run -itd --rm --name w2_intruder -p 80:80 -e ICQ_FLAG=flag{58afc465-090d-c90b-ccb1-855d10345a55} openctf/newstar-2025:week2_intruder
+> ```
+> </details>
+
 > <details><summary><strong>FLAG:</strong> 动态</summary>
 > </details>
 

@@ -6,6 +6,14 @@
 |-----|-----|-----|
 | KAMIYA | [newstar-2025:week2_signin-really](https://hub.docker.com/r/openctf/newstar-2025/tags?name=week2_signin-really) | `80` |
 
+> <details><summary><strong>Docker 启动命令:</strong> <i>点此展开/收起</i></summary>
+>
+> ```bash
+> # http://127.0.0.1:80
+> docker run -itd --rm --name w2_signin_really -p 80:80 -e ICQ_FLAG=flag{07b56bc5-9416-e52d-c55d-8370b12502a0} openctf/newstar-2025:week2_signin-really
+> ```
+> </details>
+
 > <details><summary><strong>FLAG:</strong> 动态</summary>
 > </details>
 
@@ -19,6 +27,14 @@
 |-----|-----|-----|-----|
 | Qu43ter | 简单 | [newstar-2025:week2_orange](https://hub.docker.com/r/openctf/newstar-2025/tags?name=week2_orange) | `5000` |
 
+> <details><summary><strong>Docker 启动命令:</strong> <i>点此展开/收起</i></summary>
+>
+> ```bash
+> # http://127.0.0.1:5000
+> docker run -itd --rm --name w2_orange -p 5000:5000 -e ICQ_FLAG=flag{67557172-46ae-56bd-c5f0-bf5501f25d19} openctf/newstar-2025:week2_orange
+> ```
+> </details>
+
 > <details><summary><strong>FLAG:</strong> 动态</summary>
 > </details>
 
@@ -30,6 +46,14 @@ Doro 把自己最心爱的橘子放在了保险冰箱中，为了一探究竟这
 |-----|-----|-----|-----|
 | D0ubleD | 简单 | [newstar-2025:week2_dd-speed](https://hub.docker.com/r/openctf/newstar-2025/tags?name=week2_dd-speed) | `80` |
 
+> <details><summary><strong>Docker 启动命令:</strong> <i>点此展开/收起</i></summary>
+>
+> ```bash
+> # http://127.0.0.1:80
+> docker run -itd --rm --name w2_dd_speed -p 80:80 -e ICQ_FLAG=flag{ec43d5c2-be39-90c2-28a1-cdc96998c64c} openctf/newstar-2025:week2_dd-speed
+> ```
+> </details>
+
 > <details><summary><strong>FLAG:</strong> 动态</summary>
 > </details>
 
@@ -40,6 +64,14 @@ D 师傅在服务器上部署了一个加速器，并且提供一个页面来 pi
 | 出题人 | 难度 | 环境镜像 | 端口 |
 |-----|-----|-----|-----|
 | KAMIYA | 困难 | [newstar-2025:week2_whitek1](https://hub.docker.com/r/openctf/newstar-2025/tags?name=week2_whitek1) | `80` |
+
+> <details><summary><strong>Docker 启动命令:</strong> <i>点此展开/收起</i></summary>
+>
+> ```bash
+> # http://127.0.0.1:80
+> docker run -itd --rm --name w2_whitek1 -p 80:80 -e ICQ_FLAG=flag{0a0dd8d8-b6cd-8f4f-7824-a9814632addd} openctf/newstar-2025:week2_whitek1
+> ```
+> </details>
 
 > <details><summary><strong>FLAG:</strong> 动态</summary>
 > </details>
@@ -55,6 +87,14 @@ D 师傅在服务器上部署了一个加速器，并且提供一个页面来 pi
 | 出题人 | 难度 | 环境镜像 | 端口 |
 |-----|-----|-----|-----|
 | ENOCH | 困难 | [newstar-2025:week2_e-manage-system](https://hub.docker.com/r/openctf/newstar-2025/tags?name=week2_e-manage-system) | `80` |
+
+> <details><summary><strong>Docker 启动命令:</strong> <i>点此展开/收起</i></summary>
+>
+> ```bash
+> # http://127.0.0.1:80
+> docker run -itd --rm --name w2_e_manage_system -p 80:80 -e ICQ_FLAG=flag{0065674f-f73d-a436-9056-c3c4c7047ea3} openctf/newstar-2025:week2_e-manage-system
+> ```
+> </details>
 
 > <details><summary><strong>FLAG:</strong> 动态</summary>
 > </details>

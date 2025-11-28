@@ -6,6 +6,14 @@
 |-----|-----|-----|-----|
 | L1nk | 简单 | [newstar-2025:week2_stack-secret](https://hub.docker.com/r/openctf/newstar-2025/tags?name=week2_stack-secret) | `7777` |
 
+> <details><summary><strong>Docker 启动命令:</strong> <i>点此展开/收起</i></summary>
+>
+> ```bash
+> # nc 127.0.0.1 7777
+> docker run -itd --rm --name w2_stack_secret -p 7777:7777 -e ICQ_FLAG=flag{82d6a798-485b-2b4c-bc10-b52b21e7520e} openctf/newstar-2025:week2_stack-secret
+> ```
+> </details>
+
 > <details><summary><strong>FLAG:</strong> 动态</summary>
 > </details>
 
@@ -19,6 +27,14 @@
 |-----|-----|-----|-----|-----|
 | Findkey | 简单 | [w2.pwn.no-shell.zip](https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment-week2/w2.pwn.no-shell.zip) | [newstar-2025:week2_noshell](https://hub.docker.com/r/openctf/newstar-2025/tags?name=week2_noshell) | `9999` |
 
+> <details><summary><strong>Docker 启动命令:</strong> <i>点此展开/收起</i></summary>
+>
+> ```bash
+> # nc 127.0.0.1 9999
+> docker run -itd --rm --name w2_noshell -p 9999:9999 -e ICQ_FLAG=flag{418bb6f5-e6fc-d4c0-392a-e91413d11002} openctf/newstar-2025:week2_noshell
+> ```
+> </details>
+
 > <details><summary><strong>FLAG:</strong> 动态</summary>
 > </details>
 
@@ -29,6 +45,14 @@ Key 在冒险时误入了一个秘境，这里设有一种名为 sandbox 的阵�
 | 出题人 | 难度 | 附件 | 环境镜像 | 端口 |
 |-----|-----|-----|-----|-----|
 | s1eepy | 简单 | [w2.pwn.syscall.zip](https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment-week2/w2.pwn.syscall.zip) | [newstar-2025:week2_syscall](https://hub.docker.com/r/openctf/newstar-2025/tags?name=week2_syscall) | `1337` |
+
+> <details><summary><strong>Docker 启动命令:</strong> <i>点此展开/收起</i></summary>
+>
+> ```bash
+> # nc 127.0.0.1 1337
+> docker run -itd --rm --name w2_syscall -p 1337:1337 -e ICQ_FLAG=flag{4e993713-1578-c674-598a-5cf4d420993a} openctf/newstar-2025:week2_syscall
+> ```
+> </details>
 
 > <details><summary><strong>FLAG:</strong> 动态</summary>
 > </details>
@@ -41,6 +65,14 @@ Key 在冒险时误入了一个秘境，这里设有一种名为 sandbox 的阵�
 |-----|-----|-----|-----|-----|
 | sysNow | 中等 | [w2.pwn.input-small-function.zip](https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment-week2/w2.pwn.input-small-function.zip) | [newstar-2025:week2_small-function](https://hub.docker.com/r/openctf/newstar-2025/tags?name=week2_small-function) | `1337` |
 
+> <details><summary><strong>Docker 启动命令:</strong> <i>点此展开/收起</i></summary>
+>
+> ```bash
+> # nc 127.0.0.1 1337
+> docker run -itd --rm --name w2_small_function -p 1337:1337 -e ICQ_FLAG=flag{038342e4-a682-5c0a-6c24-b6463188d266} openctf/newstar-2025:week2_small-function
+> ```
+> </details>
+
 > <details><summary><strong>FLAG:</strong> 动态</summary>
 > </details>
 
@@ -51,6 +83,14 @@ Key 在冒险时误入了一个秘境，这里设有一种名为 sandbox 的阵�
 | 出题人 | 难度 | 附件 | 环境镜像 | 端口 |
 |-----|-----|-----|-----|-----|
 | daimi | 困难 | [w2.pwn.calc-beta.zip](https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment-week2/w2.pwn.calc-beta.zip) | [newstar-2025:week2_calc-beta](https://hub.docker.com/r/openctf/newstar-2025/tags?name=week2_calc-beta) | `1337` |
+
+> <details><summary><strong>Docker 启动命令:</strong> <i>点此展开/收起</i></summary>
+>
+> ```bash
+> # nc 127.0.0.1 1337
+> docker run -itd --rm --name w2_calc_beta -p 1337:1337 -e ICQ_FLAG=flag{117cd141-9ae9-6a72-74a1-311b7e215f2b} openctf/newstar-2025:week2_calc-beta
+> ```
+> </details>
 
 > <details><summary><strong>FLAG:</strong> 动态</summary>
 > </details>

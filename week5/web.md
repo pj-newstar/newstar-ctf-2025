@@ -6,6 +6,14 @@
 |-----|-----|-----|-----|
 | 归茛 | 中等 | [newstar-2025:week5_broken-ai](https://hub.docker.com/r/openctf/newstar-2025/tags?name=week5_broken-ai) | `80` |
 
+> <details><summary><strong>Docker 启动命令:</strong> <i>点此展开/收起</i></summary>
+>
+> ```bash
+> # http://127.0.0.1:80
+> docker run -itd --rm --name w5_broken_ai -p 80:80 -e ICQ_FLAG=flag{cc7214f2-7c2b-412c-ca22-91466438f884} openctf/newstar-2025:week5_broken-ai
+> ```
+> </details>
+
 > <details><summary><strong>FLAG:</strong> 动态</summary>
 > </details>
 
@@ -17,6 +25,14 @@
 |-----|-----|-----|-----|-----|
 | sanjio | 困难 | [w5.web.abandoned-site.zip](https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment-week5/w5.web.abandoned-site.zip) | [newstar-2025:week5_abandoned-site](https://hub.docker.com/r/openctf/newstar-2025/tags?name=week5_abandoned-site) | `5000` |
 
+> <details><summary><strong>Docker 启动命令:</strong> <i>点此展开/收起</i></summary>
+>
+> ```bash
+> # http://127.0.0.1:5000
+> docker run -itd --rm --name w5_abandoned_website -p 5000:5000 -e ICQ_FLAG=flag{d0d0b6c4-1f18-a2ed-b6dd-7d518fc50626} openctf/newstar-2025:week5_abandoned-site
+> ```
+> </details>
+
 > <details><summary><strong>FLAG:</strong> 动态</summary>
 > </details>
 
@@ -27,6 +43,14 @@
 | 出题人 | 难度 | 附件 | 环境镜像 | 端口 |
 |-----|-----|-----|-----|-----|
 | KAMIYA | 困难 | [w5.web.w-k-story-final.zip](https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment-week5/w5.web.w-k-story-final.zip) | [newstar-2025:week5_wk-story-final](https://hub.docker.com/r/openctf/newstar-2025/tags?name=week5_wk-story-final) | `3000` |
+
+> <details><summary><strong>Docker 启动命令:</strong> <i>点此展开/收起</i></summary>
+>
+> ```bash
+> # http://127.0.0.1:3000
+> docker run -itd --rm --name w5_wk_story_final -p 3000:3000 -e ICQ_FLAG=flag{b49c020a-965a-e485-0904-fe61d323a7c6} openctf/newstar-2025:week5_wk-story-final
+> ```
+> </details>
 
 > <details><summary><strong>FLAG:</strong> 动态</summary>
 > </details>
@@ -44,6 +68,14 @@
 |-----|-----|-----|-----|-----|
 | KAMIYA | 困难 | [w5.web.familiar-calc.zip](https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment-week5/w5.web.familiar-calc.zip) | [newstar-2025:week5_familiar-calc](https://hub.docker.com/r/openctf/newstar-2025/tags?name=week5_familiar-calc) | `9999` |
 
+> <details><summary><strong>Docker 启动命令:</strong> <i>点此展开/收起</i></summary>
+>
+> ```bash
+> # http://127.0.0.1:9999
+> docker run -itd --rm --name w5_familiar_calc -p 9999:9999 -e ICQ_FLAG=flag{81d5c7e2-71b0-3cf3-43be-120d919575e1} openctf/newstar-2025:week5_familiar-calc
+> ```
+> </details>
+
 > <details><summary><strong>FLAG:</strong> 动态</summary>
 > </details>
 
@@ -54,6 +86,14 @@
 | 出题人 | 难度 | 环境镜像 | 端口 |
 |-----|-----|-----|-----|
 | 归茛 | 困难 | [newstar-2025:week5_binary-blog](https://hub.docker.com/r/openctf/newstar-2025/tags?name=week5_binary-blog) | `80` |
+
+> <details><summary><strong>Docker 启动命令:</strong> <i>点此展开/收起</i></summary>
+>
+> ```bash
+> # http://127.0.0.1:80
+> docker run -itd --rm --name w5_binary_blog -p 80:80 -e ICQ_FLAG=flag{aff75a67-e0bc-8f15-40d8-cad62ad74ec6} openctf/newstar-2025:week5_binary-blog
+> ```
+> </details>
 
 > <details><summary><strong>FLAG:</strong> 动态</summary>
 > </details>

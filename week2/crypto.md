@@ -30,6 +30,14 @@ SageMath 中好像有现成的工具？
 |-----|-----|-----|-----|-----|
 | Cathylin | 中等 | [w2.cry.group-theory-quiz.rar](https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment-week2/w2.cry.group-theory-quiz.rar) | [newstar-2025:week2_group-theory](https://hub.docker.com/r/openctf/newstar-2025/tags?name=week2_group-theory) | `7079` |
 
+> <details><summary><strong>Docker 启动命令:</strong> <i>点此展开/收起</i></summary>
+>
+> ```bash
+> # nc 127.0.0.1 7079
+> docker run -itd --rm --name w2_group_theory -p 7079:7079 openctf/newstar-2025:week2_group-theory
+> ```
+> </details>
+
 > <details><summary><strong>FLAG:</strong> <i>点此展开/收起</i></summary>
 > <code>flag{I_v3_b3c0m3_@n_e^3Rt_in_gr0up_7h30ry_@Ft3r_5o1ving_7hi5_+++bl3m!!!}</code>
 > </details>

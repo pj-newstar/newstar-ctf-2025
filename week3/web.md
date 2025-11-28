@@ -6,6 +6,14 @@
 |-----|-----|-----|-----|
 | ENOCH | 简单 | [newstar-2025:week3_e-secret-plan](https://hub.docker.com/r/openctf/newstar-2025/tags?name=week3_e-secret-plan) | `80` |
 
+> <details><summary><strong>Docker 启动命令:</strong> <i>点此展开/收起</i></summary>
+>
+> ```bash
+> # http://127.0.0.1:80
+> docker run -itd --rm --name w3_e_secret_plan -p 80:80 -e ICQ_FLAG=flag{34faed62-2c96-e314-f2cb-08399e3904a4} openctf/newstar-2025:week3_e-secret-plan
+> ```
+> </details>
+
 > <details><summary><strong>FLAG:</strong> 动态</summary>
 > </details>
 
@@ -16,6 +24,14 @@
 | 出题人 | 难度 | 环境镜像 | 端口 |
 |-----|-----|-----|-----|
 | D0ubleD | 简单 | [newstar-2025:week3_ez-chain](https://hub.docker.com/r/openctf/newstar-2025/tags?name=week3_ez-chain) | `80` |
+
+> <details><summary><strong>Docker 启动命令:</strong> <i>点此展开/收起</i></summary>
+>
+> ```bash
+> # http://127.0.0.1:80
+> docker run -itd --rm --name w3_ez_chain -p 80:80 -e ICQ_FLAG=flag{411e9009-7c3c-1fc9-19cf-c5599041d675} openctf/newstar-2025:week3_ez-chain
+> ```
+> </details>
 
 > <details><summary><strong>FLAG:</strong> 动态</summary>
 > </details>
@@ -28,6 +44,14 @@
 |-----|-----|-----|-----|
 | rea1ity | 简单 | [newstar-2025:week3_mygo](https://hub.docker.com/r/openctf/newstar-2025/tags?name=week3_mygo) | `80` |
 
+> <details><summary><strong>Docker 启动命令:</strong> <i>点此展开/收起</i></summary>
+>
+> ```bash
+> # http://127.0.0.1:80
+> docker run -itd --rm --name w3_mygo -p 80:80 -e ICQ_FLAG=flag{5beaeb0a-b869-41c1-c5a4-5a22cd99174f} openctf/newstar-2025:week3_mygo
+> ```
+> </details>
+
 > <details><summary><strong>FLAG:</strong> 动态</summary>
 > </details>
 
@@ -38,6 +62,14 @@ MyGo 的音乐好好听，要全部下下来，FLAG 也可以顺手（
 | 出题人 | 难度 | 环境镜像 | 端口 |
 |-----|-----|-----|-----|
 | KAMIYA | 中等 | [newstar-2025:week3_whitek2](https://hub.docker.com/r/openctf/newstar-2025/tags?name=week3_whitek2) | `80` |
+
+> <details><summary><strong>Docker 启动命令:</strong> <i>点此展开/收起</i></summary>
+>
+> ```bash
+> # http://127.0.0.1:80
+> docker run -itd --rm --name w3_whitek2 -p 80:80 -e ICQ_FLAG=flag{52353c3f-e46d-f419-fec8-58e506970a4d} openctf/newstar-2025:week3_whitek2
+> ```
+> </details>
 
 > <details><summary><strong>FLAG:</strong> 动态</summary>
 > </details>
@@ -52,6 +84,14 @@ MyGo 的音乐好好听，要全部下下来，FLAG 也可以顺手（
 |-----|-----|-----|-----|
 | Icesugar | 中等 | [newstar-2025:week3_mirror-gate](https://hub.docker.com/r/openctf/newstar-2025/tags?name=week3_mirror-gate) | `80` |
 
+> <details><summary><strong>Docker 启动命令:</strong> <i>点此展开/收起</i></summary>
+>
+> ```bash
+> # http://127.0.0.1:80
+> docker run -itd --rm --name w3_mirror_gate -p 80:80 -e ICQ_FLAG=flag{8c4d1d5b-3457-74bc-268d-34e5ea0e3271} openctf/newstar-2025:week3_mirror-gate
+> ```
+> </details>
+
 > <details><summary><strong>FLAG:</strong> 动态</summary>
 > </details>
 
@@ -64,6 +104,14 @@ MyGo 的音乐好好听，要全部下下来，FLAG 也可以顺手（
 | 出题人 | 难度 | 附件 | 环境镜像 | 端口 |
 |-----|-----|-----|-----|-----|
 | KAMIYA | 中等 | [w3.web.whossti.zip](https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment-week3/w3.web.whossti.zip) | [newstar-2025:week3_whossti](https://hub.docker.com/r/openctf/newstar-2025/tags?name=week3_whossti) | `80` |
+
+> <details><summary><strong>Docker 启动命令:</strong> <i>点此展开/收起</i></summary>
+>
+> ```bash
+> # http://127.0.0.1:80
+> docker run -itd --rm --name w3_whossti -p 80:80 -e ICQ_FLAG=flag{5c0757fa-c289-44c2-561c-2a519d16ecaf} openctf/newstar-2025:week3_whossti
+> ```
+> </details>
 
 > <details><summary><strong>FLAG:</strong> 动态</summary>
 > </details>

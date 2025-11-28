@@ -69,6 +69,14 @@ FLAG 格式：`flag{文件内容}`
 |-----|-----|-----|-----|
 | Mrsh | 困难 | [newstar-2025:week5_ai-hacker](https://hub.docker.com/r/openctf/newstar-2025/tags?name=week5_ai-hacker) | `5052` |
 
+> <details><summary><strong>Docker 启动命令:</strong> <i>点此展开/收起</i></summary>
+>
+> ```bash
+> # http://127.0.0.1:5052
+> docker run -itd --rm --name w5_ai_hacker -p 5052:5052 -e CLEAN_UP_INTERVAL=3600 openctf/newstar-2025:week5_ai-hacker
+> ```
+> </details>
+
 > <details><summary><strong>FLAG:</strong> <i>点此展开/收起</i></summary>
 > <code>flag{C00l!_e45y_CVE_WITH_FUNNY_DLG}</code>
 > </details>

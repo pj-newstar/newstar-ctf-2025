@@ -6,6 +6,14 @@
 |-----|-----|-----|-----|
 | Th3S | [ext.pwn.llama-hack.7z](https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment-extras/ext.pwn.llama-hack.7z) | [newstar-2025:extra_llama-pwn](https://hub.docker.com/r/openctf/newstar-2025/tags?name=extra_llama-pwn) | `50052` |
 
+> <details><summary><strong>Docker 启动命令:</strong> <i>点此展开/收起</i></summary>
+>
+> ```bash
+> # nc 127.0.0.1 50052
+> docker run -itd --rm --name ext_llama_pwn -p 50052:50052 -e ICQ_FLAG=flag{81e32e81-2644-d685-3a61-7d9e807d6633} openctf/newstar-2025:extra_llama-pwn
+> ```
+> </details>
+
 > <details><summary><strong>FLAG:</strong> 动态</summary>
 > </details>
 
@@ -29,6 +37,14 @@ LLM怎么还能溢出？
 |-----|-----|-----|-----|
 | KAMIYA | [ext.web.whossti-revenge.zip](https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment-extras/ext.web.whossti-revenge.zip) | [newstar-2025:extra_whossti](https://hub.docker.com/r/openctf/newstar-2025/tags?name=extra_whossti) | `5000` |
 
+> <details><summary><strong>Docker 启动命令:</strong> <i>点此展开/收起</i></summary>
+>
+> ```bash
+> # http://127.0.0.1:5000
+> docker run -itd --rm --name ext_whossti -p 5000:5000 -e ICQ_FLAG=flag{22ad78cb-8cbe-766f-c04c-c05d98570ee4} openctf/newstar-2025:extra_whossti
+> ```
+> </details>
+
 > <details><summary><strong>FLAG:</strong> 动态</summary>
 > </details>
 
@@ -39,6 +55,14 @@ LLM怎么还能溢出？
 | 出题人 | 环境镜像 | 端口 |
 |-----|-----|-----|
 | Cathylin | [newstar-2025:extra_blackbox](https://hub.docker.com/r/openctf/newstar-2025/tags?name=extra_blackbox) | `10721` |
+
+> <details><summary><strong>Docker 启动命令:</strong> <i>点此展开/收起</i></summary>
+>
+> ```bash
+> # nc 127.0.0.1 10721
+> docker run -itd --rm --name ext_blackbox -p 10721:10721 openctf/newstar-2025:extra_blackbox
+> ```
+> </details>
 
 > <details><summary><strong>FLAG:</strong> <i>点此展开/收起</i></summary>
 > <code>flag{4n_4u7om0rphi5m_15_4150_4n_i50m0rphi5m.}</code>
@@ -142,6 +166,14 @@ MT19.937，哇哦
 |-----|-----|-----|
 | Cathylin | [newstar-2025:extra_luck-skill](https://hub.docker.com/r/openctf/newstar-2025/tags?name=extra_luck-skill) | `10666` |
 
+> <details><summary><strong>Docker 启动命令:</strong> <i>点此展开/收起</i></summary>
+>
+> ```bash
+> # nc 127.0.0.1 10666
+> docker run -itd --rm --name ext_luck_skill -p 10666:10666 openctf/newstar-2025:extra_luck-skill
+> ```
+> </details>
+
 > <details><summary><strong>FLAG:</strong> <i>点此展开/收起</i></summary>
 > <code>flag{+++++++++++You_are_very_lucky.++++++++++}</code>
 > </details>
@@ -153,6 +185,14 @@ MT19.937，哇哦
 | 出题人 | 环境镜像 | 端口 |
 |-----|-----|-----|
 | Cathylin | [newstar-2025:extra_perm-dlp](https://hub.docker.com/r/openctf/newstar-2025/tags?name=extra_perm-dlp) | `10666` |
+
+> <details><summary><strong>Docker 启动命令:</strong> <i>点此展开/收起</i></summary>
+>
+> ```bash
+> # nc 127.0.0.1 10666
+> docker run -itd --rm --name ext_perm_dlp -p 10666:10666 openctf/newstar-2025:extra_perm-dlp
+> ```
+> </details>
 
 > <details><summary><strong>FLAG:</strong> <i>点此展开/收起</i></summary>
 > <code>flag{D15cR3t3_lo94R1tHM__8Ut_1n_p3RmuT4T1on_9rOUp2__1t_c3RT41nlY_WO'Nt_83_D1fF1cuLt_4_U!}</code>

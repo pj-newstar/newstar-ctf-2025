@@ -34,6 +34,14 @@ Alice 使用 RSA 加密了一个重要消息，但攻击者通过侧信道攻击
 |-----|-----|-----|-----|-----|
 | Cathylin | 中等 | [w3.cry.lucky-birthday.rar](https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment-week3/w3.cry.lucky-birthday.rar) | [newstar-2025:week3_birthday](https://hub.docker.com/r/openctf/newstar-2025/tags?name=week3_birthday) | `10666` |
 
+> <details><summary><strong>Docker 启动命令:</strong> <i>点此展开/收起</i></summary>
+>
+> ```bash
+> # nc 127.0.0.1 10666
+> docker run -itd --rm --name w3_birthday -p 10666:10666 openctf/newstar-2025:week3_birthday
+> ```
+> </details>
+
 > <details><summary><strong>FLAG:</strong> <i>点此展开/收起</i></summary>
 > <code>flag{-----you---are----so++++lucky+++++}</code>
 > </details>

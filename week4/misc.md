@@ -38,6 +38,14 @@ Sepolia 测试链水龙头地址：<https://sepolia-faucet.pk910.de/>
 |-----|-----|-----|-----|-----|
 | KAMIYA | 简单 | [w4.misc.jail-neuro.zip](https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment-week4/w4.misc.jail-neuro.zip) | [newstar-2025:week4_jail-neuro](https://hub.docker.com/r/openctf/newstar-2025/tags?name=week4_jail-neuro) | `9999` |
 
+> <details><summary><strong>Docker 启动命令:</strong> <i>点此展开/收起</i></summary>
+>
+> ```bash
+> # nc 127.0.0.1 9999
+> docker run -itd --rm --name w4_jail_neuro -p 9999:9999 -e ICQ_FLAG=flag{a1b2bbd4-9afc-c549-939a-cce3136ec376} openctf/newstar-2025:week4_jail-neuro
+> ```
+> </details>
+
 > <details><summary><strong>FLAG:</strong> 动态</summary>
 > </details>
 
@@ -51,6 +59,14 @@ Neuro 打 osu 的时候被关进 jail 了！一定是 Evil 干的，快点帮帮
 | 出题人 | 难度 | 环境镜像 | 端口 |
 |-----|-----|-----|-----|
 | willyz | 中等 | [newstar-2025:week4_chaotic-site](https://hub.docker.com/r/openctf/newstar-2025/tags?name=week4_chaotic-site) | `80` |
+
+> <details><summary><strong>Docker 启动命令:</strong> <i>点此展开/收起</i></summary>
+>
+> ```bash
+> # http://127.0.0.1:80
+> docker run -itd --rm --name w4_chaotic_website -p 80:80 openctf/newstar-2025:week4_chaotic-site
+> ```
+> </details>
 
 > <details><summary><strong>FLAG:</strong> <i>点此展开/收起</i></summary>
 > <code>flag{js_very_good_ns2025}</code>

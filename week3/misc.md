@@ -70,6 +70,14 @@
 |-----|-----|-----|-----|-----|
 | KAMIYA | 中等 | [w3.misc.jail-evil-eval.zip](https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment-week3/w3.misc.jail-evil-eval.zip) | [newstar-2025:week3_jail-evil-eval](https://hub.docker.com/r/openctf/newstar-2025/tags?name=week3_jail-evil-eval) | `9999` |
 
+> <details><summary><strong>Docker 启动命令:</strong> <i>点此展开/收起</i></summary>
+>
+> ```bash
+> # nc 127.0.0.1 9999
+> docker run -itd --rm --name w3_jail_evil_eval -p 9999:9999 -e ICQ_FLAG=flag{e0a667cd-3c9a-4ff6-9ba1-9df2d4acba0f} openctf/newstar-2025:week3_jail-evil-eval
+> ```
+> </details>
+
 > <details><summary><strong>FLAG:</strong> 动态</summary>
 > </details>
 

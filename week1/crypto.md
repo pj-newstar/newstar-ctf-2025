@@ -54,6 +54,14 @@
 |-----|-----|-----|-----|-----|
 | Cathylin | 中等 | [w1.cry.little-frog.rar](https://github.com/pj-newstar/newstar-ctf-2025/releases/download/attachment-week1/w1.cry.little-frog.rar) | [newstar-2025:week1_frog](https://hub.docker.com/r/openctf/newstar-2025/tags?name=week1_frog) | `10721` |
 
+> <details><summary><strong>Docker 启动命令:</strong> <i>点此展开/收起</i></summary>
+>
+> ```bash
+> # nc 127.0.0.1 10721
+> docker run -itd --rm --name w1_frog -p 10721:10721 openctf/newstar-2025:week1_frog
+> ```
+> </details>
+
 > <details><summary><strong>FLAG:</strong> <i>点此展开/收起</i></summary>
 > <code>flag{Go0d_j0b_t0_Cl34r_thi5_Diff3r3nt_t45k_4_u}</code>
 > </details>
