@@ -1,6 +1,6 @@
 # Reverse - Week 2
 
-## 尤皮·埃克斯历险记（1）
+## <a href="#-尤皮埃克斯历险记1"><img src="../_assets/reverse.svg" height="20px" /></a> 尤皮·埃克斯历险记（1）
 
 | 出题人 | 难度 | 附件 |
 |-----|-----|-----|
@@ -16,7 +16,7 @@
 
 「我『尤皮·埃克斯』盔甲非常精良，能保护我不被刀剑所伤，还会自动阻止试图解析我的盔甲的特殊能力的人！如果你不信，就来试试挑战我吧！」
 
-## 采一朵花，送给艾达（1）
+## <a href="#-采一朵花送给艾达1"><img src="../_assets/reverse.svg" height="20px" /></a> 采一朵花，送给艾达（1）
 
 | 出题人 | 难度 | 附件 |
 |-----|-----|-----|
@@ -30,7 +30,7 @@
 
 IDA 反汇编不出来，躺赢狗😡！
 
-## Forgotten_Code
+## <a href="#-forgotten_code"><img src="../_assets/reverse.svg" height="20px" /></a> Forgotten_Code
 
 | 出题人 | 难度 | 附件 |
 |-----|-----|-----|
@@ -42,7 +42,7 @@ IDA 反汇编不出来，躺赢狗😡！
 
 在清理一台古老服务器的硬盘时，我们发现了这个来自旧时代的编程遗迹。当时的开发者喜欢与机器直接对话。我们很难直接解读它，但也许你能重新整理这份文件，让你手上的工具再次发挥作用……
 
-## Look at me carefully
+## <a href="#-look-at-me-carefully"><img src="../_assets/reverse.svg" height="20px" /></a> Look at me carefully
 
 | 出题人 | 难度 | 附件 |
 |-----|-----|-----|
@@ -54,7 +54,7 @@ IDA 反汇编不出来，躺赢狗😡！
 
 真的需要仔细看吗？
 
-## OhNativeEnc
+## <a href="#-ohnativeenc"><img src="../_assets/reverse.svg" height="20px" /></a> OhNativeEnc
 
 | 出题人 | 难度 | 附件 |
 |-----|-----|-----|

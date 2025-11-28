@@ -1,6 +1,6 @@
 # Misc - Week 5
 
-## 区块链：INTbug
+## <a href="#-区块链intbug"><img src="../_assets/misc.svg" height="20px" /></a> 区块链：INTbug
 
 | 出题人 | 难度 | 附件 |
 |-----|-----|-----|
@@ -12,7 +12,7 @@
 
 合约地址：`0xB6748b3B308b382E28438cc72872e2D70369D90b`
 
-## 应急响应：把你 mikumiku 掉（1）
+## <a href="#-应急响应把你-mikumiku-掉1"><img src="../_assets/misc.svg" height="20px" /></a> 应急响应：把你 mikumiku 掉（1）
 
 | 出题人 | 难度 | 附件 |
 |-----|-----|-----|
@@ -34,7 +34,7 @@
 
 FLAG 格式：`flag{漏洞编号}`
 
-## 应急响应：把你 mikumiku 掉（2）
+## <a href="#-应急响应把你-mikumiku-掉2"><img src="../_assets/misc.svg" height="20px" /></a> 应急响应：把你 mikumiku 掉（2）
 
 | 出题人 | 难度 | 附件 |
 |-----|-----|-----|
@@ -49,7 +49,7 @@ FLAG 格式：`flag{木马连接密码_恶意用户密码}`
 > [!TIP]
 > 用户密码是六位特定范围内的字母构成。
 
-## 应急响应：把你 mikumiku 掉（3）
+## <a href="#-应急响应把你-mikumiku-掉3"><img src="../_assets/misc.svg" height="20px" /></a> 应急响应：把你 mikumiku 掉（3）
 
 | 出题人 | 难度 | 附件 |
 |-----|-----|-----|
@@ -63,7 +63,7 @@ FLAG 格式：`flag{木马连接密码_恶意用户密码}`
 
 FLAG 格式：`flag{文件内容}`
 
-## AI HACKER
+## <a href="#-ai-hacker"><img src="../_assets/misc.svg" height="20px" /></a> AI HACKER
 
 | 出题人 | 难度 | 环境镜像 | 端口 |
 |-----|-----|-----|-----|
@@ -80,7 +80,7 @@ Paper: [Deep Leakage from Gradients](https://arxiv.org/abs/1906.08935)
 > [!TIP]
 > 访问靶机的 `/flag` 路径获取题目任务
 
-## TIME HACKER
+## <a href="#-time-hacker"><img src="../_assets/misc.svg" height="20px" /></a> TIME HACKER
 
 | 出题人 | 难度 | 附件 |
 |-----|-----|-----|

@@ -1,6 +1,6 @@
 # Pwn - Week 2
 
-## 刻在栈里的秘密
+## <a href="#-刻在栈里的秘密"><img src="../_assets/pwn.svg" height="20px" /></a> 刻在栈里的秘密
 
 | 出题人 | 难度 | 环境镜像 | 端口 |
 |-----|-----|-----|-----|
@@ -13,7 +13,7 @@
 
 你能设计一份别有用心的菜单，让他念着念着，就把秘密房间的密码念给你听吗？
 
-## no shell
+## <a href="#-no-shell"><img src="../_assets/pwn.svg" height="20px" /></a> no shell
 
 | 出题人 | 难度 | 附件 | 环境镜像 | 端口 |
 |-----|-----|-----|-----|-----|
@@ -24,7 +24,7 @@
 
 Key 在冒险时误入了一个秘境，这里设有一种名为 sandbox 的阵法，他发现不能再像以前一样夺取秘境控制权，但是他仍然发现了获取 FLAG 的方法。
 
-## syscall
+## <a href="#-syscall"><img src="../_assets/pwn.svg" height="20px" /></a> syscall
 
 | 出题人 | 难度 | 附件 | 环境镜像 | 端口 |
 |-----|-----|-----|-----|-----|
@@ -35,7 +35,7 @@ Key 在冒险时误入了一个秘境，这里设有一种名为 sandbox 的阵�
 
 远在 Hong Kong 的朋友常说「虽然世界给他关上了门，但同时又开了一扇窗」
 
-## input_small_function
+## <a href="#-input_small_function"><img src="../_assets/pwn.svg" height="20px" /></a> input_small_function
 
 | 出题人 | 难度 | 附件 | 环境镜像 | 端口 |
 |-----|-----|-----|-----|-----|
@@ -46,7 +46,7 @@ Key 在冒险时误入了一个秘境，这里设有一种名为 sandbox 的阵�
 
 为什么能输入的字符这么少？
 
-## calc_beta
+## <a href="#-calc_beta"><img src="../_assets/pwn.svg" height="20px" /></a> calc_beta
 
 | 出题人 | 难度 | 附件 | 环境镜像 | 端口 |
 |-----|-----|-----|-----|-----|

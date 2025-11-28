@@ -1,6 +1,6 @@
 # Crypto - Week 2
 
-## DLP_1
+## <a href="#-dlp_1"><img src="../_assets/crypto.svg" height="20px" /></a> DLP_1
 
 | 出题人 | 难度 | 附件 |
 |-----|-----|-----|
@@ -12,7 +12,7 @@
 
 SageMath 中好像有现成的工具？
 
-## FHE: 0&1
+## <a href="#-fhe-01"><img src="../_assets/crypto.svg" height="20px" /></a> FHE: 0&1
 
 | 出题人 | 难度 | 附件 |
 |-----|-----|-----|
@@ -24,7 +24,7 @@ SageMath 中好像有现成的工具？
 
 千里之堤，溃于蚁穴。
 
-## 群论小测试
+## <a href="#-群论小测试"><img src="../_assets/crypto.svg" height="20px" /></a> 群论小测试
 
 | 出题人 | 难度 | 附件 | 环境镜像 | 端口 |
 |-----|-----|-----|-----|-----|
@@ -36,7 +36,7 @@ SageMath 中好像有现成的工具？
 
 扣「循环群」变成群论高手。
 
-## 置换
+## <a href="#-置换"><img src="../_assets/crypto.svg" height="20px" /></a> 置换
 
 | 出题人 | 难度 | 附件 |
 |-----|-----|-----|
@@ -51,7 +51,7 @@ SageMath 中好像有现成的工具？
 > [!TIP]
 > 把解密出的文本用 `flag{}` 裹上提交
 
-## RSA_revenge
+## <a href="#-rsa_revenge"><img src="../_assets/crypto.svg" height="20px" /></a> RSA_revenge
 
 | 出题人 | 难度 | 附件 |
 |-----|-----|-----|

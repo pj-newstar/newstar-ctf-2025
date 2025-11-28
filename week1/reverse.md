@@ -1,6 +1,6 @@
 # Reverse - Week 1
 
-## X0r
+## <a href="#-x0r"><img src="../_assets/reverse.svg" height="20px" /></a> X0r
 
 | 出题人 | 附件 |
 |-----|-----|
@@ -12,7 +12,7 @@
 
 no xor，no encrypt.
 
-## EzMyDroid
+## <a href="#-ezmydroid"><img src="../_assets/reverse.svg" height="20px" /></a> EzMyDroid
 
 | 出题人 | 难度 | 附件 |
 |-----|-----|-----|
@@ -24,7 +24,7 @@ no xor，no encrypt.
 
 普普通通的安卓逆向，请准备好 Jadx.
 
-## Puzzle
+## <a href="#-puzzle"><img src="../_assets/reverse.svg" height="20px" /></a> Puzzle
 
 | 出题人 | 难度 | 附件 |
 |-----|-----|-----|
@@ -36,7 +36,7 @@ no xor，no encrypt.
 
 咦？存在于这个程序中的 FLAG 貌似被人打碎了。你能找到 FLAG 的碎片并拼凑出完整的 FLAG 吗？
 
-## plzdebugme
+## <a href="#-plzdebugme"><img src="../_assets/reverse.svg" height="20px" /></a> plzdebugme
 
 | 出题人 | 难度 | 附件 |
 |-----|-----|-----|
@@ -48,7 +48,7 @@ no xor，no encrypt.
 
 动态调试是学习逆向必不可少的一部分 :)
 
-## Strange Base
+## <a href="#-strange-base"><img src="../_assets/reverse.svg" height="20px" /></a> Strange Base
 
 | 出题人 | 难度 | 附件 |
 |-----|-----|-----|

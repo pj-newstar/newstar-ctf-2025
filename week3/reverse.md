@@ -1,6 +1,6 @@
 # Reverse - Week 3
 
-## pyz3
+## <a href="#-pyz3"><img src="../_assets/reverse.svg" height="20px" /></a> pyz3
 
 | 出题人 | 难度 | 附件 |
 |-----|-----|-----|
@@ -12,7 +12,7 @@
 
 这一坨是什么啊，如果有约束求解器就好了……
 
-## 采一朵花，送给艾达（2）
+## <a href="#-采一朵花送给艾达2"><img src="../_assets/reverse.svg" height="20px" /></a> 采一朵花，送给艾达（2）
 
 | 出题人 | 难度 | 附件 |
 |-----|-----|-----|
@@ -34,7 +34,7 @@ IDA IDA，你看，有花😊
 
 很好玩而已呀😭
 
-## 谁改了我的密钥啊
+## <a href="#-谁改了我的密钥啊"><img src="../_assets/reverse.svg" height="20px" /></a> 谁改了我的密钥啊
 
 | 出题人 | 难度 | 附件 |
 |-----|-----|-----|
@@ -46,7 +46,7 @@ IDA IDA，你看，有花😊
 
 你知道 `so` 加载会执行哪些函数吗？
 
-## 尤皮·埃克斯历险记（2）
+## <a href="#-尤皮埃克斯历险记2"><img src="../_assets/reverse.svg" height="20px" /></a> 尤皮·埃克斯历险记（2）
 
 | 出题人 | 难度 | 附件 |
 |-----|-----|-----|
@@ -62,7 +62,7 @@ IDA IDA，你看，有花😊
 
 「一言难尽，我中了敌人的『平坦化』和『字符替换』诅咒，现在的我不仅被『降维打击』了，甚至也无法解析我自己的盔甲了，你能帮帮我吗？」
 
-## Dancing Functions
+## <a href="#-dancing-functions"><img src="../_assets/reverse.svg" height="20px" /></a> Dancing Functions
 
 | 出题人 | 难度 | 附件 |
 |-----|-----|-----|

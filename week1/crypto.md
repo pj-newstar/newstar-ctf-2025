@@ -1,6 +1,6 @@
 # Crypto - Week 1
 
-## 初识 RSA
+## <a href="#-初识-rsa"><img src="../_assets/crypto.svg" height="20px" /></a> 初识 RSA
 
 | 出题人 | 难度 | 附件 |
 |-----|-----|-----|
@@ -12,7 +12,7 @@
 
 好像很标准，又好像不太标准（MD5 码怎么解呢？好像有在线工具）
 
-## 随机数之旅 1
+## <a href="#-随机数之旅-1"><img src="../_assets/crypto.svg" height="20px" /></a> 随机数之旅 1
 
 | 出题人 | 难度 | 附件 |
 |-----|-----|-----|
@@ -24,7 +24,7 @@
 
 真正的大中衔接 belike.
 
-## SageMath 使用指南
+## <a href="#-sagemath-使用指南"><img src="../_assets/crypto.svg" height="20px" /></a> SageMath 使用指南
 
 | 出题人 | 难度 | 附件 |
 |-----|-----|-----|
@@ -36,7 +36,7 @@
 
 使用 SageMath 运行程序以获得 FLAG.
 
-## 唯一表示
+## <a href="#-唯一表示"><img src="../_assets/crypto.svg" height="20px" /></a> 唯一表示
 
 | 出题人 | 难度 | 附件 |
 |-----|-----|-----|
@@ -48,7 +48,7 @@
 
 不要把鸡蛋放在同一个篮子里。
 
-## 小跳蛙
+## <a href="#-小跳蛙"><img src="../_assets/crypto.svg" height="20px" /></a> 小跳蛙
 
 | 出题人 | 难度 | 附件 |
 |-----|-----|-----|

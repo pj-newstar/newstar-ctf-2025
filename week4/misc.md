@@ -1,6 +1,6 @@
 # Misc - Week 4
 
-## 流量分析：听声辩位
+## <a href="#-流量分析听声辩位"><img src="../_assets/misc.svg" height="20px" /></a> 流量分析：听声辩位
 
 | 出题人 | 难度 | 附件 |
 |-----|-----|-----|
@@ -14,7 +14,7 @@
 
 城邦捕获了海豚们集结出发时的声音，现在需要挑战者通过声音大小的判断来确定是哪些海豚出行。
 
-## 区块链：智能合约
+## <a href="#-区块链智能合约"><img src="../_assets/misc.svg" height="20px" /></a> 区块链：智能合约
 
 | 出题人 | 难度 | 附件 |
 |-----|-----|-----|
@@ -32,7 +32,7 @@
 
 Sepolia 测试链水龙头地址：<https://sepolia-faucet.pk910.de/>
 
-## jail-Neuro jail
+## <a href="#-jail-neuro-jail"><img src="../_assets/misc.svg" height="20px" /></a> jail-Neuro jail
 
 | 出题人 | 难度 | 附件 | 环境镜像 | 端口 |
 |-----|-----|-----|-----|-----|
@@ -46,7 +46,7 @@ Neuro 打 osu 的时候被关进 jail 了！一定是 Evil 干的，快点帮帮
 > [!TIP]
 > 如果在 Windows 操作系统出现乱码问题，请在终端输入 `chcp 65001`
 
-## 混乱的网站
+## <a href="#-混乱的网站"><img src="../_assets/misc.svg" height="20px" /></a> 混乱的网站
 
 | 出题人 | 难度 | 环境镜像 | 端口 |
 |-----|-----|-----|-----|
@@ -60,7 +60,7 @@ Neuro 打 osu 的时候被关进 jail 了！一定是 Evil 干的，快点帮帮
 
 FLAG 格式：`flag{flag1_flag2}`
 
-## 应急响应：初识
+## <a href="#-应急响应初识"><img src="../_assets/misc.svg" height="20px" /></a> 应急响应：初识
 
 | 出题人 | 难度 | 附件 |
 |-----|-----|-----|

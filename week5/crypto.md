@@ -1,6 +1,6 @@
 # Crypto - Week 5
 
-## 不给你看喵
+## <a href="#-不给你看喵"><img src="../_assets/crypto.svg" height="20px" /></a> 不给你看喵
 
 | 出题人 | 难度 | 附件 | 环境镜像 | 端口 |
 |-----|-----|-----|-----|-----|
@@ -12,7 +12,7 @@
 
 不告诉你喵
 
-## BLS 多重签名：零的裂变
+## <a href="#-bls-多重签名零的裂变"><img src="../_assets/crypto.svg" height="20px" /></a> BLS 多重签名：零的裂变
 
 | 出题人 | 难度 | 附件 | 环境镜像 | 端口 |
 |-----|-----|-----|-----|-----|
@@ -32,7 +32,7 @@
 1. 使用 3 个公钥对消息 `get_flag` 进行签名，其中 2 个公钥由你注册控制
 2. 聚合公钥必须等于服务器的固定公钥，聚合签名验证通过
 
-## Poly
+## <a href="#-poly"><img src="../_assets/crypto.svg" height="20px" /></a> Poly
 
 | 出题人 | 难度 | 附件 |
 |-----|-----|-----|
@@ -44,7 +44,7 @@
 
 What's the gcd of three polynomials?
 
-## Smile 盒
+## <a href="#-smile-盒"><img src="../_assets/crypto.svg" height="20px" /></a> Smile 盒
 
 | 出题人 | 难度 | 附件 | 环境镜像 | 端口 |
 |-----|-----|-----|-----|-----|

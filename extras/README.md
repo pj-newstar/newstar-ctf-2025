@@ -23,7 +23,7 @@ LLM怎么还能溢出？
 
 你知道非对称加密吗？
 
-## <a href="#-who'ssti-revenge"><img src="../_assets/web.svg" height="20px" /></a> who'ssti revenge
+## <a href="#-whossti-revenge"><img src="../_assets/web.svg" height="20px" /></a> who'ssti revenge
 
 | 出题人 | 附件 | 环境镜像 | 端口 |
 |-----|-----|-----|-----|

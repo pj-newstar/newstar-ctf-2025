@@ -1,6 +1,6 @@
 # Misc - Week 1
 
-## Sign in
+## <a href="#-sign-in"><img src="../_assets/misc.svg" height="20px" /></a> Sign in
 
 | 出题人 |
 |-----|
@@ -20,7 +20,7 @@
 
 `flag{Welcome_to_NewStar_CTF_2025!}`
 
-## 我不要革命失败
+## <a href="#-我不要革命失败"><img src="../_assets/misc.svg" height="20px" /></a> 我不要革命失败
 
 | 出题人 | 难度 | 附件 |
 |-----|-----|-----|
@@ -32,7 +32,7 @@
 
 小吉的机械革命笔记本又双叒叕蓝屏了！这次他不想再坐以待毙！他发来了他在 `C:\Windows\Minidump\` 下的蓝屏文件，请你帮忙分析一下，让机革摆脱舍友的歧视。听说大伙看蓝屏日志都用的是 WinDbg，操作也很简单，好像要敲什么 `!analyze -v`？
 
-## Misc 城邦：压缩术
+## <a href="#-misc-城邦压缩术"><img src="../_assets/misc.svg" height="20px" /></a> Misc 城邦：压缩术
 
 | 出题人 | 难度 | 附件 |
 |-----|-----|-----|
@@ -46,7 +46,7 @@
 
 （要想使用压缩术，请先念咒语 `abcd...xyz0123...789`）
 
-## OSINT：天空 belong
+## <a href="#-osint天空-belong"><img src="../_assets/misc.svg" height="20px" /></a> OSINT：天空 belong
 
 | 出题人 | 难度 | 附件 |
 |-----|-----|-----|
@@ -66,7 +66,7 @@ OSINT 是指通过公开可获取的信息源收集、分析和利用数据从�
 >
 > 例：`flag{AB1234_北京市_Huawei}`
 
-## EZ_fence
+## <a href="#-ez_fence"><img src="../_assets/misc.svg" height="20px" /></a> EZ_fence
 
 | 出题人 | 难度 | 附件 |
 |-----|-----|-----|
@@ -78,7 +78,7 @@ OSINT 是指通过公开可获取的信息源收集、分析和利用数据从�
 
 RAR 发现一张残缺的照片竟然需 要 4 颗钉子才能钉住，照片里面似乎藏着秘密。
 
-## 前有文字，所以搜索很有用
+## <a href="#-前有文字所以搜索很有用"><img src="../_assets/misc.svg" height="20px" /></a> 前有文字，所以搜索很有用
 
 | 出题人 | 难度 | 附件 |
 |-----|-----|-----|
